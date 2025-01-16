@@ -1,0 +1,163 @@
+[2024-05-17 14:06:36,913][mephisto.utils.metrics][WARNING] - Prometheus PID existed, but server doesn't appear to be up.
+[2024-05-17 14:06:36,917][mephisto.utils.metrics][WARNING] - Clearing prometheus pid as the server isn't running. Use `shutdown_prometheus_server` in the future for proper cleanup.
+[2024-05-17 14:06:36,919][mephisto.utils.metrics][INFO] - Prometheus server launched at process 20511
+[2024-05-17 14:06:37,219][mephisto.operations.operator][INFO] - Creating a task run under task name: word-sentiment
+[2024-05-17 14:06:38,486][sh.command][INFO] - <Command '/usr/bin/rm -rf /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/97/build/router', pid 20540>: process started
+[2024-05-17 14:06:40,040][sh.command][INFO] - <Command '/usr/bin/rm -rf /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/97/build/router', pid 20552>: process started
+[2024-05-17 14:06:40,093][mephisto.operations.client_io_handler][INFO] - Sending alive
+[2024-05-17 14:06:40,094][mephisto.operations.client_io_handler][INFO] - Sending alive
+[2024-05-17 14:06:40,132][mephisto.operations.client_io_handler][INFO] - Sending alive
+[2024-05-17 14:06:40,133][mephisto.abstractions.architects.channels.websocket_channel][INFO] - channel open
+[2024-05-17 14:06:40,397][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:06:50,416][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3529 for assignment 1333
+[2024-05-17 14:06:50,419][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3530 for assignment 1334
+[2024-05-17 14:06:50,422][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3531 for assignment 1335
+[2024-05-17 14:06:50,425][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3532 for assignment 1336
+[2024-05-17 14:06:50,428][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3533 for assignment 1337
+[2024-05-17 14:06:50,431][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3534 for assignment 1338
+[2024-05-17 14:06:50,434][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3535 for assignment 1339
+[2024-05-17 14:06:50,437][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3536 for assignment 1340
+[2024-05-17 14:06:50,440][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3537 for assignment 1341
+[2024-05-17 14:07:10,408][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:07:40,421][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:08:10,432][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:08:40,444][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:09:10,455][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:09:40,464][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:10:10,474][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:10:40,489][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:11:10,500][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:11:40,513][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:12:10,524][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:12:40,533][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:13:06,688][mephisto.abstractions.blueprints.abstract.static_task.static_agent_state][INFO] - SAVED_DATA_TO_DISC at /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/97/1333/296/agent_data.json
+[2024-05-17 14:13:10,543][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:13:12,532][mephisto.abstractions.blueprints.abstract.static_task.static_agent_state][INFO] - SAVED_DATA_TO_DISC at /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/97/1333/296/agent_data.json
+[2024-05-17 14:13:40,555][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:13:48,278][mephisto.abstractions.blueprints.abstract.static_task.static_agent_state][INFO] - SAVED_DATA_TO_DISC at /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/97/1333/296/agent_data.json
+[2024-05-17 14:14:10,564][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:14:40,576][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:14:59,835][mephisto.abstractions.blueprints.abstract.static_task.static_agent_state][INFO] - SAVED_DATA_TO_DISC at /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/97/1333/296/agent_data.json
+[2024-05-17 14:15:10,584][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:15:30,729][mephisto.abstractions.blueprints.abstract.static_task.static_agent_state][INFO] - SAVED_DATA_TO_DISC at /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/97/1333/296/agent_data.json
+[2024-05-17 14:15:40,595][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:16:10,606][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:16:36,898][mephisto.abstractions.blueprints.abstract.static_task.static_agent_state][INFO] - SAVED_DATA_TO_DISC at /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/97/1333/296/agent_data.json
+[2024-05-17 14:16:40,619][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:17:10,631][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:17:40,640][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:17:48,101][mephisto.abstractions.blueprints.abstract.static_task.static_agent_state][INFO] - SAVED_DATA_TO_DISC at /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/97/1333/296/agent_data.json
+[2024-05-17 14:18:10,651][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:18:32,523][mephisto.abstractions.blueprints.abstract.static_task.static_agent_state][INFO] - SAVED_DATA_TO_DISC at /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/97/1333/296/agent_data.json
+[2024-05-17 14:18:40,662][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:19:10,675][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:19:40,684][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:19:46,350][mephisto.abstractions.blueprints.abstract.static_task.static_agent_state][INFO] - SAVED_DATA_TO_DISC at /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/97/1333/296/agent_data.json
+[2024-05-17 14:20:10,690][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:20:40,709][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:21:10,722][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:21:40,733][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:21:42,379][mephisto.operations.client_io_handler][WARNING] - [FRONT_END_ERROR]: {'error': 'useState is not defined', 'errorInfo': {'componentStack': '\n    at SimpleFrontend (webpack://mephisto-task-compiler/./src/components/core_components.jsx?:144:24)\n    at p (webpack://mephisto-task-compiler/./node_modules/mephisto-task/build/bundle.js?:1:51620)\n    at div\n    at MainApp (webpack://mephisto-task-compiler/./src/app.jsx?:30:88)'}}
+[2024-05-17 14:22:10,743][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:22:27,176][mephisto.abstractions.blueprints.abstract.static_task.static_agent_state][INFO] - SAVED_DATA_TO_DISC at /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/97/1333/296/agent_data.json
+[2024-05-17 14:22:29,083][mephisto.abstractions.blueprints.abstract.static_task.static_agent_state][INFO] - SAVED_DATA_TO_DISC at /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/97/1334/297/agent_data.json
+[2024-05-17 14:22:32,146][mephisto.abstractions.blueprints.abstract.static_task.static_agent_state][INFO] - SAVED_DATA_TO_DISC at /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/97/1334/297/agent_data.json
+[2024-05-17 14:22:40,756][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:23:10,766][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:23:40,776][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:24:10,787][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:24:40,796][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:25:10,807][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:25:40,820][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:26:10,830][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:26:40,840][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:27:10,851][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:27:40,860][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:28:10,870][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:28:40,880][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:29:10,890][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:29:40,900][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:30:10,915][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:30:40,930][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:31:10,940][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:31:40,951][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:32:10,963][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:32:40,972][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:33:10,982][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:33:40,994][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:34:11,004][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:34:41,015][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:35:11,024][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:35:41,040][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:36:11,050][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:36:41,060][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:37:11,071][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:37:41,084][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:38:11,094][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:38:41,104][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:39:11,114][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:39:41,123][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:40:11,134][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:40:40,728][mephisto.abstractions.blueprints.abstract.static_task.static_agent_state][INFO] - SAVED_DATA_TO_DISC at /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/97/1335/298/agent_data.json
+[2024-05-17 14:40:41,144][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:41:11,154][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:41:41,164][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:42:11,172][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:42:41,182][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:43:11,190][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:43:41,202][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:44:11,214][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:44:41,226][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:45:11,236][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:45:41,244][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:46:11,253][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:46:41,264][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:47:11,270][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:47:41,292][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:48:11,301][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:48:41,312][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:49:11,318][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:49:41,328][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:50:11,333][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:50:41,344][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:51:11,352][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:51:41,360][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:52:11,369][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:52:41,380][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:53:11,386][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:53:41,396][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:54:11,403][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:54:41,413][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:55:11,422][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:55:41,432][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:56:11,441][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:56:41,452][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:57:11,459][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:57:41,468][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:58:11,473][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:58:41,480][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:59:11,489][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 14:59:41,501][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 15:00:11,510][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 15:00:41,520][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 15:01:11,529][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 15:01:41,541][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 15:02:11,550][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 15:02:41,560][mephisto.operations.operator][INFO] - Operator running task ID = 97
+[2024-05-17 15:02:43,267][mephisto.operations.operator][ERROR] - Cleaning up after keyboard interrupt, please [31;1mwait to Ctrl-C again[0m until instructed to.
+[2024-05-17 15:02:43,268][mephisto.operations.operator][INFO] - operator shutting down
+[2024-05-17 15:02:43,269][mephisto.operations.operator][INFO] - Expiring units for task run 97.
+[2024-05-17 15:02:43,322][mephisto.operations.operator][INFO] - Waiting on 1 task runs with assignments in-flight. [31;1mCtrl-C ONCE[0m to kill running tasks and FORCE QUIT.
+[2024-05-17 15:02:43,555][sh.command][INFO] - <Command '/usr/bin/rm -rf /home/martins_32048/Projects/semantics/venv/lib/python3.10/site-packages/tmp/local_server_97/server', pid 24227>: process started
+[2024-05-17 15:02:43,627][asyncio][ERROR] - Task exception was never retrieved
+future: <Task finished name='Task-1756' coro=<WorkerPool.push_status_update() done, defined at /home/martins_32048/Projects/semantics/venv/lib/python3.10/site-packages/mephisto/operations/worker_pool.py:637> exception=KeyError('local_channel_97_0')>
+Traceback (most recent call last):
+  File "/home/martins_32048/Projects/semantics/venv/lib/python3.10/site-packages/mephisto/operations/worker_pool.py", line 653, in push_status_update
+    live_run.client_io.send_status_update(agent.get_agent_id(), status)
+  File "/home/martins_32048/Projects/semantics/venv/lib/python3.10/site-packages/mephisto/operations/client_io_handler.py", line 450, in send_status_update
+    self._get_channel_for_agent(agent_id).enqueue_send(status_packet)
+  File "/home/martins_32048/Projects/semantics/venv/lib/python3.10/site-packages/mephisto/operations/client_io_handler.py", line 491, in _get_channel_for_agent
+    return self.channels[channel_id]
+KeyError: 'local_channel_97_0'
+[2024-05-17 15:02:47,814][mephisto.utils.metrics][WARNING] - Prometheus PID existed, but server doesn't appear to be up.
+[2024-05-17 15:02:47,826][mephisto.utils.metrics][WARNING] - Prometheus server appears to be running though! exiting as unsure what to do...

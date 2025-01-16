@@ -1,0 +1,20 @@
+[2024-03-01 16:24:15,997][root][WARNING] - Mephisto supports rich run-time metrics visualization through Prometheus and Grafana. If you'd like to use this feature, use `mephisto metrics install` to install.(Current install dir is '/home/martins_32048/Projects/Mephisto/mephisto/scripts/metrics')'
+[2024-03-01 16:24:16,020][mephisto.operations.operator][INFO] - Creating a task run under task name: react-word-sentiment
+[2024-03-01 16:24:16,833][sh.command][INFO] - <Command '/usr/bin/rm -rf /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/71/build/router', pid 1982876>: process started
+[2024-03-01 16:24:18,135][sh.command][INFO] - <Command '/usr/bin/rm -rf /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/71/build/router', pid 1982898>: process started
+[2024-03-01 16:24:18,153][mephisto.operations.client_io_handler][INFO] - Sending alive
+[2024-03-01 16:24:18,153][mephisto.operations.client_io_handler][INFO] - Sending alive
+[2024-03-01 16:24:18,168][mephisto.operations.client_io_handler][INFO] - Sending alive
+[2024-03-01 16:24:18,168][mephisto.abstractions.architects.channels.websocket_channel][INFO] - channel open
+[2024-03-01 16:24:18,456][mephisto.operations.operator][INFO] - Operator running task ID = 71
+[2024-03-01 16:24:27,826][mephisto.operations.operator][ERROR] - Cleaning up after keyboard interrupt, please [31;1mwait to Ctrl-C again[0m until instructed to.
+[2024-03-01 16:24:27,826][mephisto.operations.operator][INFO] - operator shutting down
+[2024-03-01 16:24:27,826][mephisto.operations.operator][INFO] - Expiring units for task run 71.
+[2024-03-01 16:24:28,510][mephisto.operations.operator][INFO] - Waiting on 1 task runs with assignments in-flight. [31;1mCtrl-C ONCE[0m to kill running tasks and FORCE QUIT.
+[2024-03-01 16:24:28,761][mephisto.operations.operator][WARNING] - Skipping waiting for outstanding task completions, shutting down servers now!Follow cleanup instructions [31;1mclosely[0m for proper cleanup.
+[2024-03-01 16:24:28,761][mephisto.operations.operator][WARNING] - Cleaning up run 71. [31;1mCtrl-C once per step[0m to skip that step.
+[2024-03-01 16:24:28,761][mephisto.operations.operator][WARNING] - Shutting down active Units in-flight.
+[2024-03-01 16:24:28,761][mephisto.operations.operator][WARNING] - Cleaning up remaining workers.
+[2024-03-01 16:24:28,761][mephisto.operations.operator][WARNING] - Closing client communications.
+[2024-03-01 16:24:28,967][mephisto.operations.operator][WARNING] - Shutting down servers
+[2024-03-01 16:24:28,986][sh.command][INFO] - <Command '/usr/bin/rm -rf /home/martins_32048/Projects/Mephisto/tmp/local_server_71/server', pid 1982921>: process started

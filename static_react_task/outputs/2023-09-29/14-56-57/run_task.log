@@ -1,0 +1,21 @@
+[2023-09-29 14:56:57,389][root][WARNING] - Mephisto supports rich run-time metrics visualization through Prometheus and Grafana. If you'd like to use this feature, use `mephisto metrics install` to install.(Current install dir is '/home/martins_32048/Projects/Mephisto/mephisto/scripts/metrics')'
+[2023-09-29 14:56:57,482][mephisto.operations.operator][INFO] - Creating a task run under task name: custom-react-tutorial-iterating
+[2023-09-29 14:56:58,379][sh.command][INFO] - <Command '/usr/bin/rm -rf /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/15/build/router', pid 2413713>: process started
+[2023-09-29 14:56:59,876][sh.command][INFO] - <Command '/usr/bin/rm -rf /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/15/build/router', pid 2413725>: process started
+[2023-09-29 14:56:59,941][mephisto.operations.client_io_handler][INFO] - Sending alive
+[2023-09-29 14:56:59,941][mephisto.operations.client_io_handler][INFO] - Sending alive
+[2023-09-29 14:56:59,955][mephisto.operations.client_io_handler][INFO] - Sending alive
+[2023-09-29 14:56:59,956][mephisto.abstractions.architects.channels.websocket_channel][INFO] - channel open
+[2023-09-29 14:57:00,291][mephisto.operations.operator][INFO] - Operator running task ID = 15
+[2023-09-29 14:57:00,293][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=27 for assignment 25
+[2023-09-29 14:57:00,295][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=28 for assignment 26
+[2023-09-29 14:57:01,517][mephisto.operations.client_io_handler][WARNING] - [31;1m[Version Mismatch!!][0m: Package `mephisto-task` version mismatch. Expected version 2.0.4 but frontend is currently using 2.0.3. This may cause unexpected errors, be sure to update your `mephisto-task` dependency with `npm install mephisto-task@2.0.4 --save`. If this warning still persists or the version isn't found, please open an issue at https://github.com/facebookresearch/Mephisto/issues
+[2023-09-29 14:57:01,524][mephisto.abstractions.blueprints.abstract.static_task.static_agent_state][INFO] - SAVED_DATA_TO_DISC at /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/15/25/13/agent_data.json
+[2023-09-29 14:57:30,299][mephisto.operations.operator][INFO] - Operator running task ID = 15
+[2023-09-29 14:58:00,310][mephisto.operations.operator][INFO] - Operator running task ID = 15
+[2023-09-29 14:58:03,104][mephisto.operations.client_io_handler][WARNING] - [31;1m[Version Mismatch!!][0m: Package `mephisto-task` version mismatch. Expected version 2.0.4 but frontend is currently using 2.0.3. This may cause unexpected errors, be sure to update your `mephisto-task` dependency with `npm install mephisto-task@2.0.4 --save`. If this warning still persists or the version isn't found, please open an issue at https://github.com/facebookresearch/Mephisto/issues
+[2023-09-29 14:58:05,164][mephisto.operations.operator][ERROR] - Cleaning up after keyboard interrupt, please [31;1mwait to Ctrl-C again[0m until instructed to.
+[2023-09-29 14:58:05,164][mephisto.operations.operator][INFO] - operator shutting down
+[2023-09-29 14:58:05,164][mephisto.operations.operator][INFO] - Expiring units for task run 15.
+[2023-09-29 14:58:05,186][mephisto.operations.operator][INFO] - Waiting on 1 task runs with assignments in-flight. [31;1mCtrl-C ONCE[0m to kill running tasks and FORCE QUIT.
+[2023-09-29 14:58:05,402][sh.command][INFO] - <Command '/usr/bin/rm -rf /home/martins_32048/Projects/Mephisto/tmp/local_server_15/server', pid 2413782>: process started

@@ -1,0 +1,50 @@
+[2024-05-10 15:16:20,147][mephisto.utils.metrics][WARNING] - Prometheus PID existed, but server doesn't appear to be up.
+[2024-05-10 15:16:20,150][mephisto.utils.metrics][WARNING] - Clearing prometheus pid as the server isn't running. Use `shutdown_prometheus_server` in the future for proper cleanup.
+[2024-05-10 15:16:20,152][mephisto.utils.metrics][INFO] - Prometheus server launched at process 1658231
+[2024-05-10 15:16:20,267][mephisto.operations.operator][INFO] - Creating a task run under task name: word-sentiment
+[2024-05-10 15:16:21,667][sh.command][INFO] - <Command '/usr/bin/rm -rf /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/96/build/router', pid 1658262>: process started
+[2024-05-10 15:16:23,097][sh.command][INFO] - <Command '/usr/bin/rm -rf /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/96/build/router', pid 1658277>: process started
+[2024-05-10 15:16:23,147][mephisto.operations.client_io_handler][INFO] - Sending alive
+[2024-05-10 15:16:23,148][mephisto.operations.client_io_handler][INFO] - Sending alive
+[2024-05-10 15:16:23,162][mephisto.operations.client_io_handler][INFO] - Sending alive
+[2024-05-10 15:16:23,163][mephisto.abstractions.architects.channels.websocket_channel][INFO] - channel open
+[2024-05-10 15:16:23,451][mephisto.operations.operator][INFO] - Operator running task ID = 96
+[2024-05-10 15:16:33,472][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3520 for assignment 1324
+[2024-05-10 15:16:33,480][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3521 for assignment 1325
+[2024-05-10 15:16:33,486][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3522 for assignment 1326
+[2024-05-10 15:16:33,489][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3523 for assignment 1327
+[2024-05-10 15:16:33,492][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3524 for assignment 1328
+[2024-05-10 15:16:33,494][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3525 for assignment 1329
+[2024-05-10 15:16:33,497][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3526 for assignment 1330
+[2024-05-10 15:16:33,499][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3527 for assignment 1331
+[2024-05-10 15:16:33,501][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3528 for assignment 1332
+[2024-05-10 15:16:38,377][mephisto.abstractions.blueprints.abstract.static_task.static_agent_state][INFO] - SAVED_DATA_TO_DISC at /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/96/1324/294/agent_data.json
+[2024-05-10 15:16:44,203][mephisto.abstractions.blueprints.abstract.static_task.static_agent_state][INFO] - SAVED_DATA_TO_DISC at /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/96/1325/295/agent_data.json
+[2024-05-10 15:16:53,463][mephisto.operations.operator][INFO] - Operator running task ID = 96
+[2024-05-10 15:17:13,240][mephisto.operations.operator][ERROR] - Cleaning up after keyboard interrupt, please [31;1mwait to Ctrl-C again[0m until instructed to.
+[2024-05-10 15:17:13,244][mephisto.operations.operator][INFO] - operator shutting down
+[2024-05-10 15:17:13,246][mephisto.operations.operator][INFO] - Expiring units for task run 96.
+[2024-05-10 15:17:13,301][mephisto.operations.operator][INFO] - Waiting on 1 task runs with assignments in-flight. [31;1mCtrl-C ONCE[0m to kill running tasks and FORCE QUIT.
+[2024-05-10 15:17:13,537][sh.command][INFO] - <Command '/usr/bin/rm -rf /home/martins_32048/Projects/semantics/venv/lib/python3.10/site-packages/tmp/local_server_96/server', pid 1658471>: process started
+[2024-05-10 15:17:13,599][asyncio][ERROR] - Task exception was never retrieved
+future: <Task finished name='Task-56' coro=<WorkerPool.push_status_update() done, defined at /home/martins_32048/Projects/semantics/venv/lib/python3.10/site-packages/mephisto/operations/worker_pool.py:637> exception=KeyError('local_channel_96_0')>
+Traceback (most recent call last):
+  File "/home/martins_32048/Projects/semantics/venv/lib/python3.10/site-packages/mephisto/operations/worker_pool.py", line 653, in push_status_update
+    live_run.client_io.send_status_update(agent.get_agent_id(), status)
+  File "/home/martins_32048/Projects/semantics/venv/lib/python3.10/site-packages/mephisto/operations/client_io_handler.py", line 450, in send_status_update
+    self._get_channel_for_agent(agent_id).enqueue_send(status_packet)
+  File "/home/martins_32048/Projects/semantics/venv/lib/python3.10/site-packages/mephisto/operations/client_io_handler.py", line 491, in _get_channel_for_agent
+    return self.channels[channel_id]
+KeyError: 'local_channel_96_0'
+[2024-05-10 15:17:13,600][asyncio][ERROR] - Task exception was never retrieved
+future: <Task finished name='Task-57' coro=<WorkerPool.push_status_update() done, defined at /home/martins_32048/Projects/semantics/venv/lib/python3.10/site-packages/mephisto/operations/worker_pool.py:637> exception=KeyError('local_channel_96_0')>
+Traceback (most recent call last):
+  File "/home/martins_32048/Projects/semantics/venv/lib/python3.10/site-packages/mephisto/operations/worker_pool.py", line 653, in push_status_update
+    live_run.client_io.send_status_update(agent.get_agent_id(), status)
+  File "/home/martins_32048/Projects/semantics/venv/lib/python3.10/site-packages/mephisto/operations/client_io_handler.py", line 450, in send_status_update
+    self._get_channel_for_agent(agent_id).enqueue_send(status_packet)
+  File "/home/martins_32048/Projects/semantics/venv/lib/python3.10/site-packages/mephisto/operations/client_io_handler.py", line 491, in _get_channel_for_agent
+    return self.channels[channel_id]
+KeyError: 'local_channel_96_0'
+[2024-05-10 15:17:13,601][mephisto.utils.metrics][WARNING] - Prometheus PID existed, but server doesn't appear to be up.
+[2024-05-10 15:17:13,602][mephisto.utils.metrics][WARNING] - Prometheus server appears to be running though! exiting as unsure what to do...

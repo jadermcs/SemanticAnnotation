@@ -1,0 +1,140 @@
+[2024-02-27 13:20:22,278][root][WARNING] - Mephisto supports rich run-time metrics visualization through Prometheus and Grafana. If you'd like to use this feature, use `mephisto metrics install` to install.(Current install dir is '/home/martins_32048/Projects/Mephisto/mephisto/scripts/metrics')'
+[2024-02-27 13:20:25,002][mephisto.operations.operator][INFO] - Creating a task run under task name: react-static-task-example
+[2024-02-27 13:20:26,276][sh.command][INFO] - <Command '/usr/bin/rm -rf /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/33/build/router', pid 1748830>: process started
+[2024-02-27 13:20:27,577][sh.command][INFO] - <Command '/usr/bin/rm -rf /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/33/build/router', pid 1748842>: process started
+[2024-02-27 13:20:27,596][mephisto.operations.client_io_handler][INFO] - Sending alive
+[2024-02-27 13:20:27,596][mephisto.operations.client_io_handler][INFO] - Sending alive
+[2024-02-27 13:20:27,613][mephisto.operations.client_io_handler][INFO] - Sending alive
+[2024-02-27 13:20:27,614][mephisto.abstractions.architects.channels.websocket_channel][INFO] - channel open
+[2024-02-27 13:20:27,927][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:20:27,929][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=83 for assignment 61
+[2024-02-27 13:20:27,931][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=84 for assignment 61
+[2024-02-27 13:20:27,932][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=85 for assignment 61
+[2024-02-27 13:20:27,934][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=86 for assignment 62
+[2024-02-27 13:20:27,935][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=87 for assignment 62
+[2024-02-27 13:20:27,937][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=88 for assignment 62
+[2024-02-27 13:20:57,936][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:21:27,950][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:21:57,957][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:22:27,970][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:22:57,976][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:23:27,984][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:23:57,992][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:24:27,998][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:24:58,004][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:25:28,010][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:25:58,018][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:26:28,026][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:26:58,032][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:27:28,042][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:27:58,052][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:28:28,061][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:28:58,070][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:29:28,078][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:29:58,084][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:30:28,090][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:30:58,100][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:31:28,108][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:31:58,116][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:32:28,122][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:32:58,132][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:33:28,140][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:33:58,148][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:34:23,362][mephisto.operations.client_io_handler][ERROR] - Channel local_channel_33_0 encountered error on packet {'packet_type': 'submit_unit', 'subject_id': '40', 'data': {'rating': 'negative', 'worker_id': 'fen', 'assignment_id': '1'}, 'client_timestamp': 1709037263.331, 'router_incoming_timestamp': 1709037263.361, 'router_outgoing_timestamp': 1709037263.361, 'server_timestamp': 1709037263.362188}
+Traceback (most recent call last):
+  File "/home/martins_32048/Projects/Mephisto/mephisto/operations/client_io_handler.py", line 167, in __on_channel_message_internal
+    self._on_message(packet, channel_id)
+  File "/home/martins_32048/Projects/Mephisto/mephisto/operations/client_io_handler.py", line 380, in _on_message
+    self._on_submit_unit(packet, channel_id)
+  File "/home/martins_32048/Projects/Mephisto/mephisto/operations/client_io_handler.py", line 266, in _on_submit_unit
+    assert agent is not None, "Could not find given agent!"
+AssertionError: Could not find given agent!
+[2024-02-27 13:34:23,373][asyncio][ERROR] - Task exception was never retrieved
+future: <Task finished name='Task-429' coro=<ClientIOHandler.__on_channel_message_internal() done, defined at /home/martins_32048/Projects/Mephisto/mephisto/operations/client_io_handler.py:164> exception=AssertionError('Could not find given agent!')>
+Traceback (most recent call last):
+  File "/home/martins_32048/Projects/Mephisto/mephisto/operations/client_io_handler.py", line 167, in __on_channel_message_internal
+    self._on_message(packet, channel_id)
+  File "/home/martins_32048/Projects/Mephisto/mephisto/operations/client_io_handler.py", line 380, in _on_message
+    self._on_submit_unit(packet, channel_id)
+  File "/home/martins_32048/Projects/Mephisto/mephisto/operations/client_io_handler.py", line 266, in _on_submit_unit
+    assert agent is not None, "Could not find given agent!"
+AssertionError: Could not find given agent!
+[2024-02-27 13:34:28,157][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:34:58,166][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:35:28,176][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:35:58,184][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:36:28,194][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:36:58,205][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:37:28,215][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:37:58,224][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:38:28,234][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:38:58,240][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:39:28,249][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:39:58,257][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:40:28,264][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:40:58,272][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:41:28,277][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:41:58,286][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:42:28,296][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:42:58,304][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:43:28,311][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:43:58,320][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:44:28,327][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:44:58,336][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:45:28,344][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:45:58,352][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:46:28,362][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:46:58,370][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:47:28,381][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:47:58,388][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:48:28,398][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:48:58,404][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:49:28,411][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:49:58,421][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:50:28,430][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:50:58,436][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:51:28,445][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:51:58,453][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:52:28,462][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:52:58,468][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:53:28,474][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:53:58,480][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:54:28,488][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:54:58,496][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:55:28,502][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:55:58,510][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:56:28,518][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:56:58,523][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:57:28,532][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:57:58,539][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:58:28,546][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:58:58,553][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:59:28,563][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 13:59:58,571][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 14:00:28,579][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 14:00:58,587][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 14:01:28,594][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 14:01:58,601][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 14:02:28,606][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 14:02:58,613][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 14:03:28,618][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 14:03:58,624][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 14:04:28,633][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 14:04:58,640][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 14:05:28,649][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 14:05:58,655][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 14:06:28,662][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 14:06:58,669][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 14:07:28,674][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 14:07:58,681][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 14:08:28,690][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 14:08:58,695][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 14:09:28,705][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 14:09:58,712][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 14:10:28,718][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 14:10:58,727][mephisto.operations.operator][INFO] - Operator running task ID = 33
+[2024-02-27 14:11:20,340][mephisto.operations.operator][ERROR] - Cleaning up after keyboard interrupt, please [31;1mwait to Ctrl-C again[0m until instructed to.
+[2024-02-27 14:11:20,340][mephisto.operations.operator][INFO] - operator shutting down
+[2024-02-27 14:11:20,340][mephisto.operations.operator][INFO] - Expiring units for task run 33.
+[2024-02-27 14:11:20,386][mephisto.operations.operator][INFO] - Waiting on 1 task runs with assignments in-flight. [31;1mCtrl-C ONCE[0m to kill running tasks and FORCE QUIT.
+[2024-02-27 14:11:20,608][sh.command][INFO] - <Command '/usr/bin/rm -rf /home/martins_32048/Projects/Mephisto/tmp/local_server_33/server', pid 1751391>: process started

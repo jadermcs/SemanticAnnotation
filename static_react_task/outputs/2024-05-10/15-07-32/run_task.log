@@ -1,0 +1,42 @@
+[2024-05-10 15:07:32,715][mephisto.utils.metrics][WARNING] - Prometheus PID existed, but server doesn't appear to be up.
+[2024-05-10 15:07:32,717][mephisto.utils.metrics][WARNING] - Clearing prometheus pid as the server isn't running. Use `shutdown_prometheus_server` in the future for proper cleanup.
+[2024-05-10 15:07:32,719][mephisto.utils.metrics][INFO] - Prometheus server launched at process 1655907
+[2024-05-10 15:07:32,841][mephisto.operations.operator][INFO] - Creating a task run under task name: word-sentiment
+[2024-05-10 15:07:33,873][sh.command][INFO] - <Command '/usr/bin/rm -rf /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/95/build/router', pid 1655938>: process started
+[2024-05-10 15:07:35,346][sh.command][INFO] - <Command '/usr/bin/rm -rf /home/martins_32048/mephisto-data/data/data/runs/NO_PROJECT/95/build/router', pid 1655954>: process started
+[2024-05-10 15:07:35,397][mephisto.operations.client_io_handler][INFO] - Sending alive
+[2024-05-10 15:07:35,399][mephisto.operations.client_io_handler][INFO] - Sending alive
+[2024-05-10 15:07:35,415][mephisto.operations.client_io_handler][INFO] - Sending alive
+[2024-05-10 15:07:35,416][mephisto.abstractions.architects.channels.websocket_channel][INFO] - channel open
+[2024-05-10 15:07:35,702][mephisto.operations.operator][INFO] - Operator running task ID = 95
+[2024-05-10 15:07:45,727][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3511 for assignment 1315
+[2024-05-10 15:07:45,735][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3512 for assignment 1316
+[2024-05-10 15:07:45,741][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3513 for assignment 1317
+[2024-05-10 15:07:45,747][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3514 for assignment 1318
+[2024-05-10 15:07:45,753][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3515 for assignment 1319
+[2024-05-10 15:07:45,758][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3516 for assignment 1320
+[2024-05-10 15:07:45,764][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3517 for assignment 1321
+[2024-05-10 15:07:45,770][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3518 for assignment 1322
+[2024-05-10 15:07:45,774][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3519 for assignment 1323
+[2024-05-10 15:08:05,713][mephisto.operations.operator][INFO] - Operator running task ID = 95
+[2024-05-10 15:08:35,722][mephisto.operations.operator][INFO] - Operator running task ID = 95
+[2024-05-10 15:09:05,732][mephisto.operations.operator][INFO] - Operator running task ID = 95
+[2024-05-10 15:09:35,749][mephisto.operations.operator][INFO] - Operator running task ID = 95
+[2024-05-10 15:10:05,759][mephisto.operations.operator][INFO] - Operator running task ID = 95
+[2024-05-10 15:10:35,770][mephisto.operations.operator][INFO] - Operator running task ID = 95
+[2024-05-10 15:11:05,781][mephisto.operations.operator][INFO] - Operator running task ID = 95
+[2024-05-10 15:11:35,792][mephisto.operations.operator][INFO] - Operator running task ID = 95
+[2024-05-10 15:12:05,805][mephisto.operations.operator][INFO] - Operator running task ID = 95
+[2024-05-10 15:12:35,817][mephisto.operations.operator][INFO] - Operator running task ID = 95
+[2024-05-10 15:13:05,829][mephisto.operations.operator][INFO] - Operator running task ID = 95
+[2024-05-10 15:13:35,843][mephisto.operations.operator][INFO] - Operator running task ID = 95
+[2024-05-10 15:14:05,854][mephisto.operations.operator][INFO] - Operator running task ID = 95
+[2024-05-10 15:14:35,866][mephisto.operations.operator][INFO] - Operator running task ID = 95
+[2024-05-10 15:15:05,877][mephisto.operations.operator][INFO] - Operator running task ID = 95
+[2024-05-10 15:15:35,893][mephisto.operations.operator][INFO] - Operator running task ID = 95
+[2024-05-10 15:16:05,908][mephisto.operations.operator][INFO] - Operator running task ID = 95
+[2024-05-10 15:16:07,712][mephisto.operations.operator][ERROR] - Cleaning up after keyboard interrupt, please [31;1mwait to Ctrl-C again[0m until instructed to.
+[2024-05-10 15:16:07,716][mephisto.operations.operator][INFO] - operator shutting down
+[2024-05-10 15:16:07,718][mephisto.operations.operator][INFO] - Expiring units for task run 95.
+[2024-05-10 15:16:07,767][mephisto.operations.operator][INFO] - Waiting on 1 task runs with assignments in-flight. [31;1mCtrl-C ONCE[0m to kill running tasks and FORCE QUIT.
+[2024-05-10 15:16:08,009][sh.command][INFO] - <Command '/usr/bin/rm -rf /home/martins_32048/Projects/semantics/venv/lib/python3.10/site-packages/tmp/local_server_95/server', pid 1658162>: process started

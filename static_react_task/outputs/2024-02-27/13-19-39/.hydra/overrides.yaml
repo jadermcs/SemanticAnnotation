@@ -1,0 +1,2 @@
+- mephisto.task.post_install_script=link_mephisto_task.sh
+- mephisto.task.force_rebuild=true

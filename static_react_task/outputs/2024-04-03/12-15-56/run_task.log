@@ -1,0 +1,65 @@
+[2024-04-03 12:15:56,673][root][WARNING] - Mephisto supports rich run-time metrics visualization through Prometheus and Grafana. If you'd like to use this feature, use `mephisto metrics install` to install.(Current install dir is '/usr/local/lib/python3.9/site-packages/mephisto/scripts/metrics')'
+[2024-04-03 12:15:56,746][mephisto.operations.operator][INFO] - Creating a task run under task name: word-sentiment
+[2024-04-03 12:15:58,000][sh.command][INFO] - <Command '/bin/rm -rf /mephisto/data/data/runs/NO_PROJECT/1/build/router', pid 26>: process started
+[2024-04-03 12:15:59,123][sh.command][INFO] - <Command '/bin/rm -rf /mephisto/data/data/runs/NO_PROJECT/1/build/router', pid 38>: process started
+[2024-04-03 12:15:59,130][mephisto.operations.client_io_handler][INFO] - Sending alive
+[2024-04-03 12:15:59,132][mephisto.operations.client_io_handler][INFO] - Sending alive
+[2024-04-03 12:15:59,144][mephisto.operations.client_io_handler][INFO] - Sending alive
+[2024-04-03 12:15:59,145][mephisto.abstractions.architects.channels.websocket_channel][INFO] - channel open
+[2024-04-03 12:15:59,435][mephisto.operations.operator][INFO] - Operator running task ID = 1
+[2024-04-03 12:16:09,458][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=1 for assignment 1
+[2024-04-03 12:16:09,464][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=2 for assignment 1
+[2024-04-03 12:16:09,467][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=3 for assignment 1
+[2024-04-03 12:16:09,470][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=4 for assignment 1
+[2024-04-03 12:16:09,472][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=5 for assignment 1
+[2024-04-03 12:16:09,475][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=6 for assignment 2
+[2024-04-03 12:16:09,478][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=7 for assignment 2
+[2024-04-03 12:16:09,481][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=8 for assignment 2
+[2024-04-03 12:16:09,483][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=9 for assignment 2
+[2024-04-03 12:16:09,486][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=10 for assignment 2
+[2024-04-03 12:16:09,488][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=11 for assignment 3
+[2024-04-03 12:16:09,491][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=12 for assignment 3
+[2024-04-03 12:16:09,493][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=13 for assignment 3
+[2024-04-03 12:16:09,495][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=14 for assignment 3
+[2024-04-03 12:16:09,498][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=15 for assignment 3
+[2024-04-03 12:16:09,500][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=16 for assignment 4
+[2024-04-03 12:16:09,502][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=17 for assignment 4
+[2024-04-03 12:16:09,505][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=18 for assignment 4
+[2024-04-03 12:16:09,507][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=19 for assignment 4
+[2024-04-03 12:16:09,509][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=20 for assignment 4
+[2024-04-03 12:16:09,511][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=21 for assignment 5
+[2024-04-03 12:16:09,514][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=22 for assignment 5
+[2024-04-03 12:16:09,516][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=23 for assignment 5
+[2024-04-03 12:16:09,518][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=24 for assignment 5
+[2024-04-03 12:16:09,521][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=25 for assignment 5
+[2024-04-03 12:16:09,524][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=26 for assignment 6
+[2024-04-03 12:16:09,526][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=27 for assignment 6
+[2024-04-03 12:16:09,528][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=28 for assignment 6
+[2024-04-03 12:16:09,531][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=29 for assignment 6
+[2024-04-03 12:16:09,533][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=30 for assignment 6
+[2024-04-03 12:16:09,536][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=31 for assignment 7
+[2024-04-03 12:16:09,538][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=32 for assignment 7
+[2024-04-03 12:16:09,541][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=33 for assignment 7
+[2024-04-03 12:16:09,543][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=34 for assignment 7
+[2024-04-03 12:16:09,545][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=35 for assignment 7
+[2024-04-03 12:16:09,547][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=36 for assignment 8
+[2024-04-03 12:16:09,550][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=37 for assignment 8
+[2024-04-03 12:16:09,552][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=38 for assignment 8
+[2024-04-03 12:16:09,554][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=39 for assignment 8
+[2024-04-03 12:16:09,557][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=40 for assignment 8
+[2024-04-03 12:16:09,559][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=41 for assignment 9
+[2024-04-03 12:16:09,561][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=42 for assignment 9
+[2024-04-03 12:16:09,564][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=43 for assignment 9
+[2024-04-03 12:16:09,566][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=44 for assignment 9
+[2024-04-03 12:16:09,569][mephisto.abstractions.providers.mock.mock_unit][INFO] - Mock task launched: http://localhost:3000 for preview, http://localhost:3000/?worker_id=x&assignment_id=45 for assignment 9
+[2024-04-03 12:16:29,448][mephisto.operations.operator][INFO] - Operator running task ID = 1
+[2024-04-03 12:16:59,460][mephisto.operations.operator][INFO] - Operator running task ID = 1
+[2024-04-03 12:17:29,473][mephisto.operations.operator][INFO] - Operator running task ID = 1
+[2024-04-03 12:17:59,485][mephisto.operations.operator][INFO] - Operator running task ID = 1
+[2024-04-03 12:18:29,501][mephisto.operations.operator][INFO] - Operator running task ID = 1
+[2024-04-03 12:18:59,517][mephisto.operations.operator][INFO] - Operator running task ID = 1
+[2024-04-03 12:19:14,971][mephisto.operations.operator][ERROR] - Cleaning up after keyboard interrupt, please [31;1mwait to Ctrl-C again[0m until instructed to.
+[2024-04-03 12:19:14,976][mephisto.operations.operator][INFO] - operator shutting down
+[2024-04-03 12:19:14,977][mephisto.operations.operator][INFO] - Expiring units for task run 1.
+[2024-04-03 12:19:15,173][mephisto.operations.operator][INFO] - Waiting on 1 task runs with assignments in-flight. [31;1mCtrl-C ONCE[0m to kill running tasks and FORCE QUIT.
+[2024-04-03 12:19:15,413][sh.command][INFO] - <Command '/bin/rm -rf /usr/local/lib/python3.9/site-packages/tmp/local_server_1/server', pid 48>: process started
