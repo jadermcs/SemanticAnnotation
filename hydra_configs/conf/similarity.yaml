@@ -3,7 +3,6 @@ defaults:
   - /mephisto/blueprint: static_react_task
   - /mephisto/architect: local
   - /mephisto/provider: mock
-
 mephisto:
   blueprint:
     task_source: ${task_dir}/webapp/build/bundle.js
@@ -12,7 +11,7 @@ mephisto:
     extra_source_dir: ${task_dir}/webapp/src/static
     units_per_assignment: 1
   task:
-    task_name: word-sentiment
+    task_name: similarity
     task_title: "Rating a word for changed or unchanged"
     task_description: ""
     task_reward: 0.05

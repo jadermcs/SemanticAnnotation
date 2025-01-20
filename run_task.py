@@ -69,7 +69,8 @@ def get_experiment_data(task_data):
 @task_script(default_config_file="example.yaml")
 def main(operator: Operator, cfg: DictConfig) -> None:
     is_using_screening_units = cfg.mephisto.blueprint["use_screening_task"]
-    with open(cfg.task_dir + "/data.json") as fin:
+    path = f"{cfg.task_dir}/{cfg.mephisto.task.task_name}.json"
+    with open(path) as fin:
         data = json.load(fin)
     task_data = get_experiment_data(data["data"])
     shared_state = SharedStaticTaskState(
