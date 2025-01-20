@@ -20,3 +20,7 @@ python run_task.py conf=similarity
 ```console
 python run_task.py conf=intensity
 ```
+
+
+You can open the annotation interface in:
+(http://localhost:3000)[http://localhost:3000]
