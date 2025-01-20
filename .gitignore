@@ -1,7 +1,6 @@
 mephisto/tasks/*
 **/.mypy_cache/*
 **/__pycache__/*
-data/*
 venv/*
 dist/*
 mephisto.egg-info/*
