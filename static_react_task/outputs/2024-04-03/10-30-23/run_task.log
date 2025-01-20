@@ -1,2 +1,0 @@
-[2024-04-03 10:30:23,687][root][WARNING] - Mephisto supports rich run-time metrics visualization through Prometheus and Grafana. If you'd like to use this feature, use `mephisto metrics install` to install.(Current install dir is '/home/martins_32048/Projects/semantics/venv/lib/python3.10/site-packages/mephisto/scripts/metrics')'
-[2024-04-03 10:30:23,691][mephisto.operations.operator][INFO] - operator shutting down
