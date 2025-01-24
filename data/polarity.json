@@ -1,10 +1,26 @@
 {
   "onboarding": {
-    "instructions": "You are presented with two sentences that both contain a specific word. Your task is to analyze how this word is used in each sentence and  determine if its usage in the second sentence is more positive, negative, or neutral with respect to the first sentence. Please consider only the feeling of the word in your judgement, not the  whole sentence. ",
-    "example1": "As the hiker reached the summit, the breathtaking view of the majestic mountains left him in an awful silence, overwhelmed by the awe-inspiring beauty that surrounded him.",
-    "example2": "Upon witnessing the gruesome battlefield, the medieval knight was struck with an awful realization of the carnage that lay before him.",
-    "explanation": "The usage of 'awful' in the second sentence is more positive, negative or neutral with respect to the first sentence?",
-    "answer": "In the first sentence the word 'awful' is used with the sense of full of admiration, while in the second sentence it is used with the meaning of horrible. So the second sentence is more negative."
+    "instructions": "You have entered a training phase to ensure that you are well-prepared for the main annotation task and will be consistent in your judgements. You will be given specific examples to learn how to accurately judge semantic changes of a word in its contexts. This initial training phase will help you understand key concepts and apply them accurately. If you do not pass this training round, you will be excluded from further tasks.\n\nYou are presented with two sentences that both contain a specific word. Your task is to analyze how this word is used in each sentence and determine if its usage in sentence 2 is more positive, negative, or neutral with respect to sentence 1. Please consider only the feeling of the word in your judgement, not the whole sentence.",
+    "examples": [
+      {
+        "explanation": "Task: Is the usage of 'challenge' in sentence 2 more positive, negative or neutral with respect to sentence 1?",
+        "example1": "He approached the challenge with optimism.",
+        "example2": "The challenge seemed daunting to him.",
+        "answer": "In sentence 1, the word 'challenge' is used with a positive connotation, while in sentence 2 it is used in association with 'daunting'. So, sentence 2 is more negative."
+      },
+      {
+        "explanation": "Task: Is the usage of 'crisis' in sentence 2 more positive, negative, or neutral with respect to sentence 1?", 
+        "example1": "She viewed the economic crisis as a catalyst for necessary reforms.", 
+        "example2": "The crisis overwhelmed their resources and left them despondent.", 
+        "answer": "In sentence 1, 'crisis' is used with a positive connotation, implying an opportunity for improvement, whereas in sentence 2, it is associated with a sense of being overwhelmed and despondent, making it more negative." 
+      },
+      { 
+        "explanation": "Task: Is the usage of 'transition' in sentence 2 more positive, negative, or neutral with respect to sentence 1?", 
+        "example1": "The company's transition to renewable energy has been widely acclaimed.", 
+        "example2": "Despite the transition, employee morale has notably declined.", 
+        "answer": "In sentence 1, 'transition' is used with a positive connotation, associated with acclaim and progress. In sentence 2, 'transition' is linked to a decline in employee morale, which introduces a negative aspect. However, the negativity is more subtle and does not directly criticize the transition itself but its effects, making this a more complex and difficult comparison." 
+      }
+    ]  
   },
   "data": [
     {

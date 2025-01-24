@@ -1,10 +1,26 @@
 {
   "onboarding": {
-    "instructions": "You are presented with two sentences that both contain a specific word. Your task is to analyze how this word is used in each sentence and  determine if its usage in the second sentence is more positive, negative, or neutral with respect to the first sentence. Please consider only the feeling of the word in your judgement, not the  whole sentence. ",
-    "example1": "As the hiker reached the summit, the breathtaking view of the majestic mountains left him in an awful silence, overwhelmed by the awe-inspiring beauty that surrounded him.",
-    "example2": "Upon witnessing the gruesome battlefield, the medieval knight was struck with an awful realization of the carnage that lay before him.",
-    "explanation": "The usage of 'awful' in the second sentence is more positive, negative or neutral with respect to the first sentence?",
-    "answer": "In the first sentence the word 'awful' is used with the sense of full of admiration, while in the second sentence it is used with the meaning of horrible. So the second sentence is more negative."
+    "instructions": "You have entered a training phase to ensure that you are well-prepared for the main annotation task and will be consistent in your judgements. You will be given specific examples to learn how to accurately judge semantic changes of a word in its contexts. This initial training phase will help you understand key concepts and apply them accurately. If you do not pass this training round, you will be excluded from further tasks.\n\nYou are presented with two sentences that both contain a specific word. Your task is to analyze how this word is used in each sentence and determine if its usage in sentence 2 is more positive, negative, or neutral with respect to sentence 1. Please consider only the feeling of the word in your judgement, not the whole sentence.",
+    "examples": [
+      {
+        "explanation": "Task: Is the usage of 'victory' in sentence 2 more intense, less intense, or unchanged with respect to sentence 1?",
+        "example1": "Their victory was celebrated by the entire community.",
+        "example2": "The team's victory was a minor event in the season.",
+        "answer": "In sentence 1, 'victory' is described with high emotional intensity, emphasizing significant community involvement and celebration. In sentence 2, the description of 'victory' as a minor event suggests a less intense (potent, arousing), more subdued connotation."
+      },
+      {
+        "explanation": "Task: Is the usage of 'disaster' in sentence 2 more intense, less intense, or unchanged with respect to sentence 1?",
+        "example1": "The natural disaster caused devastating losses across the region.",
+        "example2": "The project's failure was described as a disaster by the team.",
+        "answer": "In sentence 1, 'disaster' carries a high-intensity connotation with real, significant losses implying severe impact. In sentence 2, although 'disaster' is used metaphorically to describe a failed project, it has a less emotionally intense connotation compared to the real-world implications in sentence 1."
+      },
+      {
+        "explanation": "Task: Is the usage of 'breakthrough' in sentence 2 more intense, less intense, or unchanged with respect to sentence 1?",
+        "example1": "The scientific breakthrough has potential but remains largely theoretical.",
+        "example2": "His breakthrough in negotiations was a turning point in his career.",
+        "answer": "In sentence 1, 'breakthrough' is used with a moderate intensity, described as significant yet still theoretical. In sentence 2, 'breakthrough' is tied to a crucial career achievement, suggesting a more personal and emotionally intense context. The comparison is subtle because both use 'breakthrough' positively, but the personal impact in sentence 2 increases the word's emotional intensity."
+      }
+    ] 
   },
   "data": [
     {
