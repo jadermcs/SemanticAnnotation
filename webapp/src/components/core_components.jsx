@@ -9,10 +9,21 @@
 import React from "react";
 
 function OnboardingComponent({ onSubmit, taskData }) {
+  const [loaded, setLoaded] = React.useState(false);
+  const [unitTaskCounter, setUnitTaskCounter] = React.useState(0);
+  const unitTaskPrevCountRef = React.useRef();
+  React.useEffect(() => {
+    //assign the ref's current value to the count Hook
+    unitTaskPrevCountRef.current = unitTaskCounter;
+    setLoaded(true);
+  }, [unitTaskCounter]); //run this code when the value of count changes
+  function handleSubmit(label) {
+    setUnitTaskCounter(unitTaskCounter + 1);
+  }
   if (!taskData) {
     return <LoadingScreen />;
   }
-  return (
+  return unitTaskCounter < taskData.examples.length ? (
     <div>
       <Directions>{taskData.instructions}</Directions>
       <section className="section">
@@ -20,63 +31,38 @@ function OnboardingComponent({ onSubmit, taskData }) {
         <div className="container">
           <b>Sentence 1:</b>
           <p className="subtitle is-4">
-            <span key="0">{taskData.example1}</span>
+            <span key="0">{taskData.examples[unitTaskCounter].example1}</span>
           </p>
           <b>Sentence 2:</b>
           <p className="subtitle is-4">
-            <span key="1">{taskData.example2}</span>
+            <span key="1">{taskData.examples[unitTaskCounter].example2}</span>
           </p>
+          <b>Task:</b>
           <p className="subtitle is-4">
-            <span key="1">{taskData.explanation}</span>
+            <span key="2">{taskData.examples[unitTaskCounter].explanation}</span>
           </p>
           <b>Answer:</b>
           <p className="subtitle is-4">
-            <span key="0">{taskData.answer}</span>
+            <span key="3">{taskData.examples[unitTaskCounter].answer}</span>
           </p>
         </div>
       </section>
       <div className="field is-grouped" style={{ justifyContent: "center" }}>
-        <div className="control">
-          <button
-            className="button is-success"
-            onClick={() =>
-              window.alert("Please read the instructions carefully.")
-            }
-          >
-            Positive
-          </button>
-        </div>
-        <div className="control">
-          <button
-            className="button is-danger"
-            onClick={() => onSubmit({ success: true })}
-          >
-            Negative
-          </button>
-        </div>
-        <div className="control">
-          <button
-            className="button"
-            onClick={() =>
-              window.alert("Please read the instructions carefully.")
-            }
-          >
-            Neutral
-          </button>
-        </div>
-        <div className="control">
-          <button
-            className="button is-dark"
-            onClick={() =>
-              window.alert("Please read the instructions carefully.")
-            }
-          >
-            Dunno
-          </button>
-        </div>
+        {taskData.labels.map((item, index) => (
+            <div className="control" key={index}>
+              <button
+                className={`button is-large ${item === 'dunno' ? 'is-dark' : ''}`}
+                onClick={() => 
+            taskData.examples[unitTaskCounter].label === item ? handleSubmit() :
+                onSubmit({ success: false })}
+              >
+                {item === 'dunno' ? "I don't know" : item}
+              </button>
+            </div>
+        ))}
       </div>
     </div>
-  );
+  ) : (<div>{onSubmit({ success: true })}</div>);
 }
 
 function LoadingScreen() {
@@ -171,53 +157,45 @@ function SimpleFrontend({
   return unitTaskCounter < taskData.length ? (
     <div>
       <Directions>
-        Please mark if changed or not for the question below.
+        Please select the appropriate option for the question below.
       </Directions>
       <section className="section">
         <div className="container">
           <b>Word:</b>
           <p className="title is-3">
-            <span key="0"> {loaded && taskData[unitTaskCounter]["word"]} </span>
+            <span key="0"> {loaded && taskData[unitTaskCounter]["LEMMA"]} </span>
           </p>
           <b>Sentence 1:</b>
           <p className="subtitle is-4">
             <span key="1">
               {" "}
-              {loaded && taskData[unitTaskCounter]["text1"]}{" "}
+              {loaded && taskData[unitTaskCounter]["USAGE_1"]}{" "}
             </span>
           </p>
           <b>Sentence 2:</b>
           <p className="subtitle is-4">
             <span key="2">
               {" "}
-              {loaded && taskData[unitTaskCounter]["text2"]}{" "}
+              {loaded && taskData[unitTaskCounter]["USAGE_2"]}{" "}
             </span>
           </p>
         </div>
         <div className="controlbox">
           <p className="subtitle is-5">
-            The usage of '<b>{loaded && taskData[unitTaskCounter]["word"]}</b>'
+            The usage of '<b>{loaded && taskData[unitTaskCounter]["LEMMA"]}</b>'
             in the second sentence is more positive, negative or neutral with
             respect to the first sentence?
           </p>
           <div className="field is-grouped">
-            <div className="control">
-              <button
-                data-cy="positive-button"
-                className="button is-success is-large"
-                onClick={() => handleSubmit("changed")}
+
+        {loaded && taskData[unitTaskCounter].OPTIONS.map((item, index) => (
+            <div className="control" key={index}>
+              <button className="button is-large" onClick={() => handleSubmit(item)}
               >
-                Changed
+                {item}
               </button>
             </div>
-            <div className="control">
-              <button
-                className="button is-large"
-                onClick={() => handleSubmit("unchanged")}
-              >
-                Unchanged
-              </button>
-            </div>
+        ))}
             <div className="control">
               <button
                 className="button is-large is-dark"

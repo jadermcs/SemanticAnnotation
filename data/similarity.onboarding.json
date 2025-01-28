@@ -1,0 +1,328 @@
+{
+  "onboarding": {
+    "instructions": "You have entered a training phase to ensure that you are well-prepared for the main annotation task and will be consistent in your judgements. You will be given specific examples to learn how to accurately judge semantic changes of a word in its contexts. This initial training phase will help you understand key concepts and apply them accurately. If you do not pass this training round, you will be excluded from further tasks.\n\nYou are presented with two sentences that both contain a specific word. Your task is to analyze how this word is used in each sentence and determine if its usage in sentence 2 is more positive, negative, or neutral with respect to sentence 1. Please consider only the feeling of the word in your judgement, not the whole sentence.",
+    "examples": [
+      {
+        "explanation": "Is the usage of 'awful' in sentence 2 more positive, negative or neutral with respect to sentence 1?",
+        "example1": "As the hiker reached the summit, the breathtaking view of the majestic mountains left him in an awful silence, overwhelmed by the awe-inspiring beauty that surrounded him.",
+        "example2": "Upon witnessing the gruesome battlefield, the medieval knight was struck with an awful realization of the carnage that lay before him.",
+        "answer": "In sentence 1, the word 'awful' is used in the sense of being full of admiration, while in sentence 2 it is used with the meaning of horrible. So, sentence 2 is more negative."
+      },
+      {
+        "explanation": "Is the usage of 'awful' in sentence 2 more positive, negative or neutral with respect to sentence 1?",
+        "example1": "As the hiker reached the summit, the breathtaking view of the majestic mountains left him in an awful silence, overwhelmed by the awe-inspiring beauty that surrounded him.",
+        "example2": "Upon witnessing the gruesome battlefield, the medieval knight was struck with an awful realization of the carnage that lay before him.",
+        "answer": "In sentence 1, the word 'awful' is used in the sense of being full of admiration, while in sentence 2 it is used with the meaning of horrible. So, sentence 2 is more negative."
+      },
+      {
+        "explanation": "Is the usage of 'awful' in sentence 2 more positive, negative or neutral with respect to sentence 1?",
+        "example1": "As the hiker reached the summit, the breathtaking view of the majestic mountains left him in an awful silence, overwhelmed by the awe-inspiring beauty that surrounded him.",
+        "example2": "Upon witnessing the gruesome battlefield, the medieval knight was struck with an awful realization of the carnage that lay before him.",
+        "answer": "In sentence 1, the word 'awful' is used in the sense of being full of admiration, while in sentence 2 it is used with the meaning of horrible. So, sentence 2 is more negative."
+      }
+    ]  
+  },
+  "data": [
+    {
+      "gt": 0,
+      "index": 0,
+      "text1": "This benign development owes much to wage agreements which take into account the goal of price stability.",
+      "text2": "A wide range of benign and malignant tumors occurs in the liver. ",
+      "word": "benign"
+    },
+    {
+      "gt": 0,
+      "index": 1,
+      "text1": "We risked losing a lot of money in this venture.",
+      "text2": "He saw the rewards but not the risks of crime.",
+      "word": "risk"
+    },
+    {
+      "gt": 0,
+      "index": 2,
+      "text1": "The bride was wearing a pretty dress.",
+      "text2": "And the reader can be pretty sure that the impact on companies and consumers alike is going to be both long and hard. ",
+      "word": "pretty"
+    },
+    {
+      "gt": 1,
+      "index": 3,
+      "text1": "Laid the poor fellow senseless with one stunning blow.",
+      "text2": "Rio is visually just stunning from the air. ",
+      "word": "stunning"
+    },
+    {
+      "gt": 1,
+      "index": 4,
+      "text1": "Many Roma in the candidate Member States live in abject conditions.",
+      "text2": "An abject apology will not regain my trust.",
+      "word": "abject"
+    },
+    {
+      "gt": 0,
+      "index": 5,
+      "text1": "The fear of God instills a sense of duty, guiding individuals to lead righteous lives.",
+      "text2": "Fear played a critical role in gradually rationalizing and humanizing institutions of public security. ",
+      "word": "fear"
+    },
+    {
+      "gt": 0,
+      "index": 6,
+      "text1": "The so-called smart sanctions against the regime are not being particularly smartly enforced.",
+      "text2": "He gave the dog a smart blow.",
+      "word": "smart"
+    },
+    {
+      "gt": 0,
+      "index": 7,
+      "text1": "The confident man had a firm handshake.",
+      "text2": "Favourable conditions for ripening the apples, giving them firm, crunchy flesh and a more elongated, slightly ribbed shape. ",
+      "word": "firm"
+    },
+    {
+      "gt": 1,
+      "index": 8,
+      "text1": "A clean test flight could improve your chances.",
+      "text2": "Who has a clean life, lives in the light of the Word of God, loves and serves his brethren, has nothing to be ashamed of.",
+      "word": "clean"
+    },
+    {
+      "gt": 1,
+      "index": 9,
+      "text1": "Revealing a comfortable color palette rich in contrasts and perfectly suited to each design. ",
+      "text2": "To be able to concentrate on learning the language, you need a reasonably comfortable standard of living. ",
+      "word": "comfortable"
+    },
+    {
+      "gt": 0,
+      "index": 10,
+      "text1": "The mutual aid is reciprocal and all have a burning desire to learn. ",
+      "text2": "After visiting so many places today, my muscles are burning.",
+      "word": "burn"
+    },
+    {
+      "gt": 0,
+      "index": 11,
+      "text1": "There is a right time for everything, conventional wisdom has it. ",
+      "text2": "Their purpose was to shock people out of their conventional attitudes.",
+      "word": "conventional"
+    },
+    {
+      "gt": 0,
+      "index": 12,
+      "text1": "It was a dead shot to buy these assets.",
+      "text2": "How can dead assets be turned into a new cash flow?",
+      "word": "dead"
+    },
+    {
+      "gt": 1,
+      "index": 13,
+      "text1": "Do not subject the navigation device to sudden, severe temperature changes. ",
+      "text2": "The winter was very severe, without preparation you couldn't survive.",
+      "word": "severe"
+    },
+    {
+      "gt": 1,
+      "index": 14,
+      "text1": "Her dress features a modest neckline that covers her up to her collarbone.",
+      "text2": "The vacation resort offered comfortable but modest cottages for guests seeking a cozy and unpretentious accommodation experience.",
+      "word": "modest"
+    },
+    {
+      "gt": 1,
+      "index": 15,
+      "text1": "A limited circle of like minds.",
+      "text2": "She likes to read Russian novels.",
+      "word": "like"
+    },
+    {
+      "gt": 0,
+      "index": 16,
+      "text1": "These theories should be put to the test of naked facts one day.",
+      "text2": "Mr President, the consumer is naked on the Internet. We need data protection laws.",
+      "word": "naked"
+    },
+    {
+      "gt": 1,
+      "index": 17,
+      "text1": "An abused wife.",
+      "text2": "Her husband often abuses alcohol.",
+      "word": "abused"
+    },
+    {
+      "gt": 1,
+      "index": 18,
+      "text1": "The head terminating in the quaint duck bill which gives the animal its vernacular name.",
+      "text2": "The quaint streets of New Orleans, that most foreign of American cities.",
+      "word": "quaint"
+    },
+    {
+      "gt": 1,
+      "index": 19,
+      "text1": "He is used to easy games, so make it hot for him.",
+      "text2": "Cabbage patch dolls were hot last season.",
+      "word": "hot"
+    },
+    {
+      "gt": 0,
+      "index": 20,
+      "text1": "The actor got passes for his family.",
+      "text2": "Economies are in a pass all over the world. ",
+      "word": "pass"
+    },
+    {
+      "gt": 0,
+      "index": 22,
+      "text1": "Shallow breathing is a signal of emotional stability.",
+      "text2": "His arguments seemed shallow to the public.",
+      "word": "shallow"
+    },
+    {
+      "gt": 0,
+      "index": 23,
+      "text1": "Felt relaxed and fit after their holiday.",
+      "text2": "He had a fit.",
+      "word": "fit"
+    },
+    {
+      "gt": 0,
+      "index": 24,
+      "text1": "Citizens have to know the absolute truth about what they eat. ",
+      "text2": "The Czech President is not an absolute monarch, nor is he a supreme representative as in the political system of the former Soviet Union. ",
+      "word": "absolute"
+    },
+    {
+      "gt": 1,
+      "index": 25,
+      "text1": "Cold baths are also important to reduce itching.",
+      "text2": "She had her lines cold before rehearsals started.",
+      "word": "cold"
+    },
+    {
+      "gt": 1,
+      "index": 26,
+      "text1": "It is a delicate flower and we all want it to be a success.",
+      "text2": "The delicate touch of a surgeon is an unique sight.",
+      "word": "delicate"
+    },
+    {
+      "gt": 1,
+      "index": 27,
+      "text1": "Fabulous creatures belong to the mythical, legendary and fantastic realms.",
+      "text2": "Such an unstable, dynamic mirror universe, with a fabulous scale, is our new reality.",
+      "word": "fabulous"
+    },
+    {
+      "gt": 1,
+      "index": 29,
+      "text1": "This restaurant serves plain food.",
+      "text2": "I want some plain water, please.",
+      "word": "plain"
+    },
+    {
+      "gt": 1,
+      "index": 30,
+      "text1": "Make yourself comfortable in the chair.",
+      "text2": "Can you comfort her?",
+      "word": "comfort"
+    },
+    {
+      "gt": 1,
+      "index": 31,
+      "text1": "The visiting team dominated the locals.",
+      "text2": "India was dominated by the British until 1947.",
+      "word": "dominated"
+    },
+    {
+      "gt": 1,
+      "index": 32,
+      "text1": "Is this parking lot free?",
+      "text2": "After many years of servitude, he was finally freed from his chains.",
+      "word": "free"
+    },
+    {
+      "gt": 1,
+      "index": 33,
+      "text1": "His professed intentions are aligned with ours.",
+      "text2": "A professed mathematician is working on this problem.",
+      "word": "professed"
+    },
+    {
+      "gt": 0,
+      "index": 34,
+      "text1": "She salts her lectures with jokes.",
+      "text2": "She was salty because of what happened yesterday.",
+      "word": "salt"
+    },
+    {
+      "gt": 0,
+      "index": 35,
+      "text1": "All the fanciful vagaries of childhood.",
+      "text2": "Could fanciful objectives lead us anywhere?",
+      "word": "fanciful"
+    },
+    {
+      "gt": 1,
+      "index": 36,
+      "text1": "The road had to be closed for several hours.",
+      "text2": "The concert closed with a nocturne by Chopin.",
+      "word": "close"
+    },
+    {
+      "gt": 1,
+      "index": 37,
+      "text1": "A strong odor of sulfur.",
+      "text2": "A strong radio signal.",
+      "word": "strong"
+    },
+    {
+      "gt": 1,
+      "index": 38,
+      "text1": "The pacient is recuperating.",
+      "text2": "The patient has recuperated.",
+      "word": "recuperate"
+    },
+    {
+      "gt": 1,
+      "index": 39,
+      "text1": "No wonder they gloat over bigger, better, and more consistent markets.",
+      "text2": "Whilst we do not like to gloat, we have heard the same thing.",
+      "word": "gloat"
+    },
+    {
+      "gt": 0,
+      "index": 40,
+      "text1": "You are an apt man, don't let him diminish you.",
+      "text2": "He is apt to arrive late.",
+      "word": "apt"
+    },
+    {
+      "gt": 0,
+      "index": 41,
+      "text1": "The boy is rather tall for his age.",
+      "text2": "This is a tall order by any standard.",
+      "word": "tall"
+    },
+    {
+      "gt": 0,
+      "index": 45,
+      "text1": "The gentle touch of her hand.",
+      "text2": "A vein of gentle irony.",
+      "word": "gentle"
+    },
+    {
+      "gt": 1,
+      "index": 48,
+      "text1": "I finally settled with John; he will no longer be in our way.",
+      "text2": "The two parties finally settled the dispute.",
+      "word": "settle"
+    },
+    {
+      "gt": 0,
+      "index": 51,
+      "text1": "An open economy and a social state with social rights for the people are not incompatible.",
+      "text2": "The letter was already open.",
+      "word": "open"
+    }
+  ]
+}

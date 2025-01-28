@@ -1,0 +1,2762 @@
+[
+  {
+    "LEMMA":"accommodate",
+    "SENSE_KEY_1":"accommodate%2:42:03::",
+    "SENSE_KEY_2":"accommodate%2:34:00::",
+    "USAGE_1":"In the past an orthodontist might have tried , over four or five years , to straighten and fit the boy 's large teeth into a jaw that , despite some growth , would never accommodate them .",
+    "USAGE_2":"Motorists like myself who can remember the old `` tourists accommodated '' signs on farm houses and village homes before World War 2 , can only marvel at the great size and the luxury of the relatively new and fast-grossing motel business .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"accuracy",
+    "SENSE_KEY_1":"accuracy%1:07:02::",
+    "SENSE_KEY_2":"accuracy%1:07:03::",
+    "USAGE_1":"The accuracy of measuring the total electrical energy entering an exploding wire during a few microseconds was verified when two independent types of comparison with the heat energy produced had an uncertainty of less than 2 percent .",
+    "USAGE_2":"It is sufficiently small compared with the surface temperature of the anode holder , to make the energy flux radiated from the environment toward the anode holder negligible within the accuracy of the present measurements .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"afford",
+    "SENSE_KEY_1":"afford%2:34:00::",
+    "SENSE_KEY_2":"afford%2:40:00::",
+    "USAGE_1":"Corporations are apt by nature to be impersonal , inhumane , shortsighted and almost exclusively profit motivated , a picture they could scarcely afford to present to the public .",
+    "USAGE_2":" The command of a language, while not affording guaranteed access to the community which speaks it, is often the key to gaining entry.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"afraid",
+    "SENSE_KEY_1":"afraid%3:00:00::",
+    "SENSE_KEY_2":"afraid%5:00:00:concerned:00",
+    "USAGE_1":"He straightened up , ready to vent his exasperation , then grew afraid .",
+    "USAGE_2":"`` I am afraid there is not much to amuse small children here .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"agree",
+    "SENSE_KEY_1":"agree%2:32:00::",
+    "SENSE_KEY_2":"agree%2:32:01::",
+    "USAGE_1":"Arthur Williams had to be located , they agreed .",
+    "USAGE_2":"Three agreed , but four declined and were suspended .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"ambition",
+    "SENSE_KEY_1":"ambition%1:12:00::",
+    "SENSE_KEY_2":"ambition%1:07:00::",
+    "USAGE_1":"In short , the fictional private eye is a specialized version of Adam Smith 's ideal entrepreneur , the man whose private ambitions must always and everywhere promote the public welfare .",
+    "USAGE_2":"Again , Lawrence thought a little sadly , these were the fees of poverty and ambition .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"ambitious",
+    "SENSE_KEY_1":"ambitious%5:00:00:difficult:00",
+    "SENSE_KEY_2":"ambitious%3:00:00::",
+    "USAGE_1":"Since the complicated process of establishing new communes and reviewing the rudimentary plan left by the French did not even begin until the fall of 1957 , this goal appears somewhat ambitious .",
+    "USAGE_2":"He had not because he was both poor and ambitious .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"anticipate",
+    "SENSE_KEY_1":"anticipate%2:41:00::",
+    "SENSE_KEY_2":"anticipate%2:31:01::",
+    "USAGE_1":"To be sure , in tool-and-die work and in the building trades , the first job must be often on an apprentice basis , but two years of halftime vocational training enables the young man thus to anticipate one year of apprentice status .",
+    "USAGE_2":"In that decade the partisan zeal to defend Mr. Hoover , and the party 's failure to anticipate or cope with the depression , caused a great majority of Americans to see the Republican party as cold and lacking in any sympathy for the problems of human beings caught up in the distress and suffering brought on by the economic crash .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"antique",
+    "SENSE_KEY_1":"antique%5:00:00:old:01",
+    "SENSE_KEY_2":"antique%5:00:00:unfashionable:00",
+    "USAGE_1":"This almost trivial example is nevertheless suggestive , for there are some elements in common between the antique fear that the days would get shorter and shorter and our present fear of war .",
+    "USAGE_2":"'' Although Renaissance architects described their architecture as all\u2019antica--in the antique manner--they took it for granted that the history of architecture was a progression: the Romans improved on the Greeks, and they would improved on the Romans.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"approach",
+    "SENSE_KEY_1":"approach%2:32:00::",
+    "SENSE_KEY_2":"approach%2:41:00::",
+    "USAGE_1":"These reports refer to a level of secondary prevention in a child guidance clinic approached by the customary route of voluntary referral by the family or by other professional people .",
+    "USAGE_2":" Like Carr\u00e8re & Hastings, and generations of architects before them, Greenberg approaches Classicism as a tradition to be studied, absorbed--then extended.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"arrangement",
+    "SENSE_KEY_1":"arrangement%1:09:00::",
+    "SENSE_KEY_2":"arrangement%1:14:00::",
+    "USAGE_1":"There is only one catch to this idyllic arrangement :",
+    "USAGE_2":"It uses both an ultrasonic dimensioning arrangement of the heart and a catheter carrying a thermistor inserted into the bloodstream .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"assert",
+    "SENSE_KEY_1":"assert%2:32:01::",
+    "SENSE_KEY_2":"assert%2:41:00::",
+    "USAGE_1":"This he failed to do , asserting that he did not know it to be in his file .",
+    "USAGE_2":"Large planes juxtaposed with other large planes tend to assert themselves as independent shapes , and to the extent that they are flat , they also assert themselves as silhouettes ; and independent silhouettes are apt to coincide with the recognizable contours of the subject from which a picture starts ( if it does start from a subject ) .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"assume",
+    "SENSE_KEY_1":"assume%2:30:00::",
+    "SENSE_KEY_2":"assume%2:36:00::",
+    "USAGE_1":"When we `` forced '' individuals to assume the corporate structure by means of taxes and other legal statutes , we adopted what I would term `` pseudo capitalism '' and so took a major step toward socialism .",
+    "USAGE_2":"'' Arthur's face assumed a long-suffering aspect of authoritative exasperation.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"attend",
+    "SENSE_KEY_1":"attend%2:42:00::",
+    "SENSE_KEY_2":"attend%2:39:00::",
+    "USAGE_1":"Sixty five per cent of the Jewish teen-agers of college age attend institutions of higher learning .",
+    "USAGE_2":" However, unbridled communion may neglect to attend to the mechanisms and rewards through which effective collaboration can occur.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"avail",
+    "SENSE_KEY_1":"avail%2:34:00::",
+    "SENSE_KEY_2":"avail%2:41:00::",
+    "USAGE_1":"Purpose of this inventory is to include all eligible productive facilities in SBA 's facilities register so that the small business concerns may have an opportunity to avail themselves of the services authorized by the Congress in establishing the Small Business Administration .",
+    "USAGE_2":"State Department officials refusing to show their passes at the boundary , and driving two blocks into East Berlin under military escort , will not avail .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"average",
+    "SENSE_KEY_1":"average%5:00:02:normal:01",
+    "SENSE_KEY_2":"average%5:00:00:common:01",
+    "USAGE_1":"Such payments shall be made to small domestic producers of lead as long as the market price for common lead at New York , New York , as determined by the Secretary , is below 14 - 1 2 cents per pound , and such payments shall be 75 per centum of the difference between 14 - 1 2 cents per pound and the average market price for the month in which the sale occurred as determined by the Secretary .",
+    "USAGE_2":"Average consumer is becoming more sophisticated regarding product and advertising claims , partly because of widespread criticism of such assertions .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"avoid",
+    "SENSE_KEY_1":"avoid%2:41:03::",
+    "SENSE_KEY_2":"avoid%2:32:00::",
+    "USAGE_1":"She realized I 'd have to notify the police , but fervently hoped I could avoid mentioning her name .",
+    "USAGE_2":"It was in order to avoid the stuffy routine of middle class life that Holmes became a detective in the first place .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"awareness",
+    "SENSE_KEY_1":"awareness%1:09:00::",
+    "SENSE_KEY_2":"awareness%1:09:01::",
+    "USAGE_1":"My intention , therefore , is not to say that Faulkner 's awareness has been confined within the borders of the South , but rather that he has looked at his world as a Southerner and that presumably his outlook is Southern .",
+    "USAGE_2":"Therefore , if the sense of touch is functioning normally and there is a complete absence of spatial awareness in a psychically blind person when the eyes are closed and an object is handled , the conclusion seems unavoidable that touch by itself cannot focus and take possession of the third-dimensionality of things and that actual sight or visual representations are necessary .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"bad",
+    "SENSE_KEY_1":"bad%3:00:00::",
+    "SENSE_KEY_2":"bad%5:00:00:inferior:02",
+    "USAGE_1":"The traditional strategy of the South has been to expose the vices of the North , to demonstrate that the North possessed no superior virtue , to `` show the world that '' ( as James 's Christopher Newman said to his adversaries ) `` however bad I may be , you 're not quite the people to say it '' .",
+    "USAGE_2":" But when Gailhaguet sought guidance from a French government official, he was told that `` Tokhtakhounov's money is bad,'' the affidavit said.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"bare",
+    "SENSE_KEY_1":"bare%5:00:00:meager:00",
+    "SENSE_KEY_2":"bare%5:00:00:unclothed:00",
+    "USAGE_1":"Just the barest suggestion of a heel is found on teenage pumps .",
+    "USAGE_2":" (Jones pauses to clench his left hand, which is a large lobster claw) (Jones casually lights a pipe in front of one of the cowering crewmen) DAVY JONES Do you fear death? Do you fear that dark abyss? All your deeds laid bare.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"bathe",
+    "SENSE_KEY_1":"bathe%2:29:00::",
+    "SENSE_KEY_2":"bathe%2:35:00::",
+    "USAGE_1":"But just when she seemed to have sunk into some depravity of peasanthood she would disappear and come down bathed , brushed , and taking breaths of air , and even with her broken nails her hands would come to rest on a table or a leaf with a thoughtless delicacy , a grace of history , so to speak , and for an instant one saw how ferociously proud she was and adamant on certain questions of personal value .",
+    "USAGE_2":"Starting with the room completely blacked out , as it was when we came in , he unerringly fixed things so that the whole place was bathed in the maximum of light without at any point admitting even so much as a crack of glare .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"beg",
+    "SENSE_KEY_1":"beg%2:32:00::",
+    "SENSE_KEY_2":"beg%2:40:00::",
+    "USAGE_1":"Watson watched two of them flounder into the shallow water and listened to their voices beg shrilly .",
+    "USAGE_2":"Or , in the words of Anatole France , `` The law in its majestic equality must forbid the rich , as well as the poor , from begging in the streets and sleeping under bridges '' .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"bleed",
+    "SENSE_KEY_1":"bleed%2:29:01::",
+    "SENSE_KEY_2":"bleed%2:29:00::",
+    "USAGE_1":"Tibet may bleed China as Algeria is bleeding France .",
+    "USAGE_2":" His nose was bleeding and his eye looked like it was minutes from serious bruising.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"blend",
+    "SENSE_KEY_1":"blend%1:11:00::",
+    "SENSE_KEY_2":"blend%2:35:00::",
+    "USAGE_1":"It is this curious blend of rugged individualism and public service which accounts for the great appeal of the mythological detective .",
+    "USAGE_2":"Superstition has often blended with fact to color reports .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"bomb",
+    "SENSE_KEY_1":"bomb_calorimeter%1:06:00::",
+    "SENSE_KEY_2":"bombard%2:33:00::",
+    "USAGE_1":"500 ml of 1 M aqueous **f with 1 g **f added are heated in a bomb at 170 ` C for 48 hours .",
+    "USAGE_2":"Bomb Berlin !",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"book",
+    "SENSE_KEY_1":"book%1:06:00::",
+    "SENSE_KEY_2":"book%2:31:00::",
+    "USAGE_1":"These narratives of coarse action and crude language appeared first in local newspapers , as a rule , and later found their way between book covers , though rarely into the planters ' libraries beside the morocco bound volumes of Horace , Mr. Addison , Mr. Pope , and Sir Walter Scott .",
+    "USAGE_2":"The Kirov Ballet is firmly booked into the Shrine Auditorium , Los Angeles , Nov. 21 thru Dec. 4 .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"bore",
+    "SENSE_KEY_1":"bore%2:35:00::",
+    "SENSE_KEY_2":"bore%2:37:00::",
+    "USAGE_1":"When a hole is to be bored to a predetermined depth , mark the depth on the side of the stock , then run the bit down so that it is even with the mark .",
+    "USAGE_2":"`` Does he ever bore you '' ?",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"bother",
+    "SENSE_KEY_1":"bother%2:41:00::",
+    "SENSE_KEY_2":"bother%2:37:00::",
+    "USAGE_1":" Why do you even bother asking? Of course all I want to do is feel your arms wrapped around me.",
+    "USAGE_2":" ``What?'' Alex asked worriedly, ``What's funny?'' ``It was bothering me, too!'' she burst.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"bottle",
+    "SENSE_KEY_1":"bottle%1:06:00::",
+    "SENSE_KEY_2":"bottle%1:23:00::",
+    "USAGE_1":"She had lost a bottle of opium - but that was on the trip from New Orleans .",
+    "USAGE_2":"One said , `` When I get a cold I buy a bottle of whiskey for it , and within a few hours it 's gone '' .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"breast",
+    "SENSE_KEY_1":"breast%1:08:00::",
+    "SENSE_KEY_2":"breast%1:08:01::",
+    "USAGE_1":"Recently , for example , a paranoid woman 's large-scale philosophizing , in the session , about the intrusive curiosity which has become , in her opinion , a deplorable characteristic of mid twentieth century human culture , developed itself , before the end of the session , into a suspicion that I was surreptitiously peeking at her partially exposed breast , as indeed I was .",
+    "USAGE_2":"When it was worn in the breast , or even on the sleeve , we at least knew where it was '' .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"bright",
+    "SENSE_KEY_1":"bright%5:00:00:colorful:00",
+    "SENSE_KEY_2":"bright%3:00:00::",
+    "USAGE_1":"Pale yellow snapdragons that by pinching could be made to bite ; seed-pods of the balsams that snapped like fire-crackers at a touch ; red and yellow columbines whose round tipped spurs were picked off and eaten for the honey in them ; morning-glory buds which could be so grasped and squeezed that they burst like a blown-up paper bag ; bright flowers from the trumpet vine that made `` gloves '' on the ends of ten waggling fingers .",
+    "USAGE_2":"Often , in working out-of-doors under all conditions of light and atmosphere , a particular passage that looked favorable in relation to the subject will be too bright , too dull , or too light , or too dark when viewed indoors in a mat .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"bring",
+    "SENSE_KEY_1":"bring%2:35:04::",
+    "SENSE_KEY_2":"bring%2:35:02::",
+    "USAGE_1":"This is done for simplicity of commands and to bring the hidden redundancy up to where misunderstanding has almost zero possibility .",
+    "USAGE_2":"But he brought back the sheriff and several deputies , and to the lawmen the entire affair seemed a repetition of the Lewis killing .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"bud",
+    "SENSE_KEY_1":"bud%1:20:02::",
+    "SENSE_KEY_2":"bud%2:30:00::",
+    "USAGE_1":"Three of these only were protected from us by stern commandment : the roses , whose petals might not be collected until they had fallen , to be made into perfume or rose tea to drink ; the peonies , whose tight sticky buds would be blighted by the laying on of a finger , although they were not apparently harmed by the ants that crawled over them ; and the poppies .",
+    "USAGE_2":"These cut-down plants will bud and blossom in record time and will behave just as they did in early spring .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"budget",
+    "SENSE_KEY_1":"budget%1:21:03::",
+    "SENSE_KEY_2":"budget%2:31:00::",
+    "USAGE_1":"New obligational authority for 1961 recommended in this budget for aircraft procurement ( excluding amounts for related research and construction ) totals $ 4753 million , which is $ 1390 million below that enacted for 1960 .",
+    "USAGE_2":"William Smythe , director of field service , told the commissioners that Multnomah , as of Aug. 22 , had spent $ 58918 out of its budgeted $ 66000 in the category , leaving only $ 7082 for the rest of the month .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"build",
+    "SENSE_KEY_1":"build%2:36:09::",
+    "SENSE_KEY_2":"build_up%2:30:00::",
+    "USAGE_1":"Average manufacturer frequently has helped build private brand business , delivering largely the same qualities and styles in private brand merchandise as in branded .",
+    "USAGE_2":"Then he was striding across the room , his thoughts confused but the worry building swiftly inside him as he snatched up the note .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"bulb",
+    "SENSE_KEY_1":"bulb%1:06:01::",
+    "SENSE_KEY_2":"bulb%1:20:00::",
+    "USAGE_1":" The table fell over and the lamp on it shattered and as the bulb broke, it started a fire in the drapes.",
+    "USAGE_2":" Peter Cundall: spring bulbs http:\/\/bit.ly\/Z67 Isiah goes back to school: \\ Former Knicks coach Isiah Thomas has agreed to become the next head coach at l..",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"bunk",
+    "SENSE_KEY_1":"bunk%1:06:03::",
+    "SENSE_KEY_2":"bunk%1:06:00::",
+    "USAGE_1":"There are three principal feed bunk types for dairy and beef cattle : ( 1 ) Fence-line bunks - cattle eat from one side while feed is put in from the opposite side of the fence by self unloading wagons ; ( 2 ) Mechanized bunks - they sit within the feed lot , are filled by a mechanical conveyor above feeding surface ; ( 3 ) Special bunks - as discussed here , they permit cattle to eat from all sides .",
+    "USAGE_2":" Karnes handed out bunk assignments, choosing the mess officer, Chuck Perry, to share his tent.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"burrow",
+    "SENSE_KEY_1":"burrow%1:17:00::",
+    "SENSE_KEY_2":"burrow%2:38:00::",
+    "USAGE_1":"Although Andrena is gregarious , so that we may find hundreds and hundreds of burrows together , we must still call it a solitary bee .",
+    "USAGE_2":"Arnold 's iron shot from the tee burrowed into the bunker guarding the green , an embankment that had become soft and spongy from the rains , thereby bringing local rules into force .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"burst",
+    "SENSE_KEY_1":"burst%2:30:00::",
+    "SENSE_KEY_2":"burst%2:38:00::",
+    "USAGE_1":"The clouds bulged downward and burst suddenly into a great black funnel .",
+    "USAGE_2":"They answered him in monosyllables , nods , occasionally muttering in Greek to one another , awaiting the word from Papa , who restlessly cracked his knuckles , anxious to stuff himself into his white Cadillac and burst off to the freeway .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"bury",
+    "SENSE_KEY_1":"bury%2:35:00::",
+    "SENSE_KEY_2":"bury%2:39:00::",
+    "USAGE_1":"When a second quake came , they dashed back to the beach , fearing that they might be buried under landslides .",
+    "USAGE_2":"Cover the whole building , bury us all , by nightfall .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"bush",
+    "SENSE_KEY_1":"bush%1:15:00::",
+    "SENSE_KEY_2":"bush%1:14:00::",
+    "USAGE_1":"Did many of Sam 's countrymen live in boxcars in the bush ?",
+    "USAGE_2":" (Norrington runs off to chase Jack up the hill) (the crew of Flying Dutchman emerge from the shallows) (one crewmember holds chain shot as a weapon) ISLA CRUCES church (Jack and Norrington run through bushes on the beach, then up to a dilapidated stone church on the hill) (P2) (Norrington chases Jack up steps inside the building, Jack kicks Norrington back down with his foot) (Jack and Norrington have a swordfight on the inside steps) (Jack grabs hold of the bell rope, which carries him downward, and carries Will upward, who just arrived) WILL TURNER By *your* leave, Mister Norrington.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"business",
+    "SENSE_KEY_1":"business%1:14:02::",
+    "SENSE_KEY_2":"business%1:04:01::",
+    "USAGE_1":"To free the factors of production was a major objective of the rising bourgeoisie , and this objective required that governmental authority - administrative officials and judges - be limited as precisely and explicitly as possible ; that old customs which inhibited trade be abrogated ; that business be free from governmental supervision and notions of morality which might clog the automatic adjustments of the free market ; that obligations of status that were inconsistent with the new politics and the new economics be done away with .",
+    "USAGE_2":" And Turner there - I figure 'e's tryna... settle some unresolved business 'twixt him and his twice-cursed pirate father.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"by-product",
+    "SENSE_KEY_1":"by-product%1:19:00::",
+    "SENSE_KEY_2":"by-product%1:06:00::",
+    "USAGE_1":"It would be all right with him , he decided , if his investigation of the fraud , with its probable by-product of murder , led to Garth 's door .",
+    "USAGE_2":"study methods for the recovery and marketing of commercially valuable byproducts resulting from the conversion of saline water ; and undertake economic studies and surveys to determine present and prospective costs of producing water for beneficial consumptive purposes in various parts of the United States by the leading saline water processes as compared with other standard methods .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"calculate",
+    "SENSE_KEY_1":"calculate%2:31:00::",
+    "SENSE_KEY_2":"calculate%2:31:03::",
+    "USAGE_1":"The average sludge age based on displacement of solids was calculated to be 14.5 days .",
+    "USAGE_2":"First of all , and this has been calculated by observation , the universe is expanding - that is , the galaxies are receding from each other at immense speeds .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"call_in",
+    "SENSE_KEY_1":"call_in%2:32:02::",
+    "SENSE_KEY_2":"call_in%2:35:00::",
+    "USAGE_1":"The Ifni crisis in the fall of 1957 postponed further consideration of elections , but French consultants were called in and notices of further investigation appeared from time to time .",
+    "USAGE_2":"I think her husband strongly suspects so , and that 's why he called me in on the thing in direct defiance of his confederates and almost certainly without telling them why he was doing so .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"campaign",
+    "SENSE_KEY_1":"campaign%2:33:01::",
+    "SENSE_KEY_2":"campaign%1:04:02::",
+    "USAGE_1":"In 1952 , it will be remembered , the G. O. P. without positive program campaigned on the popular disillusionment with liberal leadership and won overwhelmingly .",
+    "USAGE_2":"The Conference called for a vigorous campaign against the open or secret sale of contraceptives .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"capital",
+    "SENSE_KEY_1":"capital%1:15:00::",
+    "SENSE_KEY_2":"capital%1:21:00::",
+    "USAGE_1":"But he had never seen the mountainous half of his native land north of Vientiane , including the royal capital , Luang Prabang .",
+    "USAGE_2":"It argued , inter alia , that a divestiture order would severely depress the market value of the stock of both General Motors and du Pont , with consequent serious loss and hardship to hundreds of thousands of innocent investors , among them thousands of small trusts and charitable institutions ; that there would be a similar decline in the market values of other automotive and chemical stocks , with similar losses to the stockholders of those companies ; that the tremendous volume of General Motors stock hanging over the market for ten years would hamper the efforts of General Motors and other automobile manufacturers to raise equity capital ; and that all this would have a serious adverse effect on the entire stock market and on general business activity .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"capture",
+    "SENSE_KEY_1":"capture%2:36:00::",
+    "SENSE_KEY_2":"capture%2:37:00::",
+    "USAGE_1":"An idea , of the sort that we have in mind , although of necessity readily available to imagination , is more general in connotation than most poetic or literary images , especially those appearing in lyric poems that seek to capture a moment of personal experience .",
+    "USAGE_2":"Despite all this , the idea apparently has captured the imagination of countless youths whose parents are probably more surprised by the response than anybody else .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"card",
+    "SENSE_KEY_1":"card%1:10:01::",
+    "SENSE_KEY_2":"card%1:06:00::",
+    "USAGE_1":"The safe is a repository for three dead flashlight batteries , a hundred and fifty unused left-hand fingerprint cards , a stack of unsold Policemen's Ball tickets from last year , and thirty-seven cents in coins and stamps .",
+    "USAGE_2":"( For instance , see Example 2 of Section 5 - 5 , on red cards in hands of 5 . )",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"cast",
+    "SENSE_KEY_1":"cast%2:36:02::",
+    "SENSE_KEY_2":"cast%2:35:00::",
+    "USAGE_1":" The glow reflected on her pink face, casting a sickly pallor over her heartbeat-strong cheeks.",
+    "USAGE_2":" ``Could you write decent tales with that willow at your window?'' Allan cried out at last, stepping forward and casting his arms open, confronting Arthur with this demanding, pleading interrogation.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"ceremony",
+    "SENSE_KEY_1":"ceremony%1:04:01::",
+    "SENSE_KEY_2":"ceremony%1:04:01::;1:11:00::",
+    "USAGE_1":"This is the most endearing of Lao ceremonies .",
+    "USAGE_2":" Sheikh Mohammed, who is also the UAE Defence Minister, said during the launching ceremony ``we wish to make Dubai a center of modern economy''.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"challenge",
+    "SENSE_KEY_1":"challenge%1:26:00::",
+    "SENSE_KEY_2":"challenge%1:10:00::",
+    "USAGE_1":"Many Americans reacted irrationally to the challenge of Russia and turned to the repression of ideas by force .",
+    "USAGE_2":" Stovohobo 2008-11-09T20:27:03Z ID: 45746 Prequels: none Sequels: 45772 45939 46160 46354 46854 It's been forever since I've done a challenge, and I think it's about time that I started one up again.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"change",
+    "SENSE_KEY_1":"change%1:04:00::",
+    "SENSE_KEY_2":"change%2:30:03::",
+    "USAGE_1":"A Virginia judge a while back cited a Roman jurist to the effect that ten years might be a reasonable length of time for such a change .",
+    "USAGE_2":"Changing his clothes upstairs ?",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"characteristic",
+    "SENSE_KEY_1":"characteristic%3:00:00::",
+    "SENSE_KEY_2":"characteristic%1:07:00::",
+    "USAGE_1":"Owing to the restrained usages characteristic of 19 th century America , these letters usually were stereotyped and revealed little depth of feeling .",
+    "USAGE_2":"A chief characteristic of experience in the mode of causal efficacy is one of derivation from the past .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"check",
+    "SENSE_KEY_1":"check%1:21:00::",
+    "SENSE_KEY_2":"check%2:41:04::",
+    "USAGE_1":"M + R Dietetic Laboratories , Inc. , Columbus , gives all its workers a facsimile checkbook - each check showing the amount the company spends on a particular fringe .",
+    "USAGE_2":"One way to determine whether we have so dangerous a technology would be to check the strength of our society 's organs to see if their functioning is as healthy as before .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"child",
+    "SENSE_KEY_1":"child%1:18:01::",
+    "SENSE_KEY_2":"child%1:18:00::",
+    "USAGE_1":"Youngish man on the make , Madden labeled him , and was ready to guess that in a correct , not too pushing fashion , the junior partner of the firm had political ambitions ; that Mrs. Garth would be impeccably suitable as the wife of a rising young lawyer ; that there were three children , two boys and a girl ; that she was active in the Woman 's Club and he in Lions , Rotary , and Jaycee ; and finally , that neither of them had harbored an unorthodox opinion since their wedding day .",
+    "USAGE_2":"If a child had a single drop of Negro blood , he would revert to the ancestral line which , except as slaves under a superior race , had not made one step of progress in 3000 years .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"chord",
+    "SENSE_KEY_1":"chord%1:25:00::",
+    "SENSE_KEY_2":"chord%1:10:00::",
+    "USAGE_1":"On C , from the point P at **f to the point Q at **f , we construct the chord , and upon the chord as a side erect a square in such a way that as s approaches zero the square is inside C .",
+    "USAGE_2":" example 8: measures 76-80 (violins) Rhythmically, we have a dissonance between the melody, which follows the written meter, and the accompanying chords in the bassoons, horns and lower strings.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"church",
+    "SENSE_KEY_1":"church%1:14:00::",
+    "SENSE_KEY_2":"church%1:06:00::",
+    "USAGE_1":"It reported that he now devoted only some 6 - 1 2 hours per month to public preaching and from 20 to 25 hours per month to church activities .",
+    "USAGE_2":"`` There 's a church you should see '' , she said .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"circumstance",
+    "SENSE_KEY_1":"circumstance%1:26:01::",
+    "SENSE_KEY_2":"circumstance%1:09:00::",
+    "USAGE_1":"Instead of quelling the dissension , as many captains of the era would have done ( Sir Francis Drake lopped a man 's head off under similar circumstances ) , Hudson decided to be reasonable .",
+    "USAGE_2":"In the light of these circumstances , as well as the fact that the issue at trial in this respect centered entirely on the Department 's recommendation , which petitioner repudiated but which both the appeal board and the courts below found supported by the record , we find no relevancy in the hearing officer 's report and notes .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"claim",
+    "SENSE_KEY_1":"claim%1:10:02::",
+    "SENSE_KEY_2":"claim%1:07:02::",
+    "USAGE_1":"He claims that he was denied due process of law in violation of the Fifth Amendment , because ( 1 ) at a hearing before a hearing officer of the Department of Justice , he was not permitted to rebut statements attributed to him by the local board , and ( 2 ) at the trial , he was denied the right to have the hearing officer 's report and the original report of the Federal Bureau of Investigation as to his claim .",
+    "USAGE_2":"Other innovations with better claims to musical interest survived rehearing to acquire in time the status of classics .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"close",
+    "SENSE_KEY_1":"close%3:00:01::",
+    "SENSE_KEY_2":"close%3:00:05::",
+    "USAGE_1":"O ' Banion was born in poverty , the son of an immigrant Irish plasterer , in the North Side 's Little Hell , close by the Sicilian quarter and Death Corner .",
+    "USAGE_2":" RAGETTI No-no-no-no-no-no-no. Krock-en's how it's pronounced in the original Scandinavian, and Krack-en's closer to that.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"coherent",
+    "SENSE_KEY_1":"coherent%3:00:00::",
+    "SENSE_KEY_2":"coherent%5:00:00:rational:00",
+    "USAGE_1":"The first half of The Charles Men , ending on the climax of the battle of Poltava in 1709 , is more dramatically coherent than the second .",
+    "USAGE_2":"There was nothing coherent about his thinking .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"collector",
+    "SENSE_KEY_1":"collector%1:18:01::",
+    "SENSE_KEY_2":"collector%1:18:00::",
+    "USAGE_1":"Anthropologists , housewives , historians and such by profession , they approach their discipline as amateurs , collectors , commercial propagandists , analysts or some combination of the four .",
+    "USAGE_2":"Buffalo coach Buster Ramsey , who has become one of the game 's greatest collectors of quarterbacks , apparently now has found a productive pair in two ex National Football Leaguers , M. C. Reynolds and Warren Rabb .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"comment",
+    "SENSE_KEY_1":"comment%2:32:00::",
+    "SENSE_KEY_2":"comment%1:10:01::",
+    "USAGE_1":"Alexander the Great , who used runners as message carriers , did not have to worry about having every officer in his command hear what he said and having hundreds of them comment at once .",
+    "USAGE_2":"Young Morris , who , while attending the University of Pennsylvania , also taught and edited a paper , found time to write Henrietta twenty page letters on everything that engaged his interest , from the acting of Sarah Bernhardt in Philadelphia to his reactions to the comments of `` Sulamith '' on the Jewish reform movement being promulgated by the Hebrew Union College in Cincinnati .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"communicate",
+    "SENSE_KEY_1":"communicate%2:32:00::",
+    "SENSE_KEY_2":"communicate%2:32:01::",
+    "USAGE_1":"But I think a man needs at least one intimate friend to communicate with '' .",
+    "USAGE_2":"Various methods of pulsing , scanning , and displaying these sound waves are used to detect submarines , map ocean floors , and even communicate under water .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"competitive",
+    "SENSE_KEY_1":"competitive%3:00:00::",
+    "SENSE_KEY_2":"competitive%5:00:00:capitalistic:00",
+    "USAGE_1":"Many companies have upgraded their sales manpower and tested new selling , distribution , and promotion techniques to gain a bigger competitive edge .",
+    "USAGE_2":"Obviously , the Interstate Commerce Commission will not force the New York Central to further curtail its commuter operations by giving undue competitive advantages to the lines that wish to merge .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"complicate",
+    "SENSE_KEY_1":"complicate%2:30:00::",
+    "SENSE_KEY_2":"complicate%2:30:01::",
+    "USAGE_1":"In February , 1958 , the patient suffered a myocardial infarction complicated by pulmonary edema .",
+    "USAGE_2":"Tenderly and rather tediously , the camera rivets on the abrupt , deep love of a pretty nurse and a uniformed teacher , complicated by nothing more than a friend they do n't want to hurt .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"concede",
+    "SENSE_KEY_1":"concede%2:32:01::",
+    "SENSE_KEY_2":"concede%2:40:00::",
+    "USAGE_1":"In 1930 , the Lambeth Conference again affirmed the primary purpose of marriage to be the procreation of children , but conceded that , in certain limited circumstances , contraception might be morally legitimate .",
+    "USAGE_2":"If the Union conceded this to them , the same right must be conceded to each remaining state whenever it saw fit to secede : This would destroy the federal balance between it and the states , and in the end sacrifice to the sovereignty of the states all the liberty the citizens had gained by their Union .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"conflict",
+    "SENSE_KEY_1":"conflict%1:04:00::",
+    "SENSE_KEY_2":"conflict%1:26:00::",
+    "USAGE_1":"Private international law ( which Americans call the `` conflict of laws '' ) was thus segregated from international law proper , or , as it is often called , public international law .",
+    "USAGE_2":"The chevaux de frise , those sharp stakes and barriers around the fort at the Battery , pointed to a conflict between the town and sea power rolling in glassy swells as the tide came in .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"conformity",
+    "SENSE_KEY_1":"conformity%1:07:02::",
+    "SENSE_KEY_2":"conformity%1:04:00::",
+    "USAGE_1":"This conformity represents a desperate attempt to stabilize a hopelessly unstable environment .",
+    "USAGE_2":"The parent was asked to describe the child 's typical behavior in certain standard situations in which there was an opportunity to observe tendencies toward perfectionism in demands upon self and others , irrational conformity to rules , orderliness , punctuality , and need for certainty .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"conscious",
+    "SENSE_KEY_1":"conscious%3:00:00::",
+    "SENSE_KEY_2":"conscious%5:00:00:aware:00",
+    "USAGE_1":"Contract - conceived as the free bargain of formal equals - replaced the implied obligations of a more static and status conscious society .",
+    "USAGE_2":"He was conscious of a growing sense of absurdity .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"contemporary",
+    "SENSE_KEY_1":"contemporary%5:00:00:modern:00",
+    "SENSE_KEY_2":"contemporary%1:18:00::",
+    "USAGE_1":"The natural and primary aesthetic attitude is to enjoy contemporary art , to despise and dislike the art of the recent past , and wholly to ignore everything else '' .",
+    "USAGE_2":"Only one other contemporary of More 's evokes so immediate and direct a response , and only one other contemporary work - Niccolo Machiavelli and The Prince .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"contrast",
+    "SENSE_KEY_1":"contrast%2:31:00::",
+    "SENSE_KEY_2":"contrast%1:09:00::",
+    "USAGE_1":"So we see that a specialist is a man who knows more and more about less and less as he develops , as contrasted to the generalist , who knows less and less about more and more .",
+    "USAGE_2":"Contrast trim provides other touches of color .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"convenience",
+    "SENSE_KEY_1":"convenience%1:26:00::",
+    "SENSE_KEY_2":"convenience%1:07:00::",
+    "USAGE_1":"However , for convenience we will stick to the idea that information can be classified according to Table 1 .",
+    "USAGE_2":" The kitchen and baths had every convenience that I desired.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"counter",
+    "SENSE_KEY_1":"counter%2:32:00::",
+    "SENSE_KEY_2":"counter%1:06:01::",
+    "USAGE_1":"`` But Fogg '' , they countered , `` we can n't get over there .",
+    "USAGE_2":" - All top-level counters start at the value 0 (zero) at the beginning of the document.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"country",
+    "SENSE_KEY_1":"country%1:15:00::",
+    "SENSE_KEY_2":"country%1:15:02::",
+    "USAGE_1":"In what section of the country are you located ?",
+    "USAGE_2":" Related? A couple drove several miles down a country road, not saying a word after an earlier discussion had led to an argument, and neither wanted to concede their position.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"crash",
+    "SENSE_KEY_1":"crash%1:11:00::",
+    "SENSE_KEY_2":"crash%2:38:01::",
+    "USAGE_1":"She was the widow of a writer who had died in an airplane crash , and Mickie had found her a job as head of the historical section of the Treasury .",
+    "USAGE_2":"The explosion of the rifle had crashed against the walls of the stockade and the deep echoes were still rolling in the hills .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"crazy",
+    "SENSE_KEY_1":"crazy%5:00:00:impractical:00",
+    "SENSE_KEY_2":"crazy%5:00:00:insane:00",
+    "USAGE_1":"`` Listen , wise guy , if you think I 'm gonna do all the fighting for this ball club you 're crazy '' .",
+    "USAGE_2":" You'll go crazy before anything's happened to you! What does it matter? I tried to argue back.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"curious",
+    "SENSE_KEY_1":"curious%3:00:00::",
+    "SENSE_KEY_2":"curious%5:00:00:strange:00",
+    "USAGE_1":"As everybody is curious to see the battery of glass tubes I have invented , I have had quite a small one made here of four glass tubes ( in Copenhagen I used 30 ) and intend to carry it with me '' .",
+    "USAGE_2":"She went downstairs and received another curious shock , for when Glendora flapped into the dining room in her homemade moccasins , Sarah asked her when she had brought coffee to her room and Glendora said she had n't .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"curve",
+    "SENSE_KEY_1":"curve%1:10:00::",
+    "SENSE_KEY_2":"curve%1:25:00::",
+    "USAGE_1":"We assume that average total unit cost in the relevant region of operation is constant with respect to quantity produced ( the average cost curve is horizontal , and therefore is identical with the marginal cost curve ) , and is the same for every firm ( and therefore for the industry ) .",
+    "USAGE_2":"Here , for the case of squares inscribed in plane curves , we remove the restriction to convexity and give certain other results .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"custom",
+    "SENSE_KEY_1":"custom%1:04:00::",
+    "SENSE_KEY_2":"custom%1:09:00::",
+    "USAGE_1":"Particularly was this true when the norms previously applied were no longer satisfactory to many , when customs were rapidly changing as the forces of the new productivity were harnessed .",
+    "USAGE_2":"To free the factors of production was a major objective of the rising bourgeoisie , and this objective required that governmental authority - administrative officials and judges - be limited as precisely and explicitly as possible ; that old customs which inhibited trade be abrogated ; that business be free from governmental supervision and notions of morality which might clog the automatic adjustments of the free market ; that obligations of status that were inconsistent with the new politics and the new economics be done away with .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"darkness",
+    "SENSE_KEY_1":"darkness%1:15:00::",
+    "SENSE_KEY_2":"darkness%1:07:03::",
+    "USAGE_1":"Again he stood in the darkness listening , but there was only the scrape of a shod hoof on a plank floor .",
+    "USAGE_2":" Oh, the darkness, coming down to relinquish me of my pain.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"declare",
+    "SENSE_KEY_1":"declare%2:32:00::",
+    "SENSE_KEY_2":"declare%2:32:01::",
+    "USAGE_1":"`` Why , I meant what I said '' , Lord declared .",
+    "USAGE_2":"Sprinkel strongly refuted the current neo-stagnationist thesis that we are facing a future of limited and slow growth , declaring that this pessimism `` is based on very limited and questionable evidence '' .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"delicate",
+    "SENSE_KEY_1":"delicate%3:00:00::",
+    "SENSE_KEY_2":"delicate%5:00:00:skilled:00",
+    "USAGE_1":"George did wonderful complicated pen-and-ink drawings like something out of a medieval miniature : hundreds of delicate details crammed into an eight by ten sheet and looking as if they had been done under a jeweler's glass .",
+    "USAGE_2":"He was really amazed to discover the other guests so excited about these delicate little songs .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"democracy",
+    "SENSE_KEY_1":"democracy%1:09:00::",
+    "SENSE_KEY_2":"democracy%1:14:00::",
+    "USAGE_1":"It is a weakness of Gabriel 's analysis that he never seems to realize that his so-called fundamental law had already been cut loose from its foundations when it was adapted to democracy .",
+    "USAGE_2":"Its refrain was : `` Let us return to the individualistic democracy of our forefathers for our salvation '' .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"denial",
+    "SENSE_KEY_1":"denial%1:10:01::",
+    "SENSE_KEY_2":"denial%1:10:00::",
+    "USAGE_1":"After the recommendation of the Department is forwarded to the appeal board , that is the appropriate place for a registrant to lodge his denial .",
+    "USAGE_2":"While there are now allegations of the withholding of `` favorable evidence developed at the hearing '' and a denial of a `` full and fair hearing '' , no such claim was made by petitioner at any stage of the administrative process .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"deviation",
+    "SENSE_KEY_1":"deviation%1:09:00::",
+    "SENSE_KEY_2":"deviation%1:11:00::",
+    "USAGE_1":"The 34 arrows , denoting onset age plus completion age deviations , have been arrayed in an Onset sequence which begins with girl 18 who had the earliest Onset of the 34 girls .",
+    "USAGE_2":"Some investigators have found a parallelism between remissions and return of the sympathetic reactivity of the hypothalamus to the normal level as indicated by the Mecholyl test and , conversely , between clinical impairment and increasing deviation of this test from the norm .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"dignity",
+    "SENSE_KEY_1":"dignity%1:07:00::",
+    "SENSE_KEY_2":"dignity%1:07:01::",
+    "USAGE_1":"Do patriots everywhere know enough about how the persecution of the Jews in Germany and later in the occupied countries contributed to terrorizing the populations , splitting apart individuals and groups , arousing the meanest and most dishonest impulses , pulverizing trust and personal dignity , and finally forcing people to follow their masters into the abyss by making them partners in unspeakable crimes ?",
+    "USAGE_2":"And after a while , he dried his tears and walked the deck as a captain should with assurance and dignity .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"dirty",
+    "SENSE_KEY_1":"dirty%3:00:02::",
+    "SENSE_KEY_2":"dirty%3:00:01::",
+    "USAGE_1":"There had been nothing evil or dirty in his intentions .",
+    "USAGE_2":"The first thing every morning when she washed her face she could see the scar on her chin where he 'd cut her with a boot cleat , and maybe she saw him heaving it again , the dirty sock popping out as it flew .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"disapprove",
+    "SENSE_KEY_1":"disapprove%2:32:00::",
+    "SENSE_KEY_2":"disapprove%2:31:00::",
+    "USAGE_1":"As it is , they consider that the North is now reaping the fruits of excess egalitarianism , that in spite of its high standard of living the `` American way '' has been proved inferior to the English and Scandinavian ways , although they disapprove of the socialistic features of the latter .",
+    "USAGE_2":"Resolved that , while we most decidedly disapprove the methods he adopted to accomplish his objects , yet in his willingness to die in aid of the great cause of human freedom , we still recognize the qualities of a noble nature and the exercise of a spirit which true men have always admired and which history never fails to honor .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"discrimination",
+    "SENSE_KEY_1":"discrimination%1:09:00::",
+    "SENSE_KEY_2":"discrimination%1:04:00::",
+    "USAGE_1":"The individual with high anxiety in the structured classroom may approach the learning task with the same increased energy and lowered powers of discrimination .",
+    "USAGE_2":"Three requirements go with a blockade : It must be proclaimed ; the blockading force must be powerful enough to enforce it ; and it must be enforced without discrimination .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"disk",
+    "SENSE_KEY_1":"disk%1:25:00::",
+    "SENSE_KEY_2":"disk%1:06:00::",
+    "USAGE_1":"This is much smaller than the highest resolution of even the very large reflectors now under construction , and consequently the radio emission of different regions of the disk cannot be resolved .",
+    "USAGE_2":"Inflow of air from the surrounding atmosphere was prevented by the two disks shown in figure 2 .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"dissolve",
+    "SENSE_KEY_1":"dissolve%2:30:02::",
+    "SENSE_KEY_2":"dissolve%2:30:03::",
+    "USAGE_1":"Mary was free to marry again , not knowing that the Sturch had secretly given her a divorce , thinking that death had dissolved her marriage .",
+    "USAGE_2":"Then at last the darkness began to dissolve .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"dream",
+    "SENSE_KEY_1":"dream%1:09:01::",
+    "SENSE_KEY_2":"dream%2:39:00::",
+    "USAGE_1":"He saw with John Hunter now that the perfectability of man was a dream .",
+    "USAGE_2":"What if it came when he was playing , or was asleep and dreaming ?",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"drop",
+    "SENSE_KEY_1":"drop%1:25:00::",
+    "SENSE_KEY_2":"drop%2:30:09::",
+    "USAGE_1":"There is another means which should show the direction and relative value of the stresses in viscoelastic fluids that is not mentioned as such in the literature , and that is the shape of the suspended drops of low viscosity fluids in shear fields .",
+    "USAGE_2":" (Pintel & Ragetti slowly advance on Elizabeth, she slowly retreats while facing them) (they all pause for a moment to watch the wheel roll by with the duel on top) (Jack is running behind the wheel, trying to catch up and get the key that is still inside) (Pintel shrugs, Pintel and Ragetti resume advancing on Elizabeth) (suddenly a thrown axe embeds itself in a coconut palm next to Elizabeth) (all three turn to see Jones' crew crashing through the bushes toward them) (swordfight ensues with the Flying Dutchmen crew and Pintel and Ragetti) (Norrington and Will continue fighting atop the rolling wheel) (Jack grabs hold of a palm frond on a coconut palm while at the top of the wheel) (the wheel continues on, Jack hangs from the frond, then drops to the ground) PINTEL Sword! ELIZABETH SWANN Sword! (a sword is thrown to Elizabeth, just in time) PINTEL Sword! (a sword is thrown to Pintel, just in time) RAGETTI Sword! (a sword is thrown to Ragetti, just in time) (Jack sees Hadrus running alone through the palms, carrying the small chest) (Jack picks up a coconut, whirls it a moment, then throws it at Hadrus) (Hadrus' (conch shell) head is knocked off by the coconut) (Hadrus' head lies on the ground, attempting to give orders to the rest of his body to find the head) HADRUS Aya! Uh seech! Aunido! Aunido! Follow my voice! Follow my voice! To the left, uh... No, to the right... Go to the left... (Hadrus' headless body walks into a coconut palm) HADRUS No..",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"dull",
+    "SENSE_KEY_1":"dull%3:00:03::",
+    "SENSE_KEY_2":"dull%3:00:02::",
+    "USAGE_1":"While five minutes ago the place had presented a scene of easy revelry , with Gyp Carmer a prominent figure , it was now as somnolent and dull as the day before payday .",
+    "USAGE_2":"`` Tee-wah '' , the driver cackled , his black eyes glittering behind dull silver chicken fencing .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"ear",
+    "SENSE_KEY_1":"ear%1:08:00::",
+    "SENSE_KEY_2":"ear%1:09:00::",
+    "USAGE_1":"Could it be that my own eyes and ears had deceived me ?",
+    "USAGE_2":"If his scholarship and formal musicianship were not all they might have been , Mercer demonstrated at an early age that he was gifted with a remarkable ear for rhythm and dialect .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"edition",
+    "SENSE_KEY_1":"edition%1:10:02::",
+    "SENSE_KEY_2":"edition%1:14:00::",
+    "USAGE_1":"This 1930 edition also had songs in it by Vernon Duke and Ira Gershwin , by E. Y. Harburg and Duke , and by Harry Myers .",
+    "USAGE_2":" The offer, advertised in today's editions of The Wall Street Journal, is scheduled to expire at the end of November.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"elect",
+    "SENSE_KEY_1":"elect%2:41:00::",
+    "SENSE_KEY_2":"elect%2:31:00::",
+    "USAGE_1":"Rep. Berry , an ex gambler from San Antonio , got elected on his advocacy of betting on the ponies .",
+    "USAGE_2":"The really remarkable thing to me is that most California natives unhesitatingly elect to slow down and permit the invading car free access .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"emerge",
+    "SENSE_KEY_1":"emerge%2:30:00::",
+    "SENSE_KEY_2":"emerge%2:30:01::",
+    "USAGE_1":"International law had to fit the conditions of Europe , and nothing that could not fit this system , or the interests of the great European nations collectively , could possibly emerge as law in any meaningful sense .",
+    "USAGE_2":"When these fields are surveyed together , important patterns of relationship emerge indicating a vast community of reciprocal influence , a continuity of thought and expression including many traditions , primarily literary , religious , and philosophical , but frequently including contact with the fine arts and even , to some extent , with science .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"empty",
+    "SENSE_KEY_1":"empty%3:00:00::",
+    "SENSE_KEY_2":"empty%5:00:00:meaningless:00",
+    "USAGE_1":"Stevens was grunting over the last empty pocket when Russ abruptly rose and lunged toward Carmer 's hat , which had tumbled half-a-dozen feet away when he first fell .",
+    "USAGE_2":"The `` reality '' to which they respond is rationally empty and their art is an imitation of the inescapable powerfulness of this unknown and empty world .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"end",
+    "SENSE_KEY_1":"end%1:09:00::",
+    "SENSE_KEY_2":"end%1:15:01::",
+    "USAGE_1":"In some ( the Ewe type mentioned above ) interaction of tone and intonation is restricted to the ends of intonation spans .",
+    "USAGE_2":"We have already witnessed great changes through mergers and acquisitions in the food industry - at both the manufacturing and retail ends .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"enhance",
+    "SENSE_KEY_1":"enhance%2:30:00::",
+    "SENSE_KEY_2":"enhance%2:30:01::",
+    "USAGE_1":"Many industry trade associations are developing campaigns to protect or enhance the share of the consumer 's dollar being spent on their particular products .",
+    "USAGE_2":"In the last analysis , religion is the means of inducing , formulating , expressing , enhancing , implementing , and perpetuating man 's deepest experience - the religious .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"enjoy",
+    "SENSE_KEY_1":"enjoy%2:34:01::",
+    "SENSE_KEY_2":"enjoy%2:39:00::",
+    "USAGE_1":"Save for brief periods in garrison or winter quarters , soldiers rarely enjoyed the luxury of a writing desk or table .",
+    "USAGE_2":"The Ivy League enjoys no easy dominion here , and the boys are as likely to dress in rather foppish Continental fashion , or even in nondescript working class manner , as they are in the restrained , button-down Ivy way .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"established",
+    "SENSE_KEY_1":"established%3:00:00::",
+    "SENSE_KEY_2":"established%5:00:00:orthodox:00",
+    "USAGE_1":"Such a comparison reminds us that in employing low characters in his works Faulkner is recording actuality in the South and moreover is following a long established literary precedent .",
+    "USAGE_2":" There were two stages, intended to attract new talent as well as established firms.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"ethical",
+    "SENSE_KEY_1":"ethical%3:01:00::",
+    "SENSE_KEY_2":"ethical%3:00:00::",
+    "USAGE_1":"The displacement ( at least to a considerable extent ) of the ethical jurisprudence of the seventeenth and eighteenth centuries by positivism reshaped both international law theory and doctrine .",
+    "USAGE_2":"Rather , it is typical of the thousands of quacks who use phony therapeutic devices to fatten themselves on the miseries of hundreds of thousands of Americans by robbing them of millions of dollars and luring them away from legitimate , ethical medical treatment of serious diseases .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"event",
+    "SENSE_KEY_1":"event%1:03:00::",
+    "SENSE_KEY_2":"event%1:26:00::",
+    "USAGE_1":"Not enough to do away with all doubts , but sufficient to give a fairly accurate picture of the events of the voyage .",
+    "USAGE_2":"Over and above that , however , was his growing suspicion of Chuck Stober 's part in recent events .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"examination",
+    "SENSE_KEY_1":"examination%1:04:00::",
+    "SENSE_KEY_2":"examination%1:10:00::",
+    "USAGE_1":"If you have an annual or regular physical examination program , is it worth what it is costing you ?",
+    "USAGE_2":" It seems that during an examination one day a bright young student popped up and asked the proctor to bring him Cakes and Ale.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"example",
+    "SENSE_KEY_1":"example%1:09:00::",
+    "SENSE_KEY_2":"example%1:04:00::",
+    "USAGE_1":"In fact , some - Anzilotti is the principle example - went so far as to say that all international law could be traced to the single legal norm , Pacta sunt Servanda .",
+    "USAGE_2":"'' Jacques-Fran\u00e7ois Blondel, who was Louis XV's architect and who founded the first full-time school of architecture in Europe in 1750, adopted this literary meaning as a metaphor and described architectural style as a building's character--for example, rustic, regal, or heroic.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"exceed",
+    "SENSE_KEY_1":"exceed%2:42:01::",
+    "SENSE_KEY_2":"exceed%2:42:00::",
+    "USAGE_1":"Despite this danger , however , we are informed on every hand that ideas , not machines , are our finest tools ; they are priceless even though they cannot be recorded on a ledger page ; they are the most valuable of commodities - and the most salable , for their demand far exceeds supply .",
+    "USAGE_2":"The maximum amount of payments which may be made pursuant to this Act on account of sales of newly mined ores or concentrates produced therefrom made during the calendar year 1962 shall not exceed $ 4500000 ; the maximum amount of such payments which may be made on account of such sales made during the calendar year 1963 shall not exceed $ 4500000 ; the maximum amount of such payments which may be made on account of such sales made during the calendar year 1964 shall not exceed $ 4000000 ; and the maximum amount of such payments which may be made on account of such sales made during the calendar year 1965 shall not exceed $ 3500000 .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"excuse",
+    "SENSE_KEY_1":"excuse%2:32:00::",
+    "SENSE_KEY_2":"excuse%2:32:04::",
+    "USAGE_1":"- ' Scuse me , sir .",
+    "USAGE_2":"`` You know '' , he said , getting a grip on himself , `` I think you 're going to have to excuse me .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"experiment",
+    "SENSE_KEY_1":"experiment%1:09:00::",
+    "SENSE_KEY_2":"experiment%1:04:01::",
+    "USAGE_1":"Results of this experiment include the frequencies of the two strong spectral lines by which OH may be identified in interstellar gas ; the frequencies are 1665.32 and 1667.36 * * f , with an uncertainty of 0.10 * * f .",
+    "USAGE_2":"In all his miscalculations , Stravinsky made the fatal historical blunder of presuming that he could transform other composers ' inspirations - representing many peoples , time periods and styles - into his own music by warping the harmony , melody , or form , to verify his own experiments .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"explode",
+    "SENSE_KEY_1":"explode%2:30:00::",
+    "SENSE_KEY_2":"explode%2:30:03::",
+    "USAGE_1":"The element is inserted in the discharge circuit in place of the exploding wire , and the calorimetric heating of the element is measured with high accuracy .",
+    "USAGE_2":"The world exploded when Fascism challenged all concepts of peace and liberty , and the outraged , freedom loving peoples of the Capitalist and Socialist worlds combined forces to stamp Fascist tyranny into cringing submission .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"explosion",
+    "SENSE_KEY_1":"explosion%1:11:00::",
+    "SENSE_KEY_2":"explosion%1:04:00::",
+    "USAGE_1":"Two minutes later it came again - a double explosion , followed by a third , sounding more distant .",
+    "USAGE_2":"Hector Lopez , subbing for Berra , smashed a 3 - run homer off Bill Henry during another 5 - run explosion in the fourth .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"fair",
+    "SENSE_KEY_1":"fair%3:00:03::",
+    "SENSE_KEY_2":"fair%3:00:01::",
+    "USAGE_1":"While there are now allegations of the withholding of `` favorable evidence developed at the hearing '' and a denial of a `` full and fair hearing '' , no such claim was made by petitioner at any stage of the administrative process .",
+    "USAGE_2":" Its not fair.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"fantasy",
+    "SENSE_KEY_1":"fantasy%1:10:00::",
+    "SENSE_KEY_2":"fantasy%1:09:00::",
+    "USAGE_1":"In a series of fairy tales and fantasies , Melies demonstrated that the film is superbly equipped to tell a straightforward story , with beginning , middle and end , complications , resolutions , climaxes , and conclusions .",
+    "USAGE_2":"Like Eliot , in my fantasies , I had a proud bearing and , with a skill that was vaguely continental , I would lead Jessica through an evening of dancing and handsome descriptions of my newest exploits , would guide her gently to the night 's climax which , in my dreams , was always represented by our almost suffocating one another to death with deep , moist kisses burning with love .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"fasten",
+    "SENSE_KEY_1":"fasten%2:35:00::",
+    "SENSE_KEY_2":"fasten%2:35:01::",
+    "USAGE_1":"His eye had fastened on her leg ; bending , he touched her knee .",
+    "USAGE_2":"The transom frame is made first with the joints lapped , glued and fastened with one-inch , No. 12 Stronghold nails .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"film",
+    "SENSE_KEY_1":"film%1:06:00::",
+    "SENSE_KEY_2":"film%1:06:01::",
+    "USAGE_1":"This has been attributed to helium film flow in the vapor pressure thermometer .",
+    "USAGE_2":"This discovery of Melies was vastly more important than his sometimes dazzling , magician 's tricks produced on film .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"fine",
+    "SENSE_KEY_1":"fine%5:00:00:elegant:00",
+    "SENSE_KEY_2":"fine%3:00:00::",
+    "USAGE_1":" ``Do you need my help with anything, son?'' Without even looking at him, Todd answers, ``No. I'm fine.",
+    "USAGE_2":" example 19: measures 488-494: the first theme in the recapitulation There is no fine line between music that is ``tonal'' and music that is ``atonal.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"fit",
+    "SENSE_KEY_1":"fit%1:26:01::",
+    "SENSE_KEY_2":"fit%2:30:01::",
+    "USAGE_1":"Max , in a fit of despair , takes Alicia and runs off for two marvelous weeks in Burbank ( Fink calls it `` the most wonderful and lovely fourteen days in my whole life '' ) , at the end of which Alicia tragically contracts Parkinson's disease and dies .",
+    "USAGE_2":"Some manufacturers have had the foresight to provide a socket for the chuck key ; otherwise , you 'll have to spend a few minutes to either attach a suitable spring clip somewhere on the press head or fit the key to a length of light chain and fasten to the bottom of the motor mount so that the key is out of the way when not in use .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"flash",
+    "SENSE_KEY_1":"flash%1:07:00::",
+    "SENSE_KEY_2":"flash%1:09:00::",
+    "USAGE_1":"Homes and factories and schools and a big wide federal highway , instead of peaceful corn to rest your eyes on while you tried to rest your heart , while you tried not to look at the balloon and the bandstand and the uniforms and the flash of the instruments .",
+    "USAGE_2":" Among examples of the first are spit and polish, on the spot, on the square, stick one's neck out , etc. Examples of the last include spill the beans, square the circle, stalemate , etc. Between these is an occasional flash of useful wisdom, much of it pretty well covered by other books of this type (which seem to be proliferating).",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"floor",
+    "SENSE_KEY_1":"floor%1:10:00::",
+    "SENSE_KEY_2":"floor%1:06:02::",
+    "USAGE_1":"I strongly recommend to the Congress the avoidance of mandatory floors on the size of the reserve components so that we may have the flexibility to make adjustments in keeping with military necessity .",
+    "USAGE_2":" Within minutes after the committee released its letter publicly, Torricelli took the Senate floor Tuesday night to apologize to the people of New Jersey for allowing his seat in the chamber ``to be placed in this position.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"flourish",
+    "SENSE_KEY_1":"flourish%1:10:02::",
+    "SENSE_KEY_2":"flourish%2:40:00::",
+    "USAGE_1":" Style without content quickly degenerates into caricature, like a speaker who makes grand gestures and rhetorical flourishes, but has nothing to say.",
+    "USAGE_2":" We have sought to illustrate the future by exploring two industries where boundaryless careers have flourished -- reaping benefits for people, companies, and host industries alike.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"focus",
+    "SENSE_KEY_1":"focus%1:09:00::",
+    "SENSE_KEY_2":"focus%1:07:01::",
+    "USAGE_1":"State governments have been taking the lead in establishing area vocational schools , but their focus is still on area job opportunities .",
+    "USAGE_2":"It 's like focusing a camera ; the distant ship is n't there until you get the focus .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"folk",
+    "SENSE_KEY_1":"folk%1:14:00::",
+    "SENSE_KEY_2":"folk%1:14:01::",
+    "USAGE_1":"A dominant motive is the poet 's longing for his homeland and its boyhood associations : `` Not men folk , but the fields where I would stray , The stones where as a child I used to play '' .",
+    "USAGE_2":" City folk marvel at the quaint charms of the Cape, its idyllic beauty and simple pleasures.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"fool",
+    "SENSE_KEY_1":"fool%1:18:00::",
+    "SENSE_KEY_2":"fool%2:41:00::",
+    "USAGE_1":"In combat , helping your CO make a fool of himself might mean getting yourself killed .",
+    "USAGE_2":"`` Fooled you , huh ?",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"foot",
+    "SENSE_KEY_1":"foot%1:23:00::",
+    "SENSE_KEY_2":"foot%1:04:00::",
+    "USAGE_1":"Turbulent tides rose as much as fifty feet .",
+    "USAGE_2":"Martha Schuyler , old , slow , careful of foot , came down the great staircase , dressed in her best lace-drawn black silk , her jeweled shoe buckles held forward .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"four",
+    "SENSE_KEY_1":"four%5:00:00:cardinal:00",
+    "SENSE_KEY_2":"four%1:23:00::",
+    "USAGE_1":"The sailing in the spring of 1610 was Hudson 's fourth in four years .",
+    "USAGE_2":"Analyses such as these four will simultaneously combat the assumptions that tone is impossible and that it is simple .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"fourth",
+    "SENSE_KEY_1":"fourth%5:00:00:ordinal:00",
+    "SENSE_KEY_2":"fourthly%4:02:00::",
+    "USAGE_1":"The sailing in the spring of 1610 was Hudson 's fourth in four years .",
+    "USAGE_2":"Fourth , the two indicators are for the most part widely separated chronologically , with the extensive age gap occurring during childhood for all but one growth center .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"fraction",
+    "SENSE_KEY_1":"fraction%1:06:00::",
+    "SENSE_KEY_2":"fraction%1:23:00::",
+    "USAGE_1":"The velocity value used is also open to some question ; if a substantial fraction of the dust is orbiting about the Earth , only about one third the above mentioned average velocity should be used in deriving the mass .",
+    "USAGE_2":"The fraction of exchange was determined as the ratio of the counts \/ minute observed in the carbon tetrachloride to the counts \/ minute calculated for the carbon tetrachloride fractions for equilibrium distribution of the activity between the chlorine and carbon tetrachloride , empirically determined correction being made for the difference in counting efficiency of * * f in * * f and * * f .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"frequent",
+    "SENSE_KEY_1":"frequent%5:00:00:common:01",
+    "SENSE_KEY_2":"frequent%3:00:00::",
+    "USAGE_1":"One of the most frequent views of the value of literature is the education of sensibility that it is thought to provide .",
+    "USAGE_2":"In the comedy of indefinite reference , it wit occupies a prominent place because of its frequent occurrence .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"friend",
+    "SENSE_KEY_1":"friend%1:18:00::",
+    "SENSE_KEY_2":"friend%1:18:02::",
+    "USAGE_1":"Like his friend and contemporary August Strindberg he had little patience with collective mediocrity .",
+    "USAGE_2":" My dog, my friend.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"full-time",
+    "SENSE_KEY_1":"full-time%4:02:00::",
+    "SENSE_KEY_2":"full-time%3:00:00::",
+    "USAGE_1":"Can your plant nurse be replaced by a trained first-aid man who works full-time on some other assignment ?",
+    "USAGE_2":"Formally organized vocational programs supported by federal funds allow high school students to gain experience in a field of work which is likely to lead to a full-time job on graduation .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"game",
+    "SENSE_KEY_1":"game%1:04:01::",
+    "SENSE_KEY_2":"game%1:05:00::",
+    "USAGE_1":"Thus shielded , we played many foolish games in comfortable unselfconsciousness ; even when the fences became a part of the game - when a vine embowered gate-post was the Sleeping Beauty 's enchanted castle , or when Rapunzel let down her golden hair from beneath the crocketed spire , even then we paid little heed to those who went by on the path outside .",
+    "USAGE_2":"And due to modern resource use and game management practices , there is still game to shoot , even with the ever expanding encroachment on land and water .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"gap",
+    "SENSE_KEY_1":"gap%1:07:00::",
+    "SENSE_KEY_2":"gap%1:06:00::",
+    "USAGE_1":"the first hearing was fascinating and the second disillusioning as the gap between sound and substance became clearer .",
+    "USAGE_2":"The gap between the bookshelf and the record cabinet grows smaller with each new recording catalogue .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"gear",
+    "SENSE_KEY_1":"gear%2:30:00::",
+    "SENSE_KEY_2":"gear%1:06:00::",
+    "USAGE_1":"All of these activities are geared to a top priority communication system , and practice tests have been held to assure that everything will work smoothly .",
+    "USAGE_2":" When I visited the TBR shop, it was packed with frames, wheels, gears, chains, handlebars, kids, and anarchist art (the space is being donated by some supporters who are also anti-capitalist activists).",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"glare",
+    "SENSE_KEY_1":"glare%1:07:00::",
+    "SENSE_KEY_2":"glare%2:29:00::",
+    "USAGE_1":"Then she went back to the wicker chair and resolutely adjusted her eyes to the glare on the water .",
+    "USAGE_2":" She glared at me, but obediently let me pull her along.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"go",
+    "SENSE_KEY_1":"go%2:42:03::",
+    "SENSE_KEY_2":"go%2:30:04::",
+    "USAGE_1":"`` It 's been going since 1908 when I was a junior in college .",
+    "USAGE_2":" I was so tired, I almost considered going back to sleep, but I remembered I had to get off soon.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"good",
+    "SENSE_KEY_1":"good%5:00:00:nice:00",
+    "SENSE_KEY_2":"good%5:00:00:complete:00",
+    "USAGE_1":"Proper follow-through requires training your own sales organization , and your distributor organizations , not only in the techniques but also in good customer relations .",
+    "USAGE_2":" I went a good three seconds before hyperventilating and putting it back on my finger.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"gray",
+    "SENSE_KEY_1":"gray%1:07:00::",
+    "SENSE_KEY_2":"gray%5:00:00:old:02",
+    "USAGE_1":"Six red lines etched their way into the gray and vanished .",
+    "USAGE_2":"'' A girl, sixteen years old, with masses of bright red hair and big gray eyes opened the door.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"group",
+    "SENSE_KEY_1":"group%1:03:00::",
+    "SENSE_KEY_2":"group%2:31:00::",
+    "USAGE_1":"M + R Dietetic Laboratories , Inc. , Columbus , gives all its workers a facsimile checkbook - each check showing the amount the company spends on a particular fringe .",
+    "USAGE_2":"A tabulation of these features permits the lungs to be grouped into three distinctive subgross types .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"gym",
+    "SENSE_KEY_1":"gymnasium%1:06:00::",
+    "SENSE_KEY_2":"gym%1:06:00::",
+    "USAGE_1":"The apparatus used by gymnasts was once a common sight in American gyms , but about 1930 it was in favor of games .",
+    "USAGE_2":" off too the gym in a hr or two tell in the studio lol RT @alapoet: RT @thehillers The Doors Roadhouse Blues #music http:\/\/blip.fm\/~4be2h <= Thank You for the RT have a rockin' Day You are welcome! check out our other twitter account @watchfiremusic - best to you! Social Media Vs. Email: The Debate Continues (good discussion) http:\/\/bit.ly\/3njJtI #onlinemarketing will sleep now.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"handful",
+    "SENSE_KEY_1":"handful%1:23:00::",
+    "SENSE_KEY_2":"handful%1:23:01::",
+    "USAGE_1":"generous public provision for the infirm ; democratic and secret elections of all officers including priests , meals taken publicly in common refectories ; a common habit or uniform prescribed for all citizens ; even houses changed once a decade ; six hours of manual labor a day for all but a handful of magistrates and scholars , and careful measures to prevent anyone from shirking ; no private property , no money ; no sort of pricing at all for any goods or services , and therefore no market in the economic sense of the term .",
+    "USAGE_2":"Outside , only a handful of reporters remained .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"happen",
+    "SENSE_KEY_1":"happen%2:30:00::",
+    "SENSE_KEY_2":"happen%2:30:01::",
+    "USAGE_1":"`` No , I remembered reading about you in the papers and that you lived here , and when it happened all I could think of was - '' .",
+    "USAGE_2":"This happens on the grocer 's shelf or in your kitchen .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"heat",
+    "SENSE_KEY_1":"heat%2:30:01::",
+    "SENSE_KEY_2":"heat%1:06:00::",
+    "USAGE_1":"All subsequent measurements were made on material which had been heated to 375 ` C for one hour .",
+    "USAGE_2":" In-door plumbing! Heating.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"hesitate",
+    "SENSE_KEY_1":"hesitate%2:42:01::",
+    "SENSE_KEY_2":"hesitate%2:42:00::",
+    "USAGE_1":"Garth hesitated .",
+    "USAGE_2":"He concludes that some changes can made in the current orthography which will appreciably improve its usefulness , but hesitates to suggest precise graphic devices to effect these changes .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"hit",
+    "SENSE_KEY_1":"hit%1:04:00::",
+    "SENSE_KEY_2":"hit%2:33:00::",
+    "USAGE_1":"You 're the kind of bastard who sneaks up on a man from behind and hits him with a club .",
+    "USAGE_2":" Youngstown was perhaps hit harder than any other town by the collapse of the steel industry, but it was not alone.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"hole",
+    "SENSE_KEY_1":"hole%1:06:00::",
+    "SENSE_KEY_2":"hole%1:25:00::",
+    "USAGE_1":"Perhaps one bored holes in the stone with some kind of an electric gadget .",
+    "USAGE_2":"Chico Ruiz made a spectacular play on Alusik 's grounder in the hole in the fourth and Wert came up with some good stops and showed a strong arm at third base .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"honeymoon",
+    "SENSE_KEY_1":"honeymoon%1:28:00::",
+    "SENSE_KEY_2":"honeymoon%2:42:00::",
+    "USAGE_1":"That night the two of them left for a week 's honeymoon in Acapulco .",
+    "USAGE_2":"They were married at a lavish ceremony which was duly recorded in Parvenu and all other magazines and newspapers , and then they honeymooned in Bermuda .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"impact",
+    "SENSE_KEY_1":"impact%1:19:00::",
+    "SENSE_KEY_2":"impact%1:11:00::",
+    "USAGE_1":"The efforts of various interest groups to control or influence governmental decisions , particularly when taken in conjunction with the impact of industrialization , led to a concentration of attention on the legislative power and the means whereby policy could be formulated and enforced as law through bureaucratic institutions .",
+    "USAGE_2":"Direct information has been obtained from rockets and satellites equipped with impact sensors .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"import",
+    "SENSE_KEY_1":"import%1:06:00::",
+    "SENSE_KEY_2":"import%2:40:00::",
+    "USAGE_1":"In June 1845 , the Governor and Council of Assiniboia imposed a 20 per cent duty on imports via Hudson's Bay which were viewed as aimed at the `` very vitals of the Company 's trade and power '' .",
+    "USAGE_2":"Jean Fardulli 's Blue Angel is the first top local club to import that crazy new dance , the Twist .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"improvement",
+    "SENSE_KEY_1":"improvement%1:11:00::",
+    "SENSE_KEY_2":"improvement%1:26:00::",
+    "USAGE_1":"Improvement , however , is urgent , and at least three things will be needed .",
+    "USAGE_2":"Prednisone , 30 mg. daily , was substituted for triamcinolone from Nov. 22 until Dec. 1 , 1958 , without any improvement in the weakness .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"incident",
+    "SENSE_KEY_1":"incident%1:11:00::",
+    "SENSE_KEY_2":"incident%3:01:00::",
+    "USAGE_1":"As Hudson resumed his desperate criss-crossing of the little bay , every incident lessened the crew 's respect for him .",
+    "USAGE_2":"The Russian experimenters claim that only a small fraction of the impulse from the sensors is caused by the incident momentum with the remainder being momentum of ejected material from the sensor .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"include",
+    "SENSE_KEY_1":"include%2:31:00::",
+    "SENSE_KEY_2":"include%2:30:00::",
+    "USAGE_1":"But he had never seen the mountainous half of his native land north of Vientiane , including the royal capital , Luang Prabang .",
+    "USAGE_2":"So in these pages the term `` technology '' is used to include any and all means which could amplify , project , or augment man 's control over himself and over other men .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"indicate",
+    "SENSE_KEY_1":"indicate%2:32:03::",
+    "SENSE_KEY_2":"indicate%2:32:04::",
+    "USAGE_1":"The transmutation of mission to co-optation is further indicated by the insignificance of educational activities , worship , preaching , and publicity in reaching new members .",
+    "USAGE_2":"While some suppression and some denial are not only necessary but healthy , the worker 's clinical knowledge must determine how these defenses are being used , what healthy shifts in defensive adaptation are indicated , and when efforts at bringing about change can be most effectively timed .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"induce",
+    "SENSE_KEY_1":"induce%2:36:01::",
+    "SENSE_KEY_2":"induce%2:32:00::",
+    "USAGE_1":"Even more complex and obviously cortically induced forms of emotional arousal could be elicited in monkey A on seeing monkey B ( but not a rabbit ) in emotional stress .",
+    "USAGE_2":"Our technical assistance to these countries should place special emphasis on inducing the central governments to assume the role of advisor and guide which at an earlier stage foreign experts assumed in dealing with the central governments .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"inject",
+    "SENSE_KEY_1":"inject%2:29:00::",
+    "SENSE_KEY_2":"inject%2:30:00::",
+    "USAGE_1":"Our own studies in which bronchial artery pulmonary artery anastomoses were demonstrated , were accomplished by injecting the bronchial artery first with no pressure on the pulmonary artery or vein , and then by injecting the pulmonary artery and vein afterwards .",
+    "USAGE_2":"He injected more vitality into the score than it has revealed in many years .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"institution",
+    "SENSE_KEY_1":"institution%1:14:00::",
+    "SENSE_KEY_2":"institution%1:06:00::",
+    "USAGE_1":"Man , through democratic institutions of government and economic freedom , was master of his destiny .",
+    "USAGE_2":"Is n't it a bit odd that the three states of Southern New England ( Massachusetts , Connecticut , and Rhode Island ) have had state institutions of university status only in the very recent past , these institutions having previously been A + M colleges ?",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"intelligent",
+    "SENSE_KEY_1":"intelligent%5:00:00:sophisticated:00",
+    "SENSE_KEY_2":"intelligent%3:00:00::",
+    "USAGE_1":"When I question them as to what they mean by concepts like liberty and democracy , I find that they fall into two categories : the simpler ones who have simply accepted the shibboleths of their faith without analysis ; and the intelligent , cynical ones who scornfully reply that these things do n't count any more in the world of to-day .",
+    "USAGE_2":"One part of her audience was totally engaged , the connoisseur witnessing a peculiarly fine performance of some ancient classic , the other part , the guest of the connoisseur , attentive as one who must take an intelligent interest in that which he does not fully understand .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"interpret",
+    "SENSE_KEY_1":"interpret%2:31:00::",
+    "SENSE_KEY_2":"interpret%2:36:00::",
+    "USAGE_1":"No action of his could be interpreted in his favor and four midshipmen , prior to their knowing the significance of the Greek paper , had seen it in Cromwell 's hands while Spencer whispered explanations .",
+    "USAGE_2":"But they are aware of the world outside , they court public approval , they delight in full houses , and they occasionally dare to experiment in interpreting a dramatic classic .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"interrupt",
+    "SENSE_KEY_1":"interrupt%2:32:00::",
+    "SENSE_KEY_2":"interrupt%2:30:00::",
+    "USAGE_1":"She was interrupted .",
+    "USAGE_2":" A marriage interrupted.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"intimate",
+    "SENSE_KEY_1":"intimate%5:00:00:close:02",
+    "SENSE_KEY_2":"intimate%2:32:00::",
+    "USAGE_1":"But I think a man needs at least one intimate friend to communicate with '' .",
+    "USAGE_2":"In fact , he intimated clearly that that was the reason that Wilson had been sent here - to make a larger contribution of dollar money .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"introduction",
+    "SENSE_KEY_1":"introduction%1:04:01::",
+    "SENSE_KEY_2":"introduction%1:10:01::",
+    "USAGE_1":"For the most part , this discussion will be confined to results obtained since the introduction of the reference standard .",
+    "USAGE_2":"\/written\/essays\/Ant_Robot.txt Proposal for a Red Harvester Ant Robot: Colony Infiltration and Task Switching Sonia Roberts 11\/27\/07 Introduction Background Science fiction writers have been anticipating humanoid androids that could pass a Turing Test for years.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"invention",
+    "SENSE_KEY_1":"invention%1:06:00::",
+    "SENSE_KEY_2":"invention%1:04:00::",
+    "USAGE_1":"Social invention did not have to await social theory any more than use of the warmth of a fire had to await Lavoisier or the buoyant protection of a boat the formulations of Archimedes .",
+    "USAGE_2":"There are certainly large areas of understanding in the human sciences which in themselves and even without political invention can help to dispel our present fears .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"involve",
+    "SENSE_KEY_1":"involve%2:42:04::",
+    "SENSE_KEY_2":"involve%2:42:00::",
+    "USAGE_1":"Yet had he not visited the girl at Saw Buck he would never have been involved in this latest tangle .",
+    "USAGE_2":" Karnes knew the 509th was preparing for a special bombing mission, but he had no idea what kind of bombs were involved.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"journal",
+    "SENSE_KEY_1":"journal%1:10:00::",
+    "SENSE_KEY_2":"journal%1:10:01::",
+    "USAGE_1":" It is possible that publishing in international journals as a measure of scientific productivity is becoming more important in Latin America.",
+    "USAGE_2":" I am presently in Iraq and I found your contact particulars in an address journal.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"judge",
+    "SENSE_KEY_1":"judge%1:18:00::",
+    "SENSE_KEY_2":"judge%2:31:02::",
+    "USAGE_1":"To free the factors of production was a major objective of the rising bourgeoisie , and this objective required that governmental authority - administrative officials and judges - be limited as precisely and explicitly as possible ; that old customs which inhibited trade be abrogated ; that business be free from governmental supervision and notions of morality which might clog the automatic adjustments of the free market ; that obligations of status that were inconsistent with the new politics and the new economics be done away with .",
+    "USAGE_2":"Such an instrument is expected to be especially useful if it could be used to measure the elasticity of heavy pastes such as printing inks , paints , adhesives , molten plastics , and bread dough , for the elasticity is related to those various properties termed `` length '' , `` shortness '' , `` spinnability '' , etc. , which are usually judged by subjective methods at present .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"judgment",
+    "SENSE_KEY_1":"judgment%1:09:04::",
+    "SENSE_KEY_2":"judgment%1:04:00::",
+    "USAGE_1":"In one debate he supported the freedom of judgment as opposed to dogma , in another he held that the practice of science was in fact an act of religious worship .",
+    "USAGE_2":"We have concluded that petitioner 's claims are controlled by the rationale of gonzales v. United States , 348 U. S. 407 ( 1955 ) , and United States v. Nugent , 346 U. S .1 ( 1953 ) , and therefore affirm the judgment .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"justify",
+    "SENSE_KEY_1":"justify%2:32:00::",
+    "SENSE_KEY_2":"justify%2:32:01::",
+    "USAGE_1":"Kitti had come along to justify everything .",
+    "USAGE_2":"Elaborate studies have been made in labor surplus areas in order to identify sufficient numbers of local job vacancies and future replacement needs for certain skills to justify training programs for those skills .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"knife",
+    "SENSE_KEY_1":"knife%1:06:01::",
+    "SENSE_KEY_2":"knife%1:06:00::",
+    "USAGE_1":"McKinley was overheard to say that he would like to get the knife into Spencer 's possession and that '' -",
+    "USAGE_2":"A knife would do .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"labor",
+    "SENSE_KEY_1":"labor%1:04:00::",
+    "SENSE_KEY_2":"labor%1:14:00::",
+    "USAGE_1":"`` We ask the people what they want , and they supply the labor .",
+    "USAGE_2":"They were operating in 10 of the 17 major areas of chronic labor surplus and in 10 of the minor areas .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"lady",
+    "SENSE_KEY_1":"lady%1:18:02::",
+    "SENSE_KEY_2":"lady%1:18:01::",
+    "USAGE_1":"After he had been away from home about a year he wrote : `` [ Dear Wife ] If I did not write and receive letters from you I believe that I would forgit that I was married I do n't feel much like a maryed man but I never forgit it sofar as to court enny other lady but if I should you must forgive me as I am so forgitful '' .",
+    "USAGE_2":" He can identify me lady, I simply cannot allow that to happen.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"lead",
+    "SENSE_KEY_1":"lead%1:04:01::",
+    "SENSE_KEY_2":"lead%1:04:00::",
+    "USAGE_1":"State governments have been taking the lead in establishing area vocational schools , but their focus is still on area job opportunities .",
+    "USAGE_2":" In response to a request about the counterterrorism benefits of the 9\/11 detainee program, the Justice Department cited six individuals on the special interest detainee list, noting that two (including Moussaoui) were linked directly to a terrorist organization and that it had obtained new leads helpful to the investigation of the 9\/11 terrorist attacks.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"leadership",
+    "SENSE_KEY_1":"leadership%1:14:00::",
+    "SENSE_KEY_2":"leadership%1:09:00::",
+    "USAGE_1":"And by the time the war ended , liberal leadership in this country was spiritually Marxist .",
+    "USAGE_2":"Following a vigorous campaign of interpretation and leadership development by OEP director Dr. Julian Smith , today thousands of secondary schools , colleges and universities have shooting and hunting education in their physical education and recreation programs .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"least",
+    "SENSE_KEY_1":"least%4:02:00::",
+    "SENSE_KEY_2":"least%3:00:00::",
+    "USAGE_1":"The safest place is the basement corner least exposed to windows and deepest below ground .",
+    "USAGE_2":"This is puzzling to an outsider conscious of the classic tradition of liberalism , because it is clear that these Democrats who are left-of-center are at opposite poles from the liberal Jefferson , who held that the best government was the least government .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"length",
+    "SENSE_KEY_1":"length%1:07:00::",
+    "SENSE_KEY_2":"length%1:07:02::",
+    "USAGE_1":"Tsunami are so shallow in comparison with their length that in the open ocean they are hardly detectable .",
+    "USAGE_2":"The line soon lived up to its name , as local messages of moderate length could be sent for a dime and the company was quickly able to declare very liberal dividends on its capital stock .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"light",
+    "SENSE_KEY_1":"light%1:15:00::",
+    "SENSE_KEY_2":"light%1:09:00::",
+    "USAGE_1":"But a moment later he brought his horse forward into the light , and Wilson had a good look at him .",
+    "USAGE_2":"`` Last year your Tennessee Williams told our Dilys Powell , in a television program , that it is the task of the playwright to throw light into the dark corners of the human heart .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"like",
+    "SENSE_KEY_1":"like%2:37:04::",
+    "SENSE_KEY_2":"like%2:31:00::",
+    "USAGE_1":"He did not like Boxell .",
+    "USAGE_2":" How sweet! It's a bit obvious that he likes me now but that's okay.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"literature",
+    "SENSE_KEY_1":"literature%1:09:00::",
+    "SENSE_KEY_2":"literature%1:10:01::",
+    "USAGE_1":"Being a teacher of American literature , I remembered Whittier 's `` Massachusetts to Virginia '' , where he said : `` But that one dark loathsome burden ye must stagger with alone , And reap the bitter harvest which ye yourselves have sown '' .",
+    "USAGE_2":"The purpose of this paper is to analyze one possible force which has not been treated in the literature , but which we believe makes a significant contribution to explaining the wage price behavior of a few very important industries .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"litter",
+    "SENSE_KEY_1":"litter%1:14:00::",
+    "SENSE_KEY_2":"litter%2:42:00::",
+    "USAGE_1":"In litters of eight mice from similar parents , the number of mice with straight instead of wavy hair is an integer from 0 to 8 .",
+    "USAGE_2":" I'm outraged ... and I think you will be, too! Just imagine finding your favorite hiking trail or birding area littered with dead birds -- among the hundreds of thousands of unsuspecting and innocent creatures who were unlucky enough to consume lethal doses of a slow-acting poison spread in fields miles away.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"liver",
+    "SENSE_KEY_1":"liver%1:13:00::",
+    "SENSE_KEY_2":"liver%1:08:00::",
+    "USAGE_1":"After he 'd got out fresh liver for Bast , he paused to look at her crouched daintily over her dish .",
+    "USAGE_2":"Not less than 70 milligrams of Aureomycin per head daily to aid in the prevention of liver abscesses in feed-lot beef cattle .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"loom",
+    "SENSE_KEY_1":"loom%2:42:02::",
+    "SENSE_KEY_2":"loom%2:42:00::",
+    "USAGE_1":"Compulsory retirement at sixty-five looms on our horizon .",
+    "USAGE_2":"The Gap looming before him - the place where had confronted Jack English on that day so many years ago - was his exit from all that had meaning to him .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"lower",
+    "SENSE_KEY_1":"lower%2:38:00::",
+    "SENSE_KEY_2":"lower%2:30:01::",
+    "USAGE_1":"He lurched drunkenly to his feet , lowered his head , and took one step away from the wall .",
+    "USAGE_2":"Determine if the particular State 's unadjusted allotment ( result obtained in item 11 above ) is greater than its maximum allotment , and if so lower its unadjusted allotment to its maximum allotment .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"male",
+    "SENSE_KEY_1":"male%3:00:00::",
+    "SENSE_KEY_2":"male%1:05:00::",
+    "USAGE_1":"A Texan wrote to a male companion at home : `` What has become of Halda and Laura ?",
+    "USAGE_2":"The first worker bees do not mate or lay eggs ; males and mating females do not emerge until later in the season .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"market",
+    "SENSE_KEY_1":"market%1:04:00::",
+    "SENSE_KEY_2":"market%1:14:00::",
+    "USAGE_1":"If you are up against private brand competition , have you formulated a long-term program for researching and strengthening your market position ?",
+    "USAGE_2":"This , however , did not bar finding that du Pont had become pre-eminent as a supplier of automotive fabrics and finishes to General Motors ; that these products constituted a `` line of commerce '' within the meaning of the Clayton Act ; that General Motors ' share of the market for these products was substantial ; and that competition for this share of the market was endangered by the financial relationship between the two concerns :",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"mature",
+    "SENSE_KEY_1":"mature%5:00:00:developed:00",
+    "SENSE_KEY_2":"mature%2:30:00::",
+    "USAGE_1":"The consciousness it mirrors may have come earlier to Europe than to America , but it is the consciousness that most `` mature '' societies arrive at when their successes in technological and economic systematization propel them into a time of examining the not strictly practical ends of culture .",
+    "USAGE_2":"The following information on snakes varying greatly in size ( but all with less than a 10 - foot maximum ) shows , when considered with the foregoing , that there is probably no correlation between the length of a snake and the time required for it to mature .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"means",
+    "SENSE_KEY_1":"means%1:04:00::",
+    "SENSE_KEY_2":"means%1:06:00::",
+    "USAGE_1":"The efforts of various interest groups to control or influence governmental decisions , particularly when taken in conjunction with the impact of industrialization , led to a concentration of attention on the legislative power and the means whereby policy could be formulated and enforced as law through bureaucratic institutions .",
+    "USAGE_2":"Practically all the people of Laos , he explained - about two million of them - are rice farmers , and the means and motives of modern war are as strange to them as clocks and steel plows .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"medical",
+    "SENSE_KEY_1":"medical%3:01:00::",
+    "SENSE_KEY_2":"medical%3:00:00::",
+    "USAGE_1":"Are you indiscriminantly offering unnecessary medical services - flu shots , sun lamp treatments , etc. ?",
+    "USAGE_2":"The laws of many states permit birth control only for medical reasons .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"milk",
+    "SENSE_KEY_1":"milk%1:13:01::",
+    "SENSE_KEY_2":"milk%2:30:00::",
+    "USAGE_1":"Make sure milk for the coffee is placed in dispensers rather than in containers , if you are supplying the coffee .",
+    "USAGE_2":"Starr Jones gets up every morning at five o ' clock , milks his family cow , attends to farm chores , and then takes a two-hour train trip to New York .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"million",
+    "SENSE_KEY_1":"million%5:00:00:cardinal:00",
+    "SENSE_KEY_2":"million%1:23:00::",
+    "USAGE_1":"`` Sometimes we 'd have trouble persuading her to make tax-exempt charitable contributions , and I 've known her to quarrel with a plumber over a bill for fixing a faucet ; the next moment she 'd put another half million into the scholarship fund or thirty thousand into something as impractical as this unfortunate Johnston affair .",
+    "USAGE_2":"He has also enjoyed a successful career as an entertainer ( his records have sold in the millions ) and is a sharp businessman .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"misfortune",
+    "SENSE_KEY_1":"misfortune%1:26:00::",
+    "SENSE_KEY_2":"misfortune%1:11:00::",
+    "USAGE_1":"Almost nothing is said of Charles ' spectacular victories , the central theme being the heroic loyalty of the Swedish people to their idolized king in misfortune and defeat .",
+    "USAGE_2":"Hindemith 's joust with Weber tunes was a considerably more serious misfortune , for it demands translucent textures , buoyant rhythms , and astringent wit .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"moderate",
+    "SENSE_KEY_1":"moderate%5:00:00:mild:00",
+    "SENSE_KEY_2":"moderate%3:00:00::",
+    "USAGE_1":"However , they were hostile to Jewish Orthodoxy , professing to believe in Judaism `` but in a moderate way '' .",
+    "USAGE_2":"It is convenient to classify a child 's onset ages and completion ages as `` advanced '' , `` moderate '' ( modal ) , or `` delayed '' according to whether the child 's age equivalent `` dots '' appeared to the left of , upon , or to the right of the appropriate short transverse line .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"monopolize",
+    "SENSE_KEY_1":"monopolize%2:40:00::",
+    "SENSE_KEY_2":"monopolize%2:41:00::",
+    "USAGE_1":"The latter provisions proscribe any contract , combination , or conspiracy in restraint of interstate or foreign trade , and monopolization of , or attempts , combinations , or conspiracies to monopolize , such trade .",
+    "USAGE_2":"Naturally no woman can ever completely monopolize the sexual initiative .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"motion",
+    "SENSE_KEY_1":"motion%1:26:00::",
+    "SENSE_KEY_2":"motion%2:32:00::",
+    "USAGE_1":"Not a circle , then , nor a straight line , but a spiral represents the shape of death as Irenaeus sees it ; for a spiral has motion as well as recurrence .",
+    "USAGE_2":" MELINA ORTEGA (CONT'D) (Motioning for the camera to point toward military vehicles in the background) As you can see behind me, the U.S. Marines have already arrived.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"much",
+    "SENSE_KEY_1":"much%4:02:06::",
+    "SENSE_KEY_2":"much%4:02:03::",
+    "USAGE_1":"`` Oh , now , I do n't know about that much '' , said Mr. Skyros .",
+    "USAGE_2":"That left three , possibly four , one looking much like the next .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"multiply",
+    "SENSE_KEY_1":"multiply%2:31:00::",
+    "SENSE_KEY_2":"multiply%2:30:00::",
+    "USAGE_1":"( Multiply result obtained in item 7 above , by result obtained in item 6 above . )",
+    "USAGE_2":"In time , these minor manifestations will multiply and effloresce , riddling you with frambesia , the king's evil , sheep rot , and clonic spasm , until your very existence becomes a burden and you cry out for release .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"native",
+    "SENSE_KEY_1":"native%3:00:03::",
+    "SENSE_KEY_2":"native%1:18:00::",
+    "USAGE_1":"Thomas Douglas , fifth Earl of Selkirk , a noble humanitarian Scot concerned with the plight of the crofters of his native Highlands , conceived a plan to settle them in the valley of the Red River of the North .",
+    "USAGE_2":"The terms are fairly safe to use on this side of the ocean , but before you start spouting them to your date , it might be best to find out if he was a member of Major Pockmanster 's Delhi Regiment , since resentment toward the natives was reportedly very high in that outfit .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"nerve",
+    "SENSE_KEY_1":"nerve%1:08:00::",
+    "SENSE_KEY_2":"nerve%1:07:00::",
+    "USAGE_1":"A seeping coldness entered Holden 's being ; his nerves seemed frost-bitten down to the tips of his tingling fingers and his spine felt stiff and glass like , liable to break like an icicle at any moment .",
+    "USAGE_2":" ``You gotta hell of a nerve to come to see me,'' he commented cheerfully.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"net",
+    "SENSE_KEY_1":"net%1:06:02::",
+    "SENSE_KEY_2":"net%1:06:01::",
+    "USAGE_1":" GISELLE When you find him, will you give him a message? (Giselle slaps Will in the face) (a black man who is a shrimper is sitting on a dock, mending his nets) (in the background is a bunch of bananas on the dock, and a goat being loaded aboard a ship) SHRIMPER Cannot say about Jack Sparrow.",
+    "USAGE_2":" People sqeuazing me in at work, wow i haven't updated in a while...oops! Discovering twitter in a purple sofa... Why isn't Wii released in Singapore yet?! surfing the net playing around on twitter At work Watching the valentine's day pillowfight sans pillow, camera crack'd, feathers in hair, copters o'erhead.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"new",
+    "SENSE_KEY_1":"new%3:00:00::",
+    "SENSE_KEY_2":"new%5:00:00:unprecedented:00",
+    "USAGE_1":"`` Was she in the habit of making new wills '' ?",
+    "USAGE_2":"No one seriously contends , of course , that the domineering wife is , sexually speaking , a new character in our world .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"newspaper",
+    "SENSE_KEY_1":"newspaper%1:10:00::",
+    "SENSE_KEY_2":"newspaper%1:14:00::",
+    "USAGE_1":"The merits of the Salk anti polio vaccine were not established on the forensic platform or in newspaper editorials , but in the laboratory and by tests in the field on thousands of children .",
+    "USAGE_2":"Other THC activities followed , conducted by shopping centers , department stores , recreation equipment dealers , radio - TV stations , newspapers , and other organizations interested in the need existing to acquaint youngsters with the proper use of sporting firearms and the development of correct attitudes and appreciations related to hunting and wise use of our natural resources .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"nineteen",
+    "SENSE_KEY_1":"nineteen%5:00:00:cardinal:00",
+    "SENSE_KEY_2":"nineteen%1:23:00::",
+    "USAGE_1":"`` People automatically assume that I 'm in college '' , a nineteen year old machinist observed irritably .",
+    "USAGE_2":"But yes , nineteen plus thirty was forty-nine , and she was forty-nine and she had been married at nineteen .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"north",
+    "SENSE_KEY_1":"north%1:24:00::",
+    "SENSE_KEY_2":"north%3:00:00::",
+    "USAGE_1":"Floating ice bore down from the north and west .",
+    "USAGE_2":"Cricket took eight ships and went south across the Straits and along the north coast of Mindanao to Cagayan .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"number",
+    "SENSE_KEY_1":"number%1:07:00::",
+    "SENSE_KEY_2":"number%2:32:03::",
+    "USAGE_1":"Are you careful to restrict the number of people on leave at one time so that your total employment obligation is minimized ?",
+    "USAGE_2":"The main requirement is to be sure the boat is numbered according to the regulations of the state in which the boat will be principally used .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"nut",
+    "SENSE_KEY_1":"nut%1:20:00::",
+    "SENSE_KEY_2":"nut%1:18:00::",
+    "USAGE_1":" On Sainsbury's peanuts - WARNING - CONTAINS NUTS.",
+    "USAGE_2":" It is Moore's way to say: Viewers, meet Charlton Heston, gun nut extraordinaire.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"observe",
+    "SENSE_KEY_1":"observe%2:41:02::",
+    "SENSE_KEY_2":"observe%2:32:00::",
+    "USAGE_1":"The Independence Day celebration will be properly observed with a big military and civic parade from West Warwick to the Greene Homestead in Anthony ; And now , therefore , do I , John A. Notte , Jr. , Governor of the State of Rhode Island and Providence Plantations , proclaim the week of April 29 th to May 7 th , 1961 , as Rhode Island Heritage Week , advising our citizens that throughout this week many historic houses and beautiful gardens will be open to visitors as well as industrial plants , craft shops , museums and libraries and I earnestly urge all to take advantage of these opportunities to see as many of these places as they can during this outstanding week .",
+    "USAGE_2":" But one always must first observe & gather the facts, then draw conclusions.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"oil",
+    "SENSE_KEY_1":"oil%1:27:00::",
+    "SENSE_KEY_2":"oil%1:06:01::",
+    "USAGE_1":"Traces of oil on green tissue ?",
+    "USAGE_2":"He was elected to the National Academy of Design as an Associate in the oil class in 1931 ( after receiving his first Ranger Fund Purchase Prize at the Academy in 1930 ) , and elevated to Academicianship in 1940 .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"on",
+    "SENSE_KEY_1":"on%4:02:01::",
+    "SENSE_KEY_2":"on%4:02:02::",
+    "USAGE_1":"In the American `` hardboiled '' detective story of the ' 20 s and ' 30 s , the spirit of the mad genius from Baker Street lives on .",
+    "USAGE_2":" She catches on quickly, see? She's as seamless & with it as she is conspicuous.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"opinion",
+    "SENSE_KEY_1":"opinion%1:09:00::",
+    "SENSE_KEY_2":"opinion%1:10:00::",
+    "USAGE_1":"Youngish man on the make , Madden labeled him , and was ready to guess that in a correct , not too pushing fashion , the junior partner of the firm had political ambitions ; that Mrs. Garth would be impeccably suitable as the wife of a rising young lawyer ; that there were three children , two boys and a girl ; that she was active in the Woman 's Club and he in Lions , Rotary , and Jaycee ; and finally , that neither of them had harbored an unorthodox opinion since their wedding day .",
+    "USAGE_2":"The Court 's opinion dogmatically asserts that the husband wife conspiracy doctrine does not in fact protect this relationship , and that hence the doctrine `` enthrone [ s ] an unreality into a rule of law '' .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"oppose",
+    "SENSE_KEY_1":"oppose%2:32:01::",
+    "SENSE_KEY_2":"oppose%2:42:00::",
+    "USAGE_1":"The Istiqlal sponsored U.M.C.I.A. ( L'Union Marocaine des Commercants , Industrialistes et Artisans ) was opposed by candidates of the new U.N.F.P. ( L'Union National des Forces Populaires ) in nearly all urban centers .",
+    "USAGE_2":"Consider a shear field with a height of H and a cross-sectional area of A opposed by a manometer with a height of h ( referred to the same base as H ) and a cross-sectional area of a .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"ordinary",
+    "SENSE_KEY_1":"ordinary%3:00:00::",
+    "SENSE_KEY_2":"ordinary%1:18:01::",
+    "USAGE_1":"Following the theme of Incarnation in the Gospels , the Christian artist and critic sees in the most commonplace and ordinary events `` figures '' of divine power and reality .",
+    "USAGE_2":"Ordinary Williams said he , too , was subjected to anonymous calls soon after he scheduled the election .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"originate",
+    "SENSE_KEY_1":"originate%2:42:00::",
+    "SENSE_KEY_2":"originate%2:36:00::",
+    "USAGE_1":"Earthquakes originate as far as 400 miles below the surface , but they do not occur at greater depths .",
+    "USAGE_2":"If communications work , his decision would be instantly known in all command posts that would originate the actual go order .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"outdoor",
+    "SENSE_KEY_1":"outdoor%3:01:00::",
+    "SENSE_KEY_2":"outdoor%3:00:00::",
+    "USAGE_1":"The shooting development program of the Sporting Arms and Ammunition Manufacturers ' Institute has successfully published these facts in all major outdoor magazines , many national weeklies and the trade papers .",
+    "USAGE_2":"Almost every official who reflects on it thinks this movement of Americans to canvas dwellings opens one of the most promising of all outdoor markets .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"overhead",
+    "SENSE_KEY_1":"overhead%4:02:00::",
+    "SENSE_KEY_2":"overhead%1:21:00::",
+    "USAGE_1":"The child should then bring both legs together overhead , point the toes and tighten the seat muscles .",
+    "USAGE_2":" In truth, the SSA uses the money to pay for it's own overheads and the same misguided corporate welfare the IRS helps to mastermind.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"owe",
+    "SENSE_KEY_1":"owe%2:40:00::",
+    "SENSE_KEY_2":"owe%2:42:00::",
+    "USAGE_1":"Of straight dramas , there are All the Way Home , which owes much of its poetic power to the James Agee novel , A Death in the Family ; The Wall , awkwardly based on the John Hersey novel ; Advise and Consent , lively but shallow theater drawn from the mountainously detailed bestseller ; Face of a Hero ( closed ) , based on a Pierre Boulle novel .",
+    "USAGE_2":"Actually , Zen owes more to Chinese Quietism than it does to Mahayana Buddhism .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"owner",
+    "SENSE_KEY_1":"owner%1:18:02::",
+    "SENSE_KEY_2":"owner%1:18:00::",
+    "USAGE_1":"The slaves never shared in their profits , while they did share , in a very real sense , in the profits of the slave owners : they were fed , clothed , doctored , and so forth ; they were the beneficiaries of responsible , paternalistic care .",
+    "USAGE_2":"Who is the owner ?",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"pack",
+    "SENSE_KEY_1":"pack%2:35:00::",
+    "SENSE_KEY_2":"pack%1:06:00::",
+    "USAGE_1":"She 'd say she did n't feel good on Sunday , could n't go to church - there 'd be a little argument , but she could be stubborn - and when the old woman had gone , quick pack the things she 'd need to take , all but the dress she 'd wear Monday , and take the bag down to that place in the station where you could put things in a locker overnight , for a dime .",
+    "USAGE_2":" The time and price is PERFECT, get in SHTP and ride it to huge gains in a volatile market ShotPak Tests New Patented StandUp Pouch and Multi-Pack Option In Two Major Southern California Supermarket Chains IRVINE, Calif.--(BUSINESS WIRE)-- ShotPak, Inc. (Pink Sheets:SHTP - News) today announced at a meeting of the Sales Team that the newly introduced StandUp shaped pouch is currently being tested with consumers in a convenient multiple unit six pack carrier at select Albertsons stores in Southern California.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"pain",
+    "SENSE_KEY_1":"pain%1:26:00::",
+    "SENSE_KEY_2":"pain%1:12:00::",
+    "USAGE_1":"Landesco thought him `` just a superior sort of plugugly '' but he was , in fact , with his aggression and hostility , and nerveless indifference to risking or administering pain , a casebook psychopath .",
+    "USAGE_2":"Others who wrote of low characters and low life included Thomas Bangs Thorpe , creator of the Big Bear of Arkansas and Tom Owen , the Bee-Hunter ; Johnson Jones Hooper , whose character Simon Suggs bears a close kinship to Flem Snopes in both his willingness to take cruel advantage of all and sundry and the sharpness with which he habitually carried out his will ; and George Washington Harris , whose Tennessee hillbilly character Sut Lovingood perpetrated more unmalicious mischief and more unintended pain than any other character in literature .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"pair",
+    "SENSE_KEY_1":"pair%1:14:01::",
+    "SENSE_KEY_2":"pair%2:41:00::",
+    "USAGE_1":"`` I 'll get an elegant pair of thin soled Italian shoes tomorrow , Carla '' .",
+    "USAGE_2":"Two poets are paired on each record , in the order given above .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"panic",
+    "SENSE_KEY_1":"panic%1:12:00::",
+    "SENSE_KEY_2":"panic%1:26:01::",
+    "USAGE_1":"Later , she apologized for the long scratch across his face , tried to explain she could n't help herself , that the panic arose in her unwanted .",
+    "USAGE_2":" Eyes bulging in panic, but no screams.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"path",
+    "SENSE_KEY_1":"path%1:06:00::",
+    "SENSE_KEY_2":"path%1:15:00::",
+    "USAGE_1":"From above one could only occasionally catch a glimpse of life on the floor of this green sea : a neighbor 's gingham skirt flashing into sight for an instant on the path beneath her grape-arbor , or the movement of hands above a clothesline and the flutter of garments hung there , half-way down the block .",
+    "USAGE_2":"The pulmonary vein , however , without the limiting supportive tissue septa as in type 1 , , follows a more direct path to the hilum and does not maintain this close relationship ( figs. 8 , 22 ) .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"perform",
+    "SENSE_KEY_1":"perform%2:36:00::",
+    "SENSE_KEY_2":"perform%2:36:01::",
+    "USAGE_1":"Early in the war it was not uncommon for planters ' sons to retain in camp Negro `` body servants '' to perform the menial chores such as cooking , foraging , cleaning the quarters , shining shoes , and laundering clothes .",
+    "USAGE_2":"We attended the premieres of his concertos , symphonies , and suites ; we studied , taught , and performed his piano sonatas , chamber music , gavottes , and marches ; we bought his records and played them in our schools and universities .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"phase",
+    "SENSE_KEY_1":"phase%1:26:00::",
+    "SENSE_KEY_2":"phase%1:07:00::",
+    "USAGE_1":"The photochemical exchange occurs with a quantum yield of the order of unity in the liquid phase at 65 ` using light absorbed only by the * * f .",
+    "USAGE_2":" Thereafter, those patients treated with simvastatin in the first phase will receive 80 mg of simvastatin daily and those treated with placebo, 40 mg of simvastatin daily.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"picture",
+    "SENSE_KEY_1":"picture%1:26:00::",
+    "SENSE_KEY_2":"picture%1:10:00::",
+    "USAGE_1":"All told , they offered a highly confused picture .",
+    "USAGE_2":"Friends , a picture magazine distributed by Chevrolet dealers , describes a paramilitary organization of employees of the Gulf Telephone Company at Foley , Alabama .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"place",
+    "SENSE_KEY_1":"place%1:15:04::",
+    "SENSE_KEY_2":"place%2:31:00::",
+    "USAGE_1":"The front windows of the place were long and narrow , reaching nearly to the floor and affording an unusually good view of the interior .",
+    "USAGE_2":" Spiced air hanging around the cart carried tarragon, rosemary, and scents I couldn't place.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"plan",
+    "SENSE_KEY_1":"plan%2:31:01::",
+    "SENSE_KEY_2":"plan%1:09:01::",
+    "USAGE_1":"And then again perhaps the reason why he could n't find time to do any of the things he had planned to do after retirement : reading , roaming , gardening , lying on his back and watching the clouds go by , was because he did n't want to do them .",
+    "USAGE_2":" (Jack uses the skeleton leg as an oar, rows toward the full moon and a waiting ship in the distance to the right of the moon) Scene: BLACK PEARL (Jack arrives at the Black Pearl in his coffin rowboat) (Gibbs holds out his hand to help Jack aboard, Jack puts the skeleton leg in Gibbs' hand) (Cotton drapes a coat onto Jack's back) GIBBS Not *quite* according to plan.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"policy",
+    "SENSE_KEY_1":"policy%1:10:00::",
+    "SENSE_KEY_2":"policy%1:09:00::",
+    "USAGE_1":"In municipal systems we tend to view what is called positivism as fundamentally a movement to democratize policy by increasing the power of parliament - the elected representatives - at the expense of the more conservative judiciary .",
+    "USAGE_2":"When the power of the latter was made both limited and explicit - when norms were clarified and made more precise and the creation of new norms was placed exclusively in parliamentary hands - two purposes were served : Government was made subservient to an institutionalized popular will , and law became a rational system for implementing that will , for serving conscious goals , for embodying the `` public policy '' .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"portray",
+    "SENSE_KEY_1":"portray%2:32:00::",
+    "SENSE_KEY_2":"portray%2:36:00::",
+    "USAGE_1":"For example , arrow 17 in Figure 3 portrays the proximal radial epiphysis for boy 34 , whereas the same epiphysis for girl 2 is portrayed by arrow 18 in Figure 4 .",
+    "USAGE_2":"The monk Savonarola , brought over from the Renaissance and placed against the background of Munich at the turn of the century , protests against the luxurious works displayed in the art shop of M. Bluthenzweig ; in particular against a Madonna portrayed in a voluptuous style and modeled , according to gossip , upon the painter 's mistress .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"possibility",
+    "SENSE_KEY_1":"possibility%1:09:01::",
+    "SENSE_KEY_2":"possibility%1:26:00::",
+    "USAGE_1":"Have you investigated the possibility of moving midweek holidays forward to Monday or back to Friday in order to have an uninterrupted work week ?",
+    "USAGE_2":"By contrast , even experienced linguists commonly know no more of the range of possibilities in tone systems than the over-simple distinction between register and contour languages .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"praise",
+    "SENSE_KEY_1":"praise%2:32:00::",
+    "SENSE_KEY_2":"praise%1:10:00::",
+    "USAGE_1":"Unlike his younger brother , Joe , he never presumed to address her more familiarly than as `` My dear friend '' , although he praised and envied the elegance and purity of her style .",
+    "USAGE_2":"His life-long friend , Serge Koussevitzky , gave unreservedly of his praise and brilliant performances in Boston , New York , and Washington , D. C. , to which he added broadcastings and recordings for the whole nation .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"preach",
+    "SENSE_KEY_1":"preach%2:32:02::",
+    "SENSE_KEY_2":"preach%2:32:00::",
+    "USAGE_1":"`` Dearly beloved '' , he preached , `` unless you repent of your sins in a measure , and become converted to a degree , you will , I regret to say , be damned to a more or less extent '' .",
+    "USAGE_2":"To start the week of special programs at the church , the Rev. John D. Henderson will preach on `` A Successful Marriage '' at 9 : 40 and 11 a. m. Sunday .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"precaution",
+    "SENSE_KEY_1":"precaution%1:04:00::",
+    "SENSE_KEY_2":"precaution%1:07:00::",
+    "USAGE_1":"`` If there was collusion between an outside murderer and a member of the household it would be an elementary precaution to check on the door later .",
+    "USAGE_2":"The Mecholyl and noradrenalin tests applied with certain precautions are reliable indicators of this central autonomic balance , but for the sake of correlating autonomic and clinical states , and of studying the effect of certain therapeutic procedures on central autonomic reactions , additional tests seem to be desirable .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"precede",
+    "SENSE_KEY_1":"precede%2:42:01::",
+    "SENSE_KEY_2":"precede%2:41:00::",
+    "USAGE_1":"form - any unique sequence of alphabetic characters that can appear in a language preceded and followed by a space .",
+    "USAGE_2":"Sound the roll of those with whom he served and who preceded him in death .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"presuppose",
+    "SENSE_KEY_1":"presuppose%2:31:00::",
+    "SENSE_KEY_2":"presuppose%2:31:01::",
+    "USAGE_1":"It could be argued that only such neighborhoods can sustain religious activity , since worship presupposes some local stabilities .",
+    "USAGE_2":"The third choice , negotiation , presupposes , as Russian behavior demonstrates , a great deal of wishful thinking to make it appear reasonable .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"principle",
+    "SENSE_KEY_1":"principle%1:09:03::",
+    "SENSE_KEY_2":"principle%1:09:00::",
+    "USAGE_1":"His purpose , however , was not to establish an empire , but to assert the principle of divine justice .",
+    "USAGE_2":"But Aristotle kept the principle of levels and even augmented it by describing in the Poetics what kinds of character and action must be imitated if the play is to be a vehicle of serious and important human truths .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"probe",
+    "SENSE_KEY_1":"probe%2:35:00::",
+    "SENSE_KEY_2":"probe%2:32:00::",
+    "USAGE_1":"There was only one way to accomplish this : by design , by drawing diagrams and sketches in which he probed the remotest corner of his mind for creative ideas to carry his concept .",
+    "USAGE_2":"Other witnesses , after appearances before the jury , which reportedly is probing into possible income tax violations , disclosed that government prosecutors were attempting to connect Stein and his company with a number of gangsters , including Glimco and Alex .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"proceed",
+    "SENSE_KEY_1":"proceed%2:38:00::",
+    "SENSE_KEY_2":"proceed%2:30:00::",
+    "USAGE_1":"Without further discussion he appeared the next morning with a pile of boards sticking over the end of his light truck and proceeded with the paneling , which he then stained and waxed according to his taste .",
+    "USAGE_2":"Because the body contains so much liquid , transmission of ultrasonic signals proceeds fairly well in muscles and blood vessels .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"process",
+    "SENSE_KEY_1":"process%2:30:00::",
+    "SENSE_KEY_2":"process%1:03:00::",
+    "USAGE_1":"To be eligible to borrow from a Bank for Cooperatives , a cooperative must be an association in which farmers act together in processing and marketing farm products , purchasing farm supplies , or furnishing farm business services , and must meet the requirements set forth in the Farm Credit Act of 1933 , as amended .",
+    "USAGE_2":" Micro-level activities gather the force and the power to shape macro-level processes and larger institutions.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"produce",
+    "SENSE_KEY_1":"produce%2:36:02::",
+    "SENSE_KEY_2":"produce%2:39:00::",
+    "USAGE_1":"We must not forget , to be sure , that free discussion and debate have produced beneficial results .",
+    "USAGE_2":"It was Porter , however , who produced the very first movie whose name has lived on through the half century of film history that has since ensued .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"professional",
+    "SENSE_KEY_1":"professional%3:00:01::",
+    "SENSE_KEY_2":"professional%3:01:00::",
+    "USAGE_1":"But with the exception of professional athletes , few contact sports and physical education activities in our schools have any carryover in the adult life of the average American man or woman .",
+    "USAGE_2":"The collective by which I address you in the title above is neither patronizing nor jocose but an exact industrial term in use among professional thieves .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"promote",
+    "SENSE_KEY_1":"promote%2:41:00::",
+    "SENSE_KEY_2":"promote%2:32:00::",
+    "USAGE_1":"And little Zeme North , a Dora with real spirit and verve , was fascinating whether she was singing of her love for Floyd , the cop who becomes sewer commissioner and then is promoted into garbage , or just dancing to display her exuberant feelings .",
+    "USAGE_2":" It's no longer unusual for chefs to refuse to serve a species they think to be at risk of extinction or for a retailer to promote seafoods that are abundant and part of a healthy marine ecosystem.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"pronounce",
+    "SENSE_KEY_1":"pronounce%2:32:01::",
+    "SENSE_KEY_2":"pronounce%2:32:00::",
+    "USAGE_1":"A man named Blaine Smythe , with `` y '' and `` e '' but pronounced without them , had been fired at Payne 's insistence .",
+    "USAGE_2":"The victim Darnell Somerville , Negro , 1 , was pronounced dead on arrival at Anne Arundel General Hospital in Annapolis .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"provide",
+    "SENSE_KEY_1":"provide%2:32:00::",
+    "SENSE_KEY_2":"provide%2:34:00::",
+    "USAGE_1":"There are authorized to be appropriated such sums , to remain available until expended , as may be necessary , but not more than $ 75000000 in all , ( a ) to carry out the provisions of this Act during the fiscal years 1962 to 1967 , inclusive ; ( b ) to finance , for not more than two years beyond the end of said period , such grants , contracts , cooperative agreements , and studies as may theretofore have been undertaken pursuant to this Act ; and ( c ) to finance , for not more than three years beyond the end of said period , such activities as are required to correlate , coordinate , and round out the results of studies and research undertaken pursuant to this Act : Provided , That funds available in any one year for research and development may , subject to the approval of the Secretary of State to assure that such activities are consistent with the foreign policy objectives of the United States , be expended in cooperation with public or private agencies in foreign countries in the development of processes useful to the program in the United States : And provided further , That every such contract or agreement made with any public or private agency in a foreign country shall contain provisions effective to insure that the results or information developed in connection therewith shall be available without cost to the United States for the use of the United States throughout the world and for the use of the general public within the United States .",
+    "USAGE_2":"The task of providing a reasonable level of military strength , without endangering other vital aspects of our security , is greatly complicated by the swift pace of scientific progress .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"pursue",
+    "SENSE_KEY_1":"pursue%2:41:01::",
+    "SENSE_KEY_2":"pursue%2:35:00::",
+    "USAGE_1":"This the therapist may pursue in later questioning .",
+    "USAGE_2":" Magna said Mr. McAlpine resigned to pursue a consulting career, with Magna as one of his clients.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"put_on",
+    "SENSE_KEY_1":"put_on%2:36:02::",
+    "SENSE_KEY_2":"put_on%2:30:00::",
+    "USAGE_1":"He got a small fire started and put on bacon and coffee .",
+    "USAGE_2":"The skyline , the bridges , Broadway , and the Staten Island ferry are only a few of the spots to put on your `` must '' list for New York City .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"quantity",
+    "SENSE_KEY_1":"quantity%1:07:00::",
+    "SENSE_KEY_2":"quantity%1:03:00::",
+    "USAGE_1":"We assume that average total unit cost in the relevant region of operation is constant with respect to quantity produced ( the average cost curve is horizontal , and therefore is identical with the marginal cost curve ) , and is the same for every firm ( and therefore for the industry ) .",
+    "USAGE_2":" It is a country with a long and glorious history, a substantial middle class, a peace treaty with Israel and large quantities of American aid.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"queen",
+    "SENSE_KEY_1":"queen%1:05:01::",
+    "SENSE_KEY_2":"queen%1:18:00::",
+    "USAGE_1":"Even some of the queens will die before the winter is over , falling prey to enemies or disease .",
+    "USAGE_2":"The unfortunate queen mounted the scaffold ; the headsman swung his axe ; the head dropped off ; end of film .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"quietly",
+    "SENSE_KEY_1":"quietly%4:02:01::",
+    "SENSE_KEY_2":"quietly%4:02:02::",
+    "USAGE_1":"She sat quietly , staring at me from the wide eyes .",
+    "USAGE_2":"He beckoned to her from the door and she slipped quietly outside .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"radiation",
+    "SENSE_KEY_1":"radiation%1:19:00::",
+    "SENSE_KEY_2":"radiation%1:04:00::",
+    "USAGE_1":"Radiation scatters somewhat like light .",
+    "USAGE_2":"For the case of Jupiter , the radio emission spectrum is definitely not like the spectrum of a black-body radiator , and it seems very likely that the radiation reaching the earth is a combination of thermal radiation from the atmosphere and non thermal components .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"rare",
+    "SENSE_KEY_1":"rare%5:00:00:uncommon:00",
+    "SENSE_KEY_2":"rare%5:00:00:scarce:00",
+    "USAGE_1":"The doctor , with the air of a man whose professional interests have found scope , drew Alex 's attention to those excellences which might otherwise have escaped him : the fine color in comb and wattles , the length and quality of neck and saddle hackles , the firm , wide spread of the toes , and a rare justness in the formation of the ear lappets .",
+    "USAGE_2":"'' RARE COIN FETCHES RECORD $7.59 MILLION AT AUCTION NEW YORK The 1933 double eagle, a $20 gold piece with a mysterious history that involves a president, a king and a Secret Service sting operation, was auctioned Tuesday last night for a record price for a coin, $7.59 million, nearly double the previous record.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"react",
+    "SENSE_KEY_1":"react%2:41:00::",
+    "SENSE_KEY_2":"react%2:30:00::",
+    "USAGE_1":"We should do what we can to discourage this conclusion , both by offering assistance for their domestic needs and by reacting firmly to irresponsible actions on the world scene .",
+    "USAGE_2":"After blotting out most of the saline around the sections , a drop of * * f was layered over each of the sections , allowed to react for 30 minutes , and then washed with PBS for 15 - 30 minutes .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"reason",
+    "SENSE_KEY_1":"reason%1:10:01::",
+    "SENSE_KEY_2":"reason%1:09:01::",
+    "USAGE_1":"One of the reasons for the high percentage of Jewish teen-agers in college is that a great many urban Jews are enabled to attend local colleges at modest cost .",
+    "USAGE_2":" I didn't really have a reason.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"rebel",
+    "SENSE_KEY_1":"rebel%2:41:00::",
+    "SENSE_KEY_2":"rebel%2:41:01::",
+    "USAGE_1":"The same month that Alastor was published , Murray sold twenty thousand copies of The Siege of Corinth , a slovenly bit of Byronism that even Shelley 's generosity rebelled at .",
+    "USAGE_2":"He cited East Germany where after 15 years of Soviet rule it has become necessary to build a wall to keep the people in , and added , `` so long as people rebel , we must not give up '' .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"receive",
+    "SENSE_KEY_1":"receive%2:31:00::",
+    "SENSE_KEY_2":"receive%2:30:00::",
+    "USAGE_1":"But to as many as received him he gave the power of becoming sons of God ; to those who believe in his name : Who were born not of blood , nor of the will of the flesh , nor of the will of man , but of God .",
+    "USAGE_2":" He receives none.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"recording",
+    "SENSE_KEY_1":"recording%1:06:00::",
+    "SENSE_KEY_2":"recording%1:04:00::",
+    "USAGE_1":"His life-long friend , Serge Koussevitzky , gave unreservedly of his praise and brilliant performances in Boston , New York , and Washington , D. C. , to which he added broadcastings and recordings for the whole nation .",
+    "USAGE_2":"In all of this extensive and expensive effort , the camera was downgraded to the status of recording instrument for art work produced elsewhere by the actor or by the author .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"reduce",
+    "SENSE_KEY_1":"reduce%2:41:00::",
+    "SENSE_KEY_2":"reduce%2:29:00::",
+    "USAGE_1":"True , the adherents of staying put are now reduced to a minor , even a miniscule sect , and their credo , `` Home-keeping hearts are happiest '' , is as disreputable as Socinianism .",
+    "USAGE_2":" Reduced sediment supply because of aggradation upstream will enhance the downstream degradation.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"reduction",
+    "SENSE_KEY_1":"reduction%1:22:00::",
+    "SENSE_KEY_2":"reduction%1:04:00::",
+    "USAGE_1":"They indicated that a 4 - day retention , aerated lagoon would give 60 to 76 per cent BOD reduction .",
+    "USAGE_2":" Within the pan-Mayan movement, there remains a desire to maintain linguistic diversity: some view the reduction of their language to the status of ``dialect'' devalues their unique identity and place in the Mayan world; however, despite differences over standardization, the pan-Mayan movement itself is largely cohesive.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"reel",
+    "SENSE_KEY_1":"reel%1:06:02::",
+    "SENSE_KEY_2":"reel%2:38:03::",
+    "USAGE_1":"The Great Train Robbery is a one reel film .",
+    "USAGE_2":" His first move pulled out the dagger, almost wrenching my arms from their sockets as I held on to the box, and the second shattered the box with a crushing punch that sent me reeling backwards.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"region",
+    "SENSE_KEY_1":"region%1:15:00::",
+    "SENSE_KEY_2":"region%1:15:01::",
+    "USAGE_1":"A significant effect discovered during the study is the existence of Prandtl numbers reaching values of more than unity in the nitrogen dissociation region .",
+    "USAGE_2":"The cores of deep sea sediments and content of collectors in remote regions are valuable in this category .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"regular",
+    "SENSE_KEY_1":"regular%5:00:00:frequent:00",
+    "SENSE_KEY_2":"regular%5:00:00:steady:00",
+    "USAGE_1":" Regular Routines lovinglife307 2008-11-09T15:18:34Z ID: 45724 Prequels: 45646 Sequels: none I was floating on a cloud.",
+    "USAGE_2":" You'll receive a membership card and attractive decal, wildlife and legislative alerts, in-depth monthly information packets on wildlife topics, invitations to outdoor programs, exciting travel opportunities and regular receipt of our trademark wildlife stamps -- a national tradition since 1936 -- greeting cards, a calendar and address labels.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"related",
+    "SENSE_KEY_1":"related%3:00:02::",
+    "SENSE_KEY_2":"related%3:00:01::",
+    "USAGE_1":"A. E. Sharp , in Vowel-Length and Syllabicity in Kikuyu , examines one set of related orthographic questions and its phonologic background in detail .",
+    "USAGE_2":"There are several closely related inner functions .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"remark",
+    "SENSE_KEY_1":"remark%1:10:00::",
+    "SENSE_KEY_2":"remark%2:32:00::",
+    "USAGE_1":"Chapter 8 , is entitled `` On Magnetism '' and in it are included such remarks as , `` One has always been tempted to compare the magnetic forces with the electrical forces .",
+    "USAGE_2":" His opponent watched him for a while and then remarked, ``Reverend, that's the most profane silence I have ever heard.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"repair",
+    "SENSE_KEY_1":"repair%1:26:00::",
+    "SENSE_KEY_2":"repair%2:30:00::",
+    "USAGE_1":"The desk before him was in no better repair than the rest of the furniture crowded into the room , including wooden file cabinets with some of their pulls yanked off and a wardrobe stained with the roof seepage of countless seasons .",
+    "USAGE_2":"And even with her limited knowledge of such things , she knew that the car could be repaired there ; sufficiently , at least , to get them back into town .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"representation",
+    "SENSE_KEY_1":"representation%1:06:00::",
+    "SENSE_KEY_2":"representation%1:04:00::",
+    "USAGE_1":"If they opted for illusion , it could only be illusion per se - an illusion of depth , and of relief , so general and abstracted as to exclude the representation of individual objects .",
+    "USAGE_2":") Of course it was built , but it was built vertically within the city walls, meaning that new buildings were constructed atop existing ones like so: The effect is the sort of architecture one only finds in dreams or representations of them, like the one in the finale of the fourth season of Buffy the Vampire Slayer , wherein Joss Whedon took advantage of contiguous three-walled film sets to depict Xander Harris moving seamlessly from the upstairs bathroom at Buffy's house: Into the Initiative's underground bunker: Then, from the bathroom-Initiative across the hall: Into his parent's basement: And into an ice cream truck: Past the the come-hither lesbians: Through the back of the ice cream truck: By means of a passage: That returns him to you guessed it his parents' basement: In which he exits the same door he originally entered it from Buffy's house only to end up in the halls of Sunnydale High and (shortly) an Apocalypse Now parody: The only difference between what Whedon did and Urbino is that you could travel through the side streets of Urbino with a camera and accomplish such feats (minus the Coppola) without needing to cut once .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"resort",
+    "SENSE_KEY_1":"resort%1:15:00::",
+    "SENSE_KEY_2":"resort%2:41:11::",
+    "USAGE_1":"And even if they stay in resorts part of the time , they might , if the right salesman gets them in tow , develop a yearning to spice the usual vacation fare with a camping trip into the wide open spaces .",
+    "USAGE_2":" One rapidly runs out of hands and must resort to fingers and toes, for after years of laboriously categorizing these languages, the number of different main branches (called families and subfamilies) came to about ten.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"rest",
+    "SENSE_KEY_1":"rest%2:29:00::",
+    "SENSE_KEY_2":"rest%1:24:00::",
+    "USAGE_1":"The older men would be there at noon , and maybe rest for a time before they took their guns off to the creek or drove down the road towards town .",
+    "USAGE_2":" And she stayed there for the rest of the year.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"result",
+    "SENSE_KEY_1":"result%1:11:00::",
+    "SENSE_KEY_2":"result%2:42:00::",
+    "USAGE_1":"What effort do you make to assess results of your program ?",
+    "USAGE_2":"But is that not like going to a chemistry laboratory and blindly pouring out liquids and powders from an array of bottles and then , after stirring , expecting a new wonder drug inevitably to result ?",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"review",
+    "SENSE_KEY_1":"review%2:31:00::",
+    "SENSE_KEY_2":"review%1:09:00::",
+    "USAGE_1":"Are annual marketing plans reviewed throughout your management group to get the perspective of all individuals and get everyone on the marketing team ?",
+    "USAGE_2":" In its 5-to-0 decision in the Nelson case, the court showed continuing uneasiness with the death penalty, as it has done even since adopting a voluminous set of review procedures in 1999 to govern capital cases.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"rice",
+    "SENSE_KEY_1":"rice%1:20:00::",
+    "SENSE_KEY_2":"rice%1:13:00::",
+    "USAGE_1":"Then we drove on , until there was no more road and we traversed dry rice fields , bouncing across their squat earth walls .",
+    "USAGE_2":"The Prince visited the hospital of Operation Brotherhood , supported by the Junior Chamber of Commerce of the Philippines , and fed rice to two pet elephants he kept at his residence at Pak Song .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"rig",
+    "SENSE_KEY_1":"rig%1:06:00::",
+    "SENSE_KEY_2":"rig%2:35:00::",
+    "USAGE_1":"If an expensive and specialized piece of machinery is needed - such as a spray rig , a combine , or a binder - it is better to pay someone with a machine to do the work .",
+    "USAGE_2":" He managed to rig something up to protect the sample from the elements until you could arrive to make the positive identification.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"right",
+    "SENSE_KEY_1":"right%4:02:09::",
+    "SENSE_KEY_2":"right%4:02:01::",
+    "USAGE_1":"But then , when you stuck things into the holes , why did n't they come right out again ?",
+    "USAGE_2":" Serves him right! Jim eyes Todd carefully, then asks.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"rim",
+    "SENSE_KEY_1":"rim%2:42:00::",
+    "SENSE_KEY_2":"rim%1:25:00::",
+    "USAGE_1":"He doubted if a man could wade as far as the desolate , dry hills that rimmed the valley .",
+    "USAGE_2":"The mean temperature of this region was approximated by the temperature measured halfways between the edge of the hot spot and the rim of the plug .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"romantic",
+    "SENSE_KEY_1":"romantic%3:01:00::",
+    "SENSE_KEY_2":"romantic%1:18:00::",
+    "USAGE_1":"After all , Shelley is no `` orthodox '' or Hellenic Platonist , and even his `` romantic '' Platonism can be distinguished from that of his contemporaries .",
+    "USAGE_2":"A romantic is one who thinks the world is divinely inspired and all he has to do is find the right key , and then divine justice and altruism will appear .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"rule",
+    "SENSE_KEY_1":"rule%1:10:00::",
+    "SENSE_KEY_2":"rule%2:31:00::",
+    "USAGE_1":"No longer did the sovereign look to the law of nations to determine what he ought to do ; his search was merely for rules that might limit his freedom of action .",
+    "USAGE_2":"Joe naturally ruled that a ball be dropped from alongside the spot where it had originally entered the stream .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"schedule",
+    "SENSE_KEY_1":"schedule%1:10:00::",
+    "SENSE_KEY_2":"schedule%2:32:00::",
+    "USAGE_1":"You see , you got to remember , we all got schedules , like any business !",
+    "USAGE_2":"Twenty-one year old Milt Pappas and Jerry Walker , 22 , are scheduled to share the Oriole mound chores against the Bombers ' Art Ditmar in Sunday 's 2 P.M. encounter .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"scientific",
+    "SENSE_KEY_1":"scientific%3:00:00::",
+    "SENSE_KEY_2":"scientific%3:01:00::",
+    "USAGE_1":"conduct , encourage , and promote fundamental scientific research and basic studies to develop the best and most economical processes and methods for converting saline water into water suitable for beneficial consumptive purposes ;",
+    "USAGE_2":"But it has been during the last two centuries , during the scientific revolution , that our independence from the physical environment has made the most rapid strides .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"sector",
+    "SENSE_KEY_1":"sector%1:09:00::",
+    "SENSE_KEY_2":"sector%1:14:00::",
+    "USAGE_1":"Of course , something of the same sort occurs with other sectors of the phonology : consonantal articulations have both a linguistic and an individual component .",
+    "USAGE_2":"The society is likely to be characterized by having a fairly modernized urban sector and a relatively untouched rural sector , with very poor communications between the two .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"sentence",
+    "SENSE_KEY_1":"sentence%1:10:00::",
+    "SENSE_KEY_2":"sentence%1:04:00::",
+    "USAGE_1":"In sentences , patterns of stress are determined by complex combinations of influences that can only be suggested here .",
+    "USAGE_2":" Powell said his discussions with Mahathir ``touched on the case'' of his former deputy, Anwar Ibrahim, who is serving a 15-year sentence on charges of sodomy and abuse of power after trials that Powell said the United States had ``always felt'' were flawed.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"separation",
+    "SENSE_KEY_1":"separation%1:11:00::",
+    "SENSE_KEY_2":"separation%1:26:00::",
+    "USAGE_1":"Byron , since the separation from his wife had been living in a smallish house in Piccadilly Terrace .",
+    "USAGE_2":"The weeks went by , and the longer our separation grew , the more unbounded and almost unbearable my fantasies became .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"shear",
+    "SENSE_KEY_1":"shear%2:35:00::",
+    "SENSE_KEY_2":"shear%1:19:00::",
+    "USAGE_1":"I like to shear half my plants at a time , leaving one half of them to blossom while the second half is getting started on its new round of blooming .",
+    "USAGE_2":"This gives a rate of shear of * * f .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"shield",
+    "SENSE_KEY_1":"shield%1:06:02::",
+    "SENSE_KEY_2":"shield%2:33:00::",
+    "USAGE_1":"In addition , the inner surface of the carbon shield was covered with aluminum foil to reduce radiation .",
+    "USAGE_2":"He hovered over her to shield her , for spent bullets were thudding against the rear walls .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"ship",
+    "SENSE_KEY_1":"ship%1:06:00::",
+    "SENSE_KEY_2":"ship%2:38:00::",
+    "USAGE_1":"He had obtained and provisioned a veteran ship called the Discovery and had recruited a crew of twenty-one , the largest he had ever commanded .",
+    "USAGE_2":" If you are planning on shipping items to Edward Harrell, please check the Transaction Details page of this payment to find out whether you will be covered by the PayPal Seller Protection Policy.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"shoot",
+    "SENSE_KEY_1":"shoot%2:32:05::",
+    "SENSE_KEY_2":"shoot%2:33:00::",
+    "USAGE_1":" I was being shot to the top of the building, racing through its walls.",
+    "USAGE_2":" (the monkey snarls, seizes the cloth, scampers off with it) JACK SPARROW Ohhh! (Jack attempts to shoot the monkey with his pistol, his pistol misfires) (Jack grabs a pistol from another crewman and blasts the monkey while it's on the deck) (the monkey drops the cloth, but is unharmed, and scurries into the rigging) GIBBS Know that don't do no good.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"shunt",
+    "SENSE_KEY_1":"shunt%1:08:00::",
+    "SENSE_KEY_2":"shunt%2:38:00::",
+    "USAGE_1":"Verloop ( ' 48 ; ' 49 ) found these shunts in the human being but was unable to find them in rats .",
+    "USAGE_2":" However, the representatives were shunted to the side and ignored in Washington, since Youngstown's political influence had died with its industry.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"sight",
+    "SENSE_KEY_1":"sight%1:10:00::",
+    "SENSE_KEY_2":"sight%1:09:01::",
+    "USAGE_1":"They had suffered , in sulky silence , the sight of his sharp practice in Cicero .",
+    "USAGE_2":"Not a man on the brig , loyal or villainous , could be unaffected by the sight of seven men involved in the crime of mutiny .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"sign",
+    "SENSE_KEY_1":"sign_of_the_zodiac%1:15:00::",
+    "SENSE_KEY_2":"sign%2:41:01::",
+    "USAGE_1":"the water sign of Pisces ( February 18 - March 20 ) .",
+    "USAGE_2":"The Eagles signed him for Shaw 's staff in 1959 .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"sin",
+    "SENSE_KEY_1":"sin%1:04:00::",
+    "SENSE_KEY_2":"sin%1:07:00::",
+    "USAGE_1":"`` Dearly beloved '' , he preached , `` unless you repent of your sins in a measure , and become converted to a degree , you will , I regret to say , be damned to a more or less extent '' .",
+    "USAGE_2":"However , even if the latent demand for demythologization is not nearly as widespread as we are claiming , at least among the cultured elements of the population there tends to be an almost complete indifference to the church and its traditional message of sin and grace .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"sing",
+    "SENSE_KEY_1":"sing%2:36:01::",
+    "SENSE_KEY_2":"sing%2:32:08::",
+    "USAGE_1":"He was also at the same time gaining practical experience as a safe breaker and highwayman , and learning how to shoot to kill from a Neanderthal convicted murderer named Gene Geary , later committed to Chester Asylum as a homicidal maniac , but whose eyes misted with tears when the young Dion sang a ballad about an Irish mother in his clear and syrupy tenor .",
+    "USAGE_2":" Choosing not to sing.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"situation",
+    "SENSE_KEY_1":"situation%1:26:01::",
+    "SENSE_KEY_2":"situation%1:26:00::",
+    "USAGE_1":"On previous voyages , it had been in precisely such dangerous situations that he had failed as a leader and captain .",
+    "USAGE_2":"The change was not quite so dramatic as it sounds because in fact common norms continued to be invoked by municipal courts and were only gradually changed by legislation , and then largely in marginal situations .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"slot",
+    "SENSE_KEY_1":"slot%1:10:00::",
+    "SENSE_KEY_2":"slot%1:06:00::",
+    "USAGE_1":"If word classes differ in their resistance or liability to stem replacement within meaning slot , it is conceivable that individual meanings also differ with fair consistence trans lingually .",
+    "USAGE_2":" killer gadget idea - GPS with an easily accessible SD card slot for geophoto tagging of camera data.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"smile",
+    "SENSE_KEY_1":"smile%2:29:00::",
+    "SENSE_KEY_2":"smile%1:10:00::",
+    "USAGE_1":"Seeming much relieved , she smiled one of those worth waiting for smiles , and I smiled all the way into the bedroom .",
+    "USAGE_2":"Seeming much relieved , she smiled one of those worth waiting for smiles , and I smiled all the way into the bedroom .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"split",
+    "SENSE_KEY_1":"split%1:04:02::",
+    "SENSE_KEY_2":"split%2:41:03::",
+    "USAGE_1":"Indeed , a lighter weight works much better because a greater , more extensive split can be performed .",
+    "USAGE_2":" He said that they had split the atom and that we were going to drop an atomic bomb,'' Karnes said.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"spur",
+    "SENSE_KEY_1":"spur%2:41:00::",
+    "SENSE_KEY_2":"spur%1:06:00::",
+    "USAGE_1":"A year ago the Negro Radio Association was formed to spur research which the 30 - odd member stations are sure will bring in more business .",
+    "USAGE_2":" Don't squat with your spurs on.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"spy",
+    "SENSE_KEY_1":"spy%1:18:00::",
+    "SENSE_KEY_2":"spy%2:32:01::",
+    "USAGE_1":"A similar tone of underlying futility and despair pervades the spy thrillers of Eric Ambler and dominates the most famous of all American mystery stories , Dashiell Hammett 's The Maltese Falcon .",
+    "USAGE_2":"You should have gone to work today , ' stead of sneaking around spying on the Dronk house '' .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"squat",
+    "SENSE_KEY_1":"squat%2:35:00::",
+    "SENSE_KEY_2":"squat%5:00:00:low:01",
+    "USAGE_1":"Squatting on our haunches beside the flat stone we broke them on , we were safe behind the high closed gates at the end of the drive : safe from interruption and the observation and possible amusement of the passers-by .",
+    "USAGE_2":"They followed him into the rain and across to the squat stone building fifty feet to the rear .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"staff",
+    "SENSE_KEY_1":"staff%1:14:01::",
+    "SENSE_KEY_2":"staff%1:06:00::",
+    "USAGE_1":"Can you share medical facilities and staff with neighboring plants ?",
+    "USAGE_2":"He clutched the staff , and his dark eyes blinked apologetically .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"stake",
+    "SENSE_KEY_1":"stake%1:21:02::",
+    "SENSE_KEY_2":"stake%1:10:00::",
+    "USAGE_1":" ALAN GRANT There was just so much at stake...research money had been really hard to come by.",
+    "USAGE_2":" I pulled out the hammer and one of the stakes.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"standard",
+    "SENSE_KEY_1":"standard%3:00:02::",
+    "SENSE_KEY_2":"standard%1:10:00::",
+    "USAGE_1":"You might try providing standard vacation time off but make the vacation pay depend on the number of hours worked in the previous year .",
+    "USAGE_2":"In addition to the basic programs in wavelength standards , spectroscopy , solid state physics , interactions of the free electron and atomic constants which are necessary to provide the foundation for technological progress , the Bureau has strengthened its activities in laboratory astrophysics .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"starve",
+    "SENSE_KEY_1":"starve%2:34:02::",
+    "SENSE_KEY_2":"starve%2:34:00::",
+    "USAGE_1":"`` I might have starved , but at least I would n't be fried to a crisp and soaked with dirt '' !",
+    "USAGE_2":"We 've been starving and I do n't like to starve '' .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"steam",
+    "SENSE_KEY_1":"steamer%2:38:00::",
+    "SENSE_KEY_2":"steam%2:43:00::",
+    "USAGE_1":"Cutting short a holiday at Hong Kong , the aircraft carriers Lexington and Bennington steamed off into the South China Sea , accompanied by a swarm of destroyers , plus troopships loaded with marines .",
+    "USAGE_2":" Let me abuse the playwright and dismiss the penultimate scene in a few sentences: After giving Emil full rights to a sculpture of Tasha and me, we had a good dinner of curried clam chowder, lobsters boiled on Terra and unstopped still steaming on N'Apulco, and cinnamon custard for desert.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"stiff",
+    "SENSE_KEY_1":"stiff%5:00:00:immobile:00",
+    "SENSE_KEY_2":"stiff%1:18:00::",
+    "USAGE_1":"His face was stiff with anger when they let go of his arms .",
+    "USAGE_2":"With my gray hair and my weatherbeaten countenance I certainly looked the honest working stiff .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"stimulate",
+    "SENSE_KEY_1":"stimulate%2:37:00::",
+    "SENSE_KEY_2":"stimulate%2:29:00::",
+    "USAGE_1":"The Prosecutor in his opening remarks did refer to `` the germ of anti-Semitism '' among the Germans which Hitler `` stimulated and transformed '' .",
+    "USAGE_2":"We will now speak of the ways in which it helped shape the ideals of the country and of the manner in which it stimulated efforts to attain those ideals through reform movements , through programs for bringing the collective life to the nation to conformity to Christian standards , and through leaders in the government .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"stimulation",
+    "SENSE_KEY_1":"stimulation%1:09:00::",
+    "SENSE_KEY_2":"stimulation%1:04:00::",
+    "USAGE_1":"By no means would we discourage the production of ideas : they provide raw materials with which to work ; they provide stimulations that lead to further production .",
+    "USAGE_2":"Moreover , the responsiveness of the hypothalamus to nociceptive stimulation is greatly increased under these conditions .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"stir",
+    "SENSE_KEY_1":"stir%2:38:01::",
+    "SENSE_KEY_2":"stir%2:38:00::",
+    "USAGE_1":"Within a few years the Scots , engaged in breaking the thick sod and stirring the rich soil of the valley , were joined by a group called Meurons .",
+    "USAGE_2":"Behind him , his mates stirred without waking .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"stone",
+    "SENSE_KEY_1":"stone%1:06:00::",
+    "SENSE_KEY_2":"stone%1:07:00::",
+    "USAGE_1":"He piled everything neatly in a corner of the cellar and turned to stare at the blank stone wall .",
+    "USAGE_2":" My fingers felt cold stone underneath them.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"store",
+    "SENSE_KEY_1":"store%2:40:00::",
+    "SENSE_KEY_2":"store%1:21:00::",
+    "USAGE_1":"A location in the computer store is also named for each marked form ; dictionary information about the form stored at this location can be retrieved directly by occurrences of the form in text .",
+    "USAGE_2":"Thus , the larvae of the intruder can develop at the expense of the rightful inhabitants and the store of beebread .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"stress",
+    "SENSE_KEY_1":"stress%1:26:02::",
+    "SENSE_KEY_2":"stress%1:10:01::",
+    "USAGE_1":"We have seen that the folksy spirit is confined to economic peers ; consequently , the vulnerability to social difference should not be attributed to the stress on personal community in Protestant congregations ; actually , there is little evidence of such personal community in Protestant congregations , as we shall see in another connection .",
+    "USAGE_2":"Dominant stress is of course more than extended duration , and normally centers on syllables that would have primary stress or phrase stress if the words or longer units they are parts of were spoken alone : a dominant stress given to glorify would normally center on its first syllable rather than its last .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"string",
+    "SENSE_KEY_1":"string%1:06:03::",
+    "SENSE_KEY_2":"string%1:14:00::",
+    "USAGE_1":"For a serious young man who plays golf with a serious intensity , Palmer has such an inherent sense of humor that it relieves the strain and keeps his nerves from jangling like banjo strings .",
+    "USAGE_2":" He obliged them in a string of high-profile commissions: magnificent mansions along Fifth Avenue, country houses on Long Island, and palatial ``cottages'' in Newport, Rhode Island.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"structure",
+    "SENSE_KEY_1":"structure%1:09:00::",
+    "SENSE_KEY_2":"structure%1:08:00::",
+    "USAGE_1":"The breakdown of classical structures of meaning in all realms of western culture has given rise to several generations of artists who have documented the disintegrative processes .",
+    "USAGE_2":"moreover , diffuses through structures in much the same manner as a gas .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"study",
+    "SENSE_KEY_1":"study%1:06:00::",
+    "SENSE_KEY_2":"study%2:31:04::",
+    "USAGE_1":"Arlen is one of the few ( possibly the only ) composer Mercer has been able to work with so closely , for they held their meetings in Arlen 's study .",
+    "USAGE_2":"`` How long did you study ?",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"successor",
+    "SENSE_KEY_1":"successor%1:18:01::",
+    "SENSE_KEY_2":"successor%1:09:00::",
+    "USAGE_1":"His successors have adopted the opposite alternative .",
+    "USAGE_2":"Marsden was manager of the company for ten years and manager of its successor company , the Colonial Light and Power Company , for one year .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"suffer",
+    "SENSE_KEY_1":"suffer%2:39:01::",
+    "SENSE_KEY_2":"suffer%2:30:00::",
+    "USAGE_1":"And now , in March , all Laos suffered a state of siege .",
+    "USAGE_2":"`` I am thoroughly convinced that most watercolors suffer because the artist expects nature will do his composing for him ; as a result , such pictures are only a literal translation of what the artist finds in the scene before him .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"sum",
+    "SENSE_KEY_1":"sum%1:09:01::",
+    "SENSE_KEY_2":"sum%1:06:00::",
+    "USAGE_1":"Determine the ratio that the amount being allotted is to the sum of the products for all the States .",
+    "USAGE_2":" Miles's book is riddled with many similar distortions, convenient omissions, and generalizations: ... Women have always commanded over half the sum total of human intelligence and creativity.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"support",
+    "SENSE_KEY_1":"support%2:40:00::",
+    "SENSE_KEY_2":"support%1:06:01::",
+    "USAGE_1":"These qualities endeared him to both the musicians and the social economic haute monde which supported the concert world of the post World War 1 , era .",
+    "USAGE_2":"Closer still , regular barricades of barbed wire hung on timber supports .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"take",
+    "SENSE_KEY_1":"take%2:41:04::",
+    "SENSE_KEY_2":"take%2:39:00::",
+    "USAGE_1":"I could tell you of plenty narrow escapes , but we take no notice of them now '' .",
+    "USAGE_2":"The industry may deliberately take a strike , not to put pressure on the union , but in order to `` educate '' the government and the customers of the industry .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"tear",
+    "SENSE_KEY_1":"tear%1:08:01::",
+    "SENSE_KEY_2":"tear%2:35:00::",
+    "USAGE_1":"When he turned into the highway that led to the outskirts of the city and then rose toward home , he had to pull over to the curb and wait for a few minutes , sucking in air and squinting and blinking his eyes to clear them of tears .",
+    "USAGE_2":"The colonel crouched tensely on one of the folding chairs , methodically tearing at his thumbnail .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"temple",
+    "SENSE_KEY_1":"temple%1:06:00::",
+    "SENSE_KEY_2":"temple%1:06:01::",
+    "USAGE_1":"It celebrates the unknown architect who designed the temple of Neptune at Paestum , next to the Parthenon the noblest example of Grecian classic style now in existence .",
+    "USAGE_2":" The headquarters of a company whose logo is a pair of mouse ears obviously demands a different decorum from a temple.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"ten",
+    "SENSE_KEY_1":"ten%5:00:00:cardinal:00",
+    "SENSE_KEY_2":"ten%1:23:00::",
+    "USAGE_1":"Being somewhat delicate in health , at the age of sixteen he was sent to Southern Europe , for which he at once developed a passion , so that he spent nearly all of the following ten years abroad , at first in Italy , then in Greece , Egypt , Asia Minor , and Palestine .",
+    "USAGE_2":"And in the morning when he woke up at ten the church bells were ringing .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"term",
+    "SENSE_KEY_1":"term%1:10:00::",
+    "SENSE_KEY_2":"term%2:32:00::",
+    "USAGE_1":"Helen Deutsch informed us ( The Psychology of Women , Vol. 2 , , 434 ) that in all cultures `` the term ' stepmother ' automatically evokes deprecatory implications '' , a conclusion accepted by many .",
+    "USAGE_2":"He has employed from his section rich immediate materials which in a loose sense can be termed Southern .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"theology",
+    "SENSE_KEY_1":"theology%1:09:00::",
+    "SENSE_KEY_2":"theology%1:09:01::",
+    "USAGE_1":"In the following year her father undertook to give a course in Hebrew theology to Johns Hopkins students , and this brought to the Szold house a group of bright young Jews who had come to Baltimore to study , and who enjoyed being fed and mothered by Mamma and entertained by Henrietta and Rachel , who played and sang for them in the upstairs sitting room on Sunday evenings .",
+    "USAGE_2":"The titles he could read easily through the criss-crossed wires : works on theology , astral physics , history , biology , political science .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"think",
+    "SENSE_KEY_1":"think%2:31:01::",
+    "SENSE_KEY_2":"think%2:31:00::",
+    "USAGE_1":"I think you made a dam good chouise to turn off as nise a feler as Alf dyer and let that orney thefin , drunkard , damed card playing Sun of a bich com to Sea you , the god damed theaf and lop yeard pigen tode helion , he is too orney for hel .",
+    "USAGE_2":"Assuredly in our political campaigns there is freedom to think , to examine any and all issues , and to speak without restraint .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"tip",
+    "SENSE_KEY_1":"tip%1:10:00::",
+    "SENSE_KEY_2":"tip%2:38:02::",
+    "USAGE_1":"Only an occasional tip turned out to be a phony , and , like the police , Casey had made a point of running down all such suggestions and he did not hesitate this time .",
+    "USAGE_2":"Mr. Jack cried when the brush tipped his hat down over his eyes .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"toilet",
+    "SENSE_KEY_1":"toilet%1:06:00::",
+    "SENSE_KEY_2":"toilet%1:06:01::",
+    "USAGE_1":"Back at the Factory-to-You with the other old maids , back there she was the youngest clerk and she was thirty-four , which made her young enough to resent the usual ideal working conditions , like the unventilated toilet with the door you had to hold shut while you sat down .",
+    "USAGE_2":"Provision for emergency toilet facilities and disposal of human wastes will be an unfamiliar problem .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"tool",
+    "SENSE_KEY_1":"tool%1:06:00::",
+    "SENSE_KEY_2":"tool%1:04:00::",
+    "USAGE_1":"He went down to Mills and Bradley 's Hardware Store and bought a full set of carpenter 's tools , including a rotary power saw and several other pieces of power machinery that Mr. Mills said were essential for babbiting and doweling , whatever they were .",
+    "USAGE_2":" Its awful waters were cluttered with the waste of humans -- broken pottery, discarded farming tools, ruined jewelry.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"trade",
+    "SENSE_KEY_1":"trade%2:40:01::",
+    "SENSE_KEY_2":"trade%1:04:03::",
+    "USAGE_1":"Accordingly , though the practice violated the no trading provision of the Selkirk charter which reserved all such activity in merchandise and furs to the Hudson's Bay Company , some settlers went into trade .",
+    "USAGE_2":" Williams shares, which were to be delisted from the New York Stock Exchange after the close of composite trading yesterday, closed at $23.25, off 12.5 cents.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"traditional",
+    "SENSE_KEY_1":"traditional%3:00:00::",
+    "SENSE_KEY_2":"traditional%5:00:00:orthodox:00",
+    "USAGE_1":"A traditional Lao explanation is that the moon was being swallowed by a toad , and the remedy was to make all possible noise , ideally with firearms .",
+    "USAGE_2":"With traditional nationalistic spirit , some Englishmen claim that English Catholicism is Catholicism at its best .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"transportation",
+    "SENSE_KEY_1":"transportation_system%1:06:00::",
+    "SENSE_KEY_2":"transportation%1:04:00::",
+    "USAGE_1":"If you provide inter plant transportation , can this be replaced by available public transportation ?",
+    "USAGE_2":"Check on the schools in the area , the quality of teaching , and the provision for transportation to and from them .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"trial",
+    "SENSE_KEY_1":"trial%1:09:00::",
+    "SENSE_KEY_2":"trial%1:04:00::",
+    "USAGE_1":"In spite of normal thyroid function tests , a trial of propylthiouracil , 400 mg. daily for one week , was given but served only to intensify muscle weakness .",
+    "USAGE_2":"\/written\/technical\/1468-6708-3-3.txt The problem Three published ( 1 2 3 ) and one recently presented ( 4 ) randomized placebo-controlled clinical trial have unequivocally demonstrated that 3-Hydroxy-3-methylgluatryl coenzyme A (HMG CoA) reductase inhibitors (statins) reduce the morbidity and mortality associated with coronary disease.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"trip",
+    "SENSE_KEY_1":"trip%1:04:00::",
+    "SENSE_KEY_2":"trip%2:38:00::",
+    "USAGE_1":"We had nearly decided that all the tales of Lao lethargy must be true , when we were invited to take a trip with the Prime Minister .",
+    "USAGE_2":" A cold thing with countless, writhing tentacles fell against me, thrashing as if in the throes of a drug overdose, tripping me and clutching at my limbs.",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"upset",
+    "SENSE_KEY_1":"upset%2:37:01::",
+    "SENSE_KEY_2":"upset%5:00:00:troubled:00",
+    "USAGE_1":"But Sojourner was not easily excited or upset and said quite calmly : `` Let 's go and see what it 's like '' .",
+    "USAGE_2":" So that it would be a fair statement that even though what you were reading in the newspapers got you upset, that you never personally attended one of the board meetings in that year? That's correct.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"value",
+    "SENSE_KEY_1":"value%1:07:00::",
+    "SENSE_KEY_2":"value%2:40:00::",
+    "USAGE_1":"But what a super Herculean task it is to winnow anything of value from the mud beplastered arguments used so freely , particularly since such common use is made of cliches and stereotypes , in themselves declarations of intellectual bankruptcy .",
+    "USAGE_2":" In contrast, Colombian indigenous groups are divided to the extent that linguistic diversity is not only valued, but serves to split the population, both between groups and within groups themselves.",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"venture",
+    "SENSE_KEY_1":"venture%1:04:00::",
+    "SENSE_KEY_2":"venture%2:41:01::",
+    "USAGE_1":"`` Where the Boys Are '' also has a juvenile bounce that makes for a refreshing venture in comedy .",
+    "USAGE_2":"In a daring stroke , the Senate ventured forth last week into the world of haute cuisine and hired a $ 10000 - per-year French-born maitre d ' hotel .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"view",
+    "SENSE_KEY_1":"view%1:15:00::",
+    "SENSE_KEY_2":"view%1:04:00::",
+    "USAGE_1":"The great , crushing ice masses coming into view made him sound like the voice of pure reason .",
+    "USAGE_2":"The front windows of the place were long and narrow , reaching nearly to the floor and affording an unusually good view of the interior .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"vocabulary",
+    "SENSE_KEY_1":"vocabulary%1:10:00::",
+    "SENSE_KEY_2":"vocabulary%1:09:00::",
+    "USAGE_1":"These differences in turn result from the fact that my Yokuts vocabularies were built up of terms selected mainly to insure unambiguity of English meaning between illiterate informants and myself , within a compact and uniform territorial area , but that Hoijer 's vocabulary is based on Swadesh 's second glottochronological list which aims at eliminating all items which might be culturally or geographically determined .",
+    "USAGE_2":"Adios '' , I said , exhausting my Spanish vocabulary on my host and exchanging one of a scarcely tapped store of smiles with my host 's daughters .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"warm_up",
+    "SENSE_KEY_1":"warm_up%2:30:01::",
+    "SENSE_KEY_2":"warm_up%2:41:00::",
+    "USAGE_1":"But he warmed up after a while .",
+    "USAGE_2":"He found the key to the Jeep , got it started and warmed it up for five minutes .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"wave",
+    "SENSE_KEY_1":"wave%1:11:01::",
+    "SENSE_KEY_2":"wave%1:11:02::",
+    "USAGE_1":"The ancient Greeks recorded several catastrophic inundations by huge waves .",
+    "USAGE_2":"And in a sudden wave of painful clarity , Alexander recognized a kinship with Spencer .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"west",
+    "SENSE_KEY_1":"west%3:00:00::",
+    "SENSE_KEY_2":"west%1:24:00::",
+    "USAGE_1":"North and south , east and west , back and forth he sailed in the land-locked bay , plowing furiously forward until land appeared , then turning to repeat the process , day after day , week after week .",
+    "USAGE_2":"They were west of the Sabine , but only God knew where .",
+    "LABEL":"positive"
+  },
+  {
+    "LEMMA":"western",
+    "SENSE_KEY_1":"western%3:00:01::",
+    "SENSE_KEY_2":"western%3:00:02::",
+    "USAGE_1":"Each time his objective had been the same - a direct water passage from Western Europe to the Far East .",
+    "USAGE_2":"Such payments shall be made to small domestic producers of zinc as long as the market price for prime western zinc at East Saint Louis , Illinois , as determined by the Secretary , is below 14 - 1 2 cents per pound , and such payments shall be 55 per centum of the difference between 14 - 1 2 cents per pound and the average market price for the month in which the sale occurred as determined by the Secretary .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"wild",
+    "SENSE_KEY_1":"wild%3:00:02::",
+    "SENSE_KEY_2":"wild%3:00:01::",
+    "USAGE_1":"And if by some wild chance Mahzeer was the man , he would n't dare try anything now - not after Docherty had looked in on the two of them to see that all was well .",
+    "USAGE_2":"The anaconda proves to be the fly in the ointment , but the reason for this is not clear ; the relatively wild conditions still found in tropical South America might be responsible .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"window",
+    "SENSE_KEY_1":"window%1:06:00::",
+    "SENSE_KEY_2":"window%1:06:02::",
+    "USAGE_1":"Much better to break a cellar window '' .",
+    "USAGE_2":"Yet the violent immediacy of the wallpaper strips pasted to the paper , and the only lesser immediacy of block capitals that simulate window lettering , manage somehow to push the grape cluster back into place on the picture plane so that it does not `` jump '' .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"words",
+    "SENSE_KEY_1":"words%1:10:03::",
+    "SENSE_KEY_2":"words%1:10:04::",
+    "USAGE_1":"Will his words come to be treasured and quoted through the years ?",
+    "USAGE_2":"`` You seem to have read so much , you have a natural gift for words '' , he added , trying to flatter her vanity .",
+    "LABEL":"negative"
+  },
+  {
+    "LEMMA":"work",
+    "SENSE_KEY_1":"work%2:41:04::",
+    "SENSE_KEY_2":"work%1:06:01::",
+    "USAGE_1":"Marlene ( surname : Adamo ) , 25 , a Brazilian divorcee who learned the dance from Arabic friends in Paris , now lives on Manhattan 's West Side , is about the best belly dancer working the casbah , loves it so much that she dances on her day off .",
+    "USAGE_2":" Yet, despite the large amount of publicity generated as ``organization man'' was shown to the door, a large proportion of people who participate in the work place, and even whole industries, never really played by the traditional rules anyway.",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"worship",
+    "SENSE_KEY_1":"worship%1:04:00::",
+    "SENSE_KEY_2":"worship%2:37:01::",
+    "USAGE_1":"The transmutation of mission to co-optation is further indicated by the insignificance of educational activities , worship , preaching , and publicity in reaching new members .",
+    "USAGE_2":"We trust you are not one of the 70000000 Americans who do not attend church , but who feel that various forms of recreation are more important than worshipping the God who made our country great .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"writer",
+    "SENSE_KEY_1":"writer%1:18:00::",
+    "SENSE_KEY_2":"writer%1:18:01::",
+    "USAGE_1":"During the nineteenth century these views were protested by virtually all the Latin American writers , though ineffectively , just as the new nations of Africa and Asia protest them , with more effect , today .",
+    "USAGE_2":"She was the widow of a writer who had died in an airplane crash , and Mickie had found her a job as head of the historical section of the Treasury .",
+    "LABEL":"unchanged"
+  },
+  {
+    "LEMMA":"yellow",
+    "SENSE_KEY_1":"yellow%1:07:00::",
+    "SENSE_KEY_2":"yellow%2:30:00::",
+    "USAGE_1":"Still Andrena will do a reasonably good job , so that an animal with a full pollen load looks like a gay little piece of yellow down floating in the wind .",
+    "USAGE_2":"He had seen a dry , old , yellowing hand reach out , with that painful solicitude , to touch , to rearrange , to shift aimlessly , some object worth a pfennig .",
+    "LABEL":"unchanged"
+  }
+]
