@@ -1,7 +1,6 @@
 {
   "onboarding": {
     "instructions": "You have entered a training phase to ensure that you are well-prepared for the main annotation task and will be consistent in your judgements. You will be given specific examples to learn how to accurately judge semantic changes of a word in its contexts. This initial training phase will help you understand key concepts and apply them accurately. If you do not pass this training round, you will be excluded from further tasks.\n\nYou are presented with two sentences that both contain a specific word. Your task is to analyze how this word is used in each sentence and determine if its usage in sentence 2 is more positive, negative, or neutral with respect to sentence 1. Please consider only the feeling of the word in your judgement, not the whole sentence.",
-    "labels": ["higher", "lower", "unchanged", "dunno"],
     "examples": [
       {
         "explanation": "Is the usage of 'victory' in sentence 2 more intense, less intense, or unchanged with respect to sentence 1?",
