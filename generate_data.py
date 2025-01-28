@@ -10,7 +10,7 @@ for pole in ["identity", "similarity", "intensity", "polarity"]:
             if label not in labels:
                 labels.append(label)
         for example in data:
-            example["OPTIONS"] = labels
+            example["OPTIONS"] = labels + ["dunno"]
             examples.append(example)
     with open(f"data/{pole}.onboarding.json") as fin:
         data = json.load(fin)

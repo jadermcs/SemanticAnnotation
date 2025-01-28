@@ -89,7 +89,6 @@ function getWid() {
 }
 
 function generate_ratings({ data, answer, setAnswer }) {
-  let ratings = ["changed", "unchanged", "dunno"];
   function handleRatingChange(item, index) {
     const newAnswer = [...answer];
     newAnswer[index] = item;
@@ -100,16 +99,16 @@ function generate_ratings({ data, answer, setAnswer }) {
       {data.map((item, index) => (
         <div key={index} className="box">
           <p className="is-4">
-            <b>Word:</b> {item.word}
+            <b>Word:</b> {item.LEMMA}
           </p>
-          <p className="is-4">1) {item.text1}</p>
-          <p className="is-4">2) {item.text2}</p>
+          <p className="is-4">1) {item.USAGE_1}</p>
+          <p className="is-4">2) {item.USAGE_2}</p>
           <div className="buttons">
-            {ratings.map((selectedRating, i) => (
-              <label key={item.word + i} className="radio">
+            {item.OPTIONS.map((selectedRating, i) => (
+              <label key={item.LEMMA + i} className="radio">
                 <input
                   type="radio"
-                  name={`rating_${item.word + i}`}
+                  name={`rating_${item.LEMMA + i}`}
                   checked={selectedRating === answer[index]}
                   onChange={() => handleRatingChange(selectedRating, index)}
                 />
@@ -196,14 +195,6 @@ function SimpleFrontend({
               </button>
             </div>
         ))}
-            <div className="control">
-              <button
-                className="button is-large is-dark"
-                onClick={() => handleSubmit("dunno")}
-              >
-                I don't know
-              </button>
-            </div>
           </div>
         </div>
       </section>
